@@ -1,1 +1,1 @@
-Sitemap: https://bonelab.github.io/bonelab-website/sitemap.xml
+Sitemap: http://bonelab.ca/sitemap.xml
