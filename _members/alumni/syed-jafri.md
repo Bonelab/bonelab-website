@@ -1,0 +1,12 @@
+---
+name: Syed Jafri
+image: images/headshots/SyedJafri.png
+description: Summer Student (UCalgary), 2017
+role: 
+affiliation: 
+group: alumni
+aliases: 
+links:
+---
+
+Syed was a Summer Student at the Bone Imaging Lab in 2017 from the University of Calgary. He also did a senior undergraduate honours project in the lab in 2019.

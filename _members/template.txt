@@ -1,0 +1,39 @@
+---
+name: Steven Boyd
+image: images/headshots/StevenBoyd.png
+description: Principal Investigator
+role: pi | faculty | staff | postdoc | phd | msc | undergrad | visiting
+affiliation: University of Calgary
+group: current | alumni
+aliases:
+  - S. Boyd
+  - S Boyd
+links:
+  home-page: https://bonelab.ucalgary.ca
+  orcid: 0000-0001-8713-9213
+  email: skboyd@ucalgary.ca
+  google-scholar: 
+  twitter: 
+  instagram: 
+  linkedin: shana-boyd-95969515
+  github: stevenkboyd
+  phone: 403.220.3188
+  pubmed: pubmed?term=burt%20la%5BAuthor%5D 
+education: 
+  - "PDF, Inst. for Biomedical Engineering, ETH & University Zürich (Switzerland)"
+  - "PhD in Mechanical Engineering (Biomechanics), University of Calgary (Calgary, AB, Canada)"
+  - "MSc in Mechanical Engineering (Biomechanics), University of Calgary (Calgary, AB, Canada)"
+  - "BEng in Mechanical Engineering, University of Victoria (Victoria, BC, Canada)"
+affiliations:
+  - Professor, Department of Radiology, Cumming School of Medicine
+  - Joint Appointment, Department of Biomedical Engineering, Schulich School of Engineering
+  - Joint Appointment, Department of Mechanical and Manufacturing Engineering, Schulich School of Engineering
+---
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
+Elit at imperdiet dui accumsan.
+Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
+Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
+Lacinia at quis risus sed vulputate odio ut.
+Magna eget est lorem ipsum.
