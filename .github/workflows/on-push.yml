@@ -1,10 +1,10 @@
 name: on-push
-run-name: on push to under-construction
+run-name: on push to main
 
 on:
   push:
     branches:
-      - under-construction
+      - main
 
   # run if user manually requests it
   workflow_dispatch:
