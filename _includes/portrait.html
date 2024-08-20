@@ -18,10 +18,11 @@
     data-style="{{ include.style }}"
     aria-label="{{ member.name | default: "member link" }}"
   >
+  <!-- UNCOMMENT THIS TO ADD THE Font Awesome ICONS
     {% if type %}
       {% include icon.html icon=type.icon %}
     {% endif %}
-
+  -->
     <img
       src="{{ member.image | relative_url }}"
       class="portrait-image"

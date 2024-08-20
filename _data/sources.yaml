@@ -1,23 +1,260 @@
-- id: doi:10.1371/journal.pcbi.1007128
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+#- id: doi:10.1371/journal.pcbi.1007128
+#  type: paper
+#  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#  date: 2020-12-4
+#  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+#  buttons:
+#    - type: manubot
+#      link: https://greenelab.github.io/meta-review/
+#    - type: source
+#      text: Manuscript Source
+#      link: https://github.com/greenelab/meta-review
+#    - type: website
+#      link: http://manubot.org/
+#  tags:
+#    - open science
+#    - collaboration
+#  repo: greenelab/meta-review
+#
+#- id: doi:10.1016/j.csbj.2020.05.017
+#  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+#
+#- id: doi:10.7554/eLife.32822
+#  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+
+# Highlighted
+- id: doi:10.1136/bjsports-2020-103602
+  image: /images/journal/effect_of_high_dose.png
   buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
-  tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
+      - type: altmetric
+        link: https://nature.altmetric.com/details/130469176
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+- id: doi:10.1001/jama.2019.11889
+  image: /images/journal/preflight_exercise.png
+  buttons:
+      - type: altmetric
+        link: https://www.altmetric.com/details/65516542
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+# Main list (August 14, 2024)
+#   Many of these are duplicates found via ORCID, but the merging process
+#   ensures we don't report the same reference twice. Plus, we can find a 
+#   few citations that aren't found using ORCID (including arxiv and pmid).
+- id: arxiv:2111.01350
+- id: arxiv:2110.13354
+- id: arxiv:2012.10483
+- id: pmid:23331665
+- id: doi:10.1016/j.jocd.2024.101504
+- id: doi:10.1093/jbmr/zjae033
+- id: doi:10.1016/j.compbiomed.2024.108791
+- id: doi:10.1016/j.bone.2024.117144
+- id: doi:10.1016/j.medengphy.2024.104109
+- id: doi:10.1016/j.rcl.2024.02.010
+- id: doi:10.1007/s00223-023-01120-0
+- id: doi:10.1002/jbmr.4808
+- id: doi:10.1002/mp.16482
+- id: doi:10.3389/fendo.2023.1144137
+- id: doi:10.1038/s41598-022-27350-0
+- id: doi:10.3390/life13112183
+- id: doi:10.1002/jbmr.4758
+- id: doi:10.1002/jbmr.4811
+- id: doi:10.1007/s00198-022-06652-z
+- id: doi:10.1002/jbmr.4876
+- id: doi:10.1016/j.jocd.2023.101462
+- id: doi:10.3390/diagnostics13152572
+- id: doi:10.1002/jbmr.4494
+- id: doi:10.1002/jbmr.4663
+- id: doi:10.1371/journal.pone.0273203
+- id: doi:10.1016/j.ostima.2022.100068
+- id: doi:10.1016/j.cmpb.2022.107051
+- id: doi:10.1016/j.bone.2022.116517
+- id: doi:10.1016/j.bone.2021.116260
+- id: doi:10.1038/s41598-022-13461-1
+- id: doi:10.1136/bjsports-2020-103602
+- id: doi:10.1007/s00256-022-04023-7
+- id: doi:10.1016/j.jmbbm.2022.105091
+- id: doi:10.1016/j.jsams.2021.09.001
+- id: doi:10.1002/jbm4.10615
+- id: doi:10.1002/jbmr.4657
+- id: doi:10.1016/j.bone.2020.115785
+- id: doi:10.1210/clinem/dgab506
+- id: doi:10.1038/s41586-020-03180-w
+- id: doi:10.1016/j.bonr.2021.100748
+- id: doi:10.1016/j.jocd.2020.12.003
+- id: doi:10.1007/s00223-021-00857-w
+- id: doi:10.1007/s00198-021-05896-5
+- id: doi:10.1007/s00198-021-05863-0
+- id: doi:10.1002/jbm4.10485
+- id: doi:10.1007/s10439-021-02789-w
+- id: doi:10.1002/cnm.3515
+- id: doi:10.1016/j.jocd.2021.01.004
+- id: doi:10.1016/j.jocd.2020.11.001
+- id: doi:10.1002/mp.14791
+- id: doi:10.1007/s00223-020-00767-3
+- id: doi:10.1002/jbmr.4251
+- id: doi:10.1002/jbmr.4190
+- id: doi:10.1016/j.media.2020.101887
+- id: doi:10.1177/0363546520985279
+- id: doi:10.1080/03008207.2020.1813121
+- id: doi:10.1007/s00198-019-05214-0
+- id: doi:10.1002/jbmr.4114
+- id: doi:10.1007/s00198-020-05438-5
+- id: doi:10.21037/qims.2019.12.11
+- id: doi:10.1016/j.ymgmr.2020.100606
+- id: doi:10.1186/s13023-020-01521-6
+- id: doi:10.1007/s11657-020-00822-4
+- id: doi:10.1016/j.medengphy.2020.01.009
+- id: doi:10.1007/s00198-020-05449-2
+- id: doi:10.1001/jama.2019.18153
+- id: doi:10.1016/j.bone.2020.115778
+- id: doi:10.1007/s00223-019-00638-6
+- id: doi:10.1109/TMI.2019.2963446
+- id: doi:10.3390/nu12020527
+- id: doi:10.1002/jbmr.4152
+- id: doi:10.1016/j.jbspin.2020.07.014
+- id: doi:10.1210/clinem/dgz212
+- id: doi:10.1007/s00198-020-05500-2
+- id: doi:10.1016/j.jocd.2018.11.005
+- id: doi:10.1016/S2213-8587(18)30308-5
+- id: doi:10.1371/journal.pone.0215018
+- id: doi:10.1038/s41526-019-0066-3
+- id: doi:10.1016/j.jocd.2018.07.002
+- id: doi:10.3899/jrheum.180870
+- id: doi:10.1016/j.jocd.2018.04.002
+- id: doi:10.1002/jor.24410
+- id: doi:10.1088/2057-1976/ab2c70
+- id: doi:10.1001/jama.2019.11889
+- id: doi:10.1002/jor.24378
+- id: doi:10.1016/j.jbiomech.2018.08.030
+- id: doi:10.1002/jbmr.3240
+- id: doi:10.1186/s12880-018-0255-7
+- id: doi:10.1016/j.jocd.2017.05.006
+- id: doi:10.1002/jbmr.3472
+- id: doi:10.1016/j.knee.2018.07.004
+- id: doi:10.1016/j.bone.2018.03.006
+- id: doi:10.1002/jbmr.3347
+- id: doi:10.1016/j.cct.2018.02.009
+- id: doi:10.1016/j.joca.2018.04.006
+- id: doi:10.1016/j.bone.2018.09.009
+- id: doi:10.1016/j.jmbbm.2016.10.005
+- id: doi:10.1186/s12891-017-1790-z
+- id: doi:10.1002/jbmr.3036
+- id: doi:10.1016/j.jocd.2017.09.001
+- id: doi:10.1002/jbmr.3128
+- id: doi:10.1002/jbmr.2931
+- id: doi:10.1016/j.bone.2016.12.015
+- id: doi:10.1016/j.jbiomech.2017.05.011
+- id: doi:10.1002/jbmr.3200
+- id: doi:10.1002/jbmr.3129
+- id: doi:10.1007/s00198-016-3900-4
+- id: doi:10.1007/s00198-016-3705-5
+- id: doi:10.1016/j.bone.2016.11.018
+- id: doi:10.3899/jrheum.160649
+- id: doi:10.1016/j.joca.2016.05.013
+- id: doi:10.1007/s00223-015-0064-8
+- id: doi:10.1016/j.jocd.2015.02.005
+- id: doi:10.1016/j.msec.2016.07.020
+- id: doi:10.1016/j.medengphy.2016.08.010
+- id: doi:10.1016/j.jshs.2015.01.007
+- id: doi:10.1002/jbmr.2873
+- id: doi:10.1016/j.jot.2015.07.003
+- id: doi:10.1016/j.spinee.2015.06.059
+- id: doi:10.1016/j.jmbbm.2014.12.018
+- id: doi:10.1002/jbmr.2358
+- id: doi:10.1016/j.bone.2015.06.006
+- id: doi:10.1007/s00198-015-3133-y
+- id: doi:10.1007/s00198-014-2995-8
+- id: doi:10.1182/blood-2014-10-602060
+- id: doi:10.1007/8904_2015_407
+- id: doi:10.1016/j.bone.2014.11.023
+- id: doi:10.1007/s00198-015-3110-5
+- id: doi:10.1016/j.bone.2014.04.019
+- id: doi:10.1016/j.jbiomech.2014.06.024
+- id: doi:10.1007/s00198-013-2459-6
+- id: doi:10.1016/j.jot.2014.07.004
+- id: doi:10.1016/j.jbiomech.2014.06.040
+- id: doi:10.1002/ajpa.22533
+- id: doi:10.1016/j.jbiomech.2014.08.020
+- id: doi:10.1007/s11657-014-0183-2
+- id: doi:10.1016/j.bone.2013.06.022
+- id: doi:10.3727/096368912X658755
+- id: doi:10.1002/jmri.23876
+- id: doi:10.1080/10255842.2011.648625
+- id: doi:10.1016/j.bone.2013.06.014
+- id: doi:10.1007/s00198-012-2160-1
+- id: doi:10.1016/j.jbiomech.2013.02.025
+- id: doi:10.1007/8904_2012_146
+- id: doi:Doi 10.1111/Ede.12025
+- id: doi:10.1007/s11914-013-0140-9
+- id: doi:10.1002/jbmr.1795
+- id: doi:10.1016/j.medengphy.2013.05.016
+- id: doi:10.1016/j.medengphy.2013.04.003
+- id: doi:10.1016/j.bone.2012.03.003
+- id: doi:10.1002/jbmr.552
+- id: doi:10.1371/journal.pone.0036486
+- id: doi:10.1155/2012/294965
+- id: doi:10.1371/journal.pone.0041685
+- id: doi:10.1016/j.jmbbm.2011.12.009
+- id: doi:10.1002/jbmr.476
+- id: doi:10.1016/j.bone.2010.12.005
+- id: doi:10.1249/MSS.0b013e31821f8634
+- id: doi:10.1088/0031-9155/56/20/001
+- id: doi:10.1016/j.bone.2011.02.022
+- id: doi:10.1111/j.1651-2227.2010.01995.x
+- id: doi:10.1016/j.jbiomech.2010.11.011
+- id: doi:10.1002/jbmr.171
+- id: doi:10.1007/s00198-010-1226-1
+- id: doi:10.1007/s00198-010-1283-5
+- id: doi:10.1016/j.bone.2011.04.008
+- id: doi:10.1016/j.bone.2011.01.004
+- id: doi:10.1136/bjsports-2011-090054
+- id: doi:10.1002/jbmr.81
+- id: doi:10.1359/jbmr.091020
+- id: doi:10.1016/j.bone.2009.09.023
+- id: doi:DOI 10.1007/s12018-009-9066-2
+- id: doi:10.1016/j.bone.2009.10.016
+- id: doi:10.1007/s00223-010-9428-2
+- id: doi:10.1017/S0007114509993084
+- id: doi:10.1016/j.bone.2010.04.587
+- id: doi:10.1007/s11999-009-0948-x
+- id: doi:10.1016/j.bone.2010.05.034
+- id: doi:10.1249/MSS.0b013e3181dd25d4
+- id: doi:10.1002/jbmr.141
+- id: doi:10.1007/s00586-009-0910-3
+- id: doi:10.1371/journal.pone.0005620
+- id: doi:10.1016/j.bone.2008.06.008
+- id: doi:10.1016/j.jbiomech.2008.07.036
+- id: doi:10.1111/j.1469-7580.2007.00845.x
+- id: doi:10.1016/j.clinbiomech.2007.10.015
+- id: doi:10.1016/j.medengphy.2007.11.003
+- id: doi:10.1016/j.bone.2008.01.017
+- id: doi:10.1109/TBME.2008.923106
+- id: doi:10.1016/j.medengphy.2007.11.004
+- id: doi:10.1007/s00223-008-9150-5
+- id: doi:10.1016/j.jbiomech.2007.07.018
+- id: doi:10.1007/s00198-008-0581-7
+- id: doi:10.1359/jbmr.080808
+- id: doi:10.1016/j.jocd.2007.12.013
+- id: doi:10.1016/j.medengphy.2006.06.010
+- id: doi:10.1002/dvg.20294
+- id: doi:10.1016/j.bone.2006.10.003
+- id: doi:10.1016/j.medengphy.2006.11.002
+- id: doi:10.1016/j.bone.2007.02.029
+- id: doi:10.1016/j.bone.2007.08.019
+- id: doi:10.1359/jbmr.070420
+- id: doi:10.1016/j.bone.2007.07.007
+- id: doi:10.1016/j.jbiomech.2005.03.006
+- id: doi:10.1007/s10439-006-9168-7
+- id: doi:10.1016/j.bone.2006.04.017
+- id: doi:10.1016/j.joca.2004.11.004
+- id: doi:10.1080/10255840410001656408
+- id: doi:10.1114/1.1535414
+- id: doi:10.1007/s11914-003-0003-x
+- id: doi:10.1359/jbmr.2002.17.4.687
+- id: doi:10.1152/jappl.2001.90.3.1083
+- id: doi:10.1016/s1350-4533(01)00062-5
+- id: doi:10.1016/s1440-2440(00)80040-7
+- id: doi:10.1016/s0268-0033(00)00023-1
+- id: doi:10.1152/jappl.2000.89.6.2359
+- id: doi:10.1115/1.2835104
+- id: doi:10.1115/1.2835083
+- id: doi:10.1016/s0021-9290(97)00135-8

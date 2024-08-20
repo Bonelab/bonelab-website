@@ -17,7 +17,49 @@ layout: default
 
 {% include section.html %}
 
-{{ content }}
+<!-- Description -->
+<div>
+  <h3>Project Description</h3>
+  {{ content }}
+</div>
+
+<!-- Scope -->
+{% if page.scope %}
+<div>
+  <h3>Scope</h3>
+  <ul>
+      {% for constraints in page.scope %}
+      <li>{{ constraints }}</li>
+      {% endfor %}
+  </ul>
+</div>
+{% endif %}
+
+<!-- datasource -->
+{% if page.datasources %}
+<div>
+  <h3>Data Source</h3>
+  <ul>
+      {% for datatype in page.datasources %}
+      <li>{{ datatype }}</li>
+      {% endfor %}
+  </ul>
+</div>
+{% endif %}
+
+<!-- Resources -->
+{% if page.resources %}
+<div>
+  <h3>Resources</h3>
+  <ul>
+      {% for resource in page.resources %}
+      <li>{{ resource }}</li>
+      {% endfor %}
+  </ul>
+</div>
+{% endif %}
+
+
 
 {% include section.html %}
 

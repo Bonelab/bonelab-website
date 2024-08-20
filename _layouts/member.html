@@ -14,11 +14,53 @@ layout: default
   {% endfor %}
 </div>
 
+<!-- Ensures white space below portrait to avoid -->
+{% include section.html %}
+{% include section.html %}
+{% include section.html %}
+{% include section.html %}
+{% include section.html %}
+{% include section.html %}
+{% include section.html %}
+{% include section.html %}
+{% include section.html %}
+{% include section.html %}
+
 {% endcapture %}
 
 {% include float.html content=floatcontent %}
 
-{{ content }}
+<!-- Affiliations -->
+{% if page.affiliations %}
+<div>
+  <h3>Affiliations</h3>
+  <ul>
+      {% for affiliation in page.affiliations %}
+      <li>{{ affiliation }}</li>
+      {% endfor %}
+  </ul>
+</div>
+{% endif %}
+
+<!-- Education -->
+{% if page.education %}
+<div>
+  <h3>Education</h3>
+  <ul>
+      {% for education in page.education %}
+      <li>{{ education }}</li>
+      {% endfor %}
+  </ul>
+</div>
+{% endif %}
+
+<!-- Bio -->
+<div>
+  <h3>Biography</h3>
+  {{ content }}
+</div>
+
+<!--
 
 {% assign aliases = page.aliases
   | default: page.name
@@ -27,7 +69,9 @@ layout: default
   | split: ","
   | array_filter
 %}
+-->
 
+<!--
 {% capture search -%}
   research/?search={% for alias in aliases %}"{{ alias }}" {% endfor %}
 {%- endcapture %}
@@ -42,7 +86,6 @@ layout: default
   blog/?search={{ page.name }}
 {%- endcapture %}
 
-<!--
 <p class="center">
   <a href="{{ search | relative_url }}">
     See {{ page.name | default: page.title }}'s posts on the Blog page

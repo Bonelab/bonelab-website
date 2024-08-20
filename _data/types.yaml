@@ -3,28 +3,36 @@
 # team member roles
 
 pi:
-  icon: fa-solid fa-microscope
+  icon: fa-solid fa-cog fa-spin
   description: Principal Investigator
 
+faculty:
+  icon: fa-solid fa-star
+  description: Faculty
+
+staff:
+  icon: fa-solid fa-camera-retro
+  description: Staff
+
 postdoc:
-  icon: fa-solid fa-glasses
+  icon: fa-solid fa-code
   description: Postdoctoral Researcher
 
 phd:
-  icon: fa-solid fa-graduation-cap
+  icon: fa-solid fa-user-graduate
   description: PhD Student
+
+msc:
+  icon: fa-solid fa-user-graduate
+  description: MSc Student
 
 undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
 
-programmer:
-  icon: fa-solid fa-code
-  description: Programmer
-
-mascot:
-  icon: fa-solid fa-dog
-  description: Mascot
+visiting:
+  icon: fa-solid fa-user-graduate
+  description: Visiting Student
 
 # general
 
@@ -70,6 +78,11 @@ search:
   text: Search
   tooltip: Search
 
+altmetric:
+  icon: fa-solid fa-globe
+  text: Altmetric
+  tooltip: Altmetric
+
 # social media
 
 orcid:
@@ -77,6 +90,12 @@ orcid:
   text: ORCID
   tooltip: ORCID
   link: https://orcid.org/$VALUE
+
+pubmed:
+  icon: fa-brands fa-orcid
+  text: PubMed
+  tooltip: PubMed
+  link: http://www.ncbi.nlm.nih.gov/$VALUE
 
 google-scholar:
   icon: fa-brands fa-google
@@ -124,7 +143,7 @@ linkedin:
 
 tip:
   icon: fa-solid fa-lightbulb
-  color: "#d946ef"
+  color: "#ffcd00"
 
 help:
   icon: fa-solid fa-circle-question

@@ -1,247 +1,3942 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1016/j.jocd.2024.101504
+  title: Accuracy of Volumetric Bone Mineral Density Measurement in Weight Bearing,
+    Cone Beam Computed Tomography
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
-  authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
-  authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
-  authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
-  authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
-  authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
+  - Tadiwa H. Waungana
+  - Keven Qiu
+  - Justin J. Tse
+  - Donald D. Anderson
+  - Carolyn A. Emery
+  - Steven K. Boyd
+  - Sarah L. Manske
+  publisher: Journal of Clinical Densitometry
+  date: '2024-07-01'
+  link: https://doi.org/gt5tks
+  orcid: 0000-0002-2930-5997
   plugin: sources.py
   file: sources.yaml
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+- id: doi:10.1093/jbmr/zjad002
+  title: "Letter to the Editor regarding \u201COpportunistic screening with CT: comparison\
+    \ of phantomless BMD calibration methods\u201D"
+  authors:
+  - Steven K Boyd
+  - Sarah L Manske
+  - Bryn Matheson
+  - Ainsley Smith
+  - Kirsten Bott
+  publisher: Journal of Bone and Mineral Research
+  date: '2024-01-01'
+  link: https://doi.org/gt5tkt
+  orcid: 0000-0002-2930-5997
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/jbmr/zjad015
+  title: "Rapid bone microarchitecture decline in older men with high bone turnover\u2014\
+    the prospective STRAMBO study"
+  authors:
+  - Pawel Szulc
+  - Danielle E Whittier
+  - Steven K Boyd
+  - Roland Chapurlat
+  publisher: Journal of Bone and Mineral Research
+  date: '2024-01-01'
+  link: https://doi.org/gt5tkv
+  orcid: 0000-0002-2930-5997
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/jbmr/zjae033
+  title: "Fracture risk based on high-resolution peripheral quantitative computed\
+    \ tomography measures does not vary with age in older adults\u2014the bone microarchitecture\
+    \ international consortium prospective cohort study"
+  authors:
+  - Pawel Szulc
+  - Alyssa B Dufour
+  - Marian T Hannan
+  - Douglas P Kiel
+  - Roland Chapurlat
+  - Elisabeth Sornay-Rendu
+  - Blandine Merle
+  - Steven K Boyd
+  - Danielle E Whittier
+  - David A Hanley
+  - David Goltzman
+  - Andy Kin On Wong
+  - Eric Lespessailles
+  - Sundeep Khosla
+  - Serge Ferrari
+  - Emmanuel Biver
+  - Mary L Bouxsein
+  - Elizabeth J Samelson
+  publisher: Journal of Bone and Mineral Research
+  date: '2024-03-03'
+  link: https://doi.org/gt5tkw
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/jbmr/zjae039
+  title: "Transferability of bone phenotyping and fracture risk assessment by \u03BC\
+    FRAC from first-generation high-resolution peripheral quantitative computed tomography\
+    \ to second-generation scan data"
+  authors:
+  - Annabel R Bugbird
+  - Danielle E Whittier
+  - Steven K Boyd
+  publisher: Journal of Bone and Mineral Research
+  date: '2024-03-04'
+  link: https://doi.org/gt5tkx
+  orcid: 0000-0002-2930-5997
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.medengphy.2024.104109
+  title: Establishing error bounds for internal calibration of quantitative computed
+    tomography
+  authors:
+  - Bryn E. Matheson
+  - Nathan J. Neeteson
+  - Steven K. Boyd
+  publisher: Medical Engineering &amp; Physics
+  date: '2024-02-01'
+  link: https://doi.org/gt5tkz
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jocd.2023.101462
+  title: Fixed and Relative Positioning of Scans for High Resolution Peripheral Quantitative
+    Computed Tomography
+  authors:
+  - Annabel R. Bugbird
+  - Rachel E. Klassen
+  - Olivia L. Bruce
+  - Lauren A. Burt
+  - W. Brent Edwards
+  - Steven K. Boyd
+  publisher: Journal of Clinical Densitometry
+  date: '2024-01-01'
+  link: https://doi.org/gt5tk2
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3390/life13112183
+  title: Predicting Bone Adaptation in Astronauts during and after Spaceflight
+  authors:
+  - Tannis D. Kemp
+  - Bryce A. Besler
+  - Leigh Gabel
+  - Steven K. Boyd
+  publisher: Life
+  date: '2023-11-09'
+  link: https://doi.org/gt5tk3
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/jbmr.4876
+  title: 'Measurements of the Vitamin D Metabolome in the Calgary Vitamin D Study:
+    Relationship of Vitamin D Metabolites to Bone Loss'
+  authors:
+  - Lauren A. Burt
+  - Martin Kaufmann
+  - Marianne S. Rose
+  - Glenville Jones
+  - Emma O. Billington
+  - Steven K. Boyd
+  - David A. Hanley
+  publisher: Journal of Bone and Mineral Research
+  date: '2023-07-17'
+  link: https://doi.org/gt5tk4
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00223-023-01120-0
+  title: 'Comparison of Bone Quality Among Winter Endurance Athletes with and Without
+    Risk Factors for Relative Energy Deficiency in Sport (REDs): A Cross-Sectional
+    Study'
+  authors:
+  - Paige M. Wyatt
+  - Kelly Drager
+  - Erik M. Groves
+  - Trent Stellingwerff
+  - Emma O. Billington
+  - Steven K. Boyd
+  - Lauren A. Burt
+  publisher: Calcified Tissue International
+  date: '2023-08-14'
+  link: https://doi.org/gt5tk5
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/jbmr.4758
+  title: Twelve Months of Denosumab and/or Alendronate Is Associated With Improved
+    Bone Fatigue Life, Microarchitecture, and Density in Ovariectomized Cynomolgus
+    Monkeys
+  authors:
+  - Ifaz T. Haider
+  - Lindsay L. Loundagin
+  - Andrew Sawatsky
+  - Paul J. Kostenuik
+  - Steven K. Boyd
+  - W. Brent Edwards
+  publisher: Journal of Bone and Mineral Research
+  date: '2023-01-04'
+  link: https://doi.org/gt5tk6
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/jbm4.10615
+  title: "Response to High\u2010Dose Vitamin D Supplementation Is Specific to Imaging\
+    \ Modality and Skeletal Site"
+  authors:
+  - Lauren A Burt
+  - Leigh Gabel
+  - Emma O Billington
+  - David A Hanley
+  - Steven K Boyd
+  publisher: JBMR Plus
+  date: '2022-03-08'
+  link: https://doi.org/gt5tk7
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jmbbm.2022.105091
+  title: Independent changes in bone mineralized and marrow soft tissues following
+    acute knee injury require dual-energy or high-resolution computed tomography for
+    accurate assessment of bone mineral density and stiffness
+  authors:
+  - Chantal M.J. de Bakker
+  - Nikolas K. Knowles
+  - Richard E.A. Walker
+  - Sarah L. Manske
+  - Steven K. Boyd
+  publisher: Journal of the Mechanical Behavior of Biomedical Materials
+  date: '2022-03-01'
+  link: https://doi.org/gt5tk8
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1136/bjsports-2020-103602
+  title: Pre-flight exercise and bone metabolism predict unloading-induced bone loss
+    due to spaceflight
+  authors:
+  - Leigh Gabel
+  - Anna-Maria Liphardt
+  - Paul A Hulme
+  - Martina Heer
+  - Sara R Zwart
+  - Jean D Sibonga
+  - Scott M Smith
+  - Steven K Boyd
+  publisher: British Journal of Sports Medicine
+  date: '2021-02-17'
+  link: https://doi.org/gnspsq
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/journal/effect_of_high_dose.png
   buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
+  - type: altmetric
+    link: https://nature.altmetric.com/details/130469176
+- id: doi:10.1007/s00198-021-05896-5
+  title: Using 3D image registration to maximize the reproducibility of longitudinal
+    bone strength assessment by HR-pQCT and finite element analysis
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
-  authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  - R. M. Plett
+  - T. D. Kemp
+  - L. A. Burt
+  - E. O. Billington
+  - D. A. Hanley
+  - S. K. Boyd
+  publisher: Osteoporosis International
+  date: '2021-02-24'
+  link: https://doi.org/gh49m4
+  orcid: 0000-0002-2930-5997
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+- id: doi:10.1007/s00198-021-05863-0
+  title: Opportunistic CT screening predicts individuals at risk of major osteoporotic
+    fracture
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  - A.S. Michalski
+  - B.A. Besler
+  - L.A. Burt
+  - S.K. Boyd
+  publisher: Osteoporosis International
+  date: '2021-02-10'
+  link: https://doi.org/grgj9s
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/jbm4.10485
+  title: 'Higher Hand Grip Strength Is Associated With Greater Radius Bone Size and
+    Strength in Older Men and Women: The Framingham Osteoporosis Study'
+  authors:
+  - Robert R. McLean
+  - Elizabeth J. Samelson
+  - Amanda L. Lorbergs
+  - Kerry E. Broe
+  - Marian T. Hannan
+  - Steven K. Boyd
+  - Mary L. Bouxsein
+  - Douglas P. Kiel
+  publisher: JBMR Plus
+  date: '2021-03-30'
+  link: https://doi.org/gt5tk9
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00223-020-00767-3
+  title: "Parity, Breastfeeding, and Osteoporosis\u2014Authors\u2019 Response"
+  authors:
+  - Chantal M. J. de Bakker
+  - Lauren A. Burt
+  - Leigh Gabel
+  - David A. Hanley
+  - Steven K. Boyd
+  publisher: Calcified Tissue International
+  date: '2020-10-14'
+  link: https://doi.org/gt5tmb
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.media.2020.101887
+  title: 'Bone and joint enhancement filtering: Application to proximal femur segmentation
+    from uncalibrated computed tomography datasets'
+  authors:
+  - Bryce A. Besler
+  - Andrew S. Michalski
+  - Michael T. Kuczynski
+  - Aleena Abid
+  - Nils D. Forkert
+  - Steven K. Boyd
+  publisher: Medical Image Analysis
+  date: '2021-01-01'
+  link: https://doi.org/gjj4p4
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/jbmr.4152
+  title: Adverse Effects of High-Dose Vitamin D Supplementation on Volumetric Bone
+    Density Are Greater in Females than Males
+  authors:
+  - Lauren A Burt
+  - Emma O Billington
+  - Marianne S Rose
+  - Richard Kremer
+  - David A Hanley
+  - Steven K Boyd
+  publisher: Journal of Bone and Mineral Research
+  date: '2020-08-10'
+  link: https://doi.org/gt5tmc
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/jbmr.4657
+  title: 'Association of Vitamin D and Parathyroid Hormone Status With the Aging-Related
+    Decline of Bone Microarchitecture in Older Men: The Prospective Structure of Aging
+    Men''s Bones (STRAMBO) Study'
+  authors:
+  - Audrey Bobillier
+  - Philippe Wagner
+  - Danielle E. Whittier
+  - "Ren\xE9 Ecochard"
+  - Steven K. Boyd
+  - Roland Chapurlat
+  - Pawel Szulc
+  publisher: Journal of Bone and Mineral Research
+  date: '2020-12-01'
+  link: https://doi.org/gt5tmd
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/jbmr.4663
+  title: Hip Fractures in Older Adults Are Associated With the Low Density Bone Phenotype
+    and Heterogeneous Deterioration of Bone Microarchitecture
+  authors:
+  - Danielle E Whittier
+  - Sarah L Manske
+  - Emma Billington
+  - Richard EA Walker
+  - Prism S Schneider
+  - Lauren A Burt
+  - David A Hanley
+  - Steven K Boyd
+  publisher: Journal of Bone and Mineral Research
+  date: '2020-12-01'
+  link: https://doi.org/gt5tmf
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/jbmr.4811
+  title: "Rapid Cortical Bone Loss at the Distal Radius Is Associated With Higher\
+    \ Risk of Fracture in Older Men\u2009\u2013\u2009The STRAMBO Study"
+  authors:
+  - Elina Gunsing
+  - Philippe P. Wagner
+  - Danielle E. Whittier
+  - Steven K. Boyd
+  - Roland Chapurlat
+  - Pawel Szulc
+  publisher: Journal of Bone and Mineral Research
+  date: '2020-12-01'
+  link: https://doi.org/gt5tmg
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/jbmr.4251
+  title: 'Reply to Burt LA, et al.: Adverse Effects of High-Dose Vitamin D Supplementation
+    on Volumetric Bone Density Are Greater in Females Than Males'
+  authors:
+  - Lauren A Burt
+  - Emma O Billington
+  - Marianne S Rose
+  - Richard Kremer
+  - David A Hanley
+  - Steven K Boyd
+  publisher: Journal of Bone and Mineral Research
+  date: '2020-12-01'
+  link: https://doi.org/gt5tmh
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/jbmr.4190
+  title: Reply to Effects of High-Dose Vitamin D Supplementation on Bone Fragility
+  authors:
+  - Lauren A Burt
+  - Emma O Billington
+  - Marianne S Rose
+  - Richard Kremer
+  - David A Hanley
+  - Steven K Boyd
+  publisher: Journal of Bone and Mineral Research
+  date: '2020-10-23'
+  link: https://doi.org/gt5tmj
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/jbmr.4247
+  title: 'Reply to Vitamin D Supplements: Is Bone Loss by HR-pQCT Really Negative?'
+  authors:
+  - Lauren A Burt
+  - Emma O Billington
+  - Marianne S Rose
+  - Richard Kremer
+  - David A Hanley
+  - Steven K Boyd
+  publisher: Journal of Bone and Mineral Research
+  date: '2020-12-01'
+  link: https://doi.org/gt5tmk
+  orcid: 0000-0002-2930-5997
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/jbmr.4114
+  title: Sex- and Site-Specific Reference Data for Bone Microarchitecture in Adults
+    Measured Using Second-Generation HR-pQCT
+  authors:
+  - Danielle E Whittier
+  - Lauren A Burt
+  - David A Hanley
+  - Steven K Boyd
+  publisher: Journal of Bone and Mineral Research
+  date: '2020-06-17'
+  link: https://doi.org/gt5tmm
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00198-020-05449-2
+  title: Longitudinal bone microarchitectural changes are best detected using image
+    registration
+  authors:
+  - T.D. Kemp
+  - C.M.J. de Bakker
+  - L. Gabel
+  - D.A. Hanley
+  - E.O. Billington
+  - L.A. Burt
+  - S.K. Boyd
+  publisher: Osteoporosis International
+  date: '2020-05-19'
+  link: https://doi.org/gt5tmn
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00223-019-00638-6
+  title: Associations Between Breastfeeding History and Early Postmenopausal Bone
+    Loss
+  authors:
+  - Chantal M. J. de Bakker
+  - Lauren A. Burt
+  - Leigh Gabel
+  - David A. Hanley
+  - Steven K. Boyd
+  publisher: Calcified Tissue International
+  date: '2019-11-30'
+  link: https://doi.org/gt5tmp
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00198-019-05214-0
+  title: 'Optimizing HR-pQCT workflow: a comparison of bias and precision error for
+    quantitative bone analysis'
+  authors:
+  - D.E. Whittier
+  - A.N. Mudryk
+  - I.D. Vandergaag
+  - L.A. Burt
+  - S.K. Boyd
+  publisher: Osteoporosis International
+  date: '2019-11-29'
+  link: https://doi.org/gt5tmq
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jbspin.2020.07.014
+  title: 'Bone changes in early inflammatory arthritis assessed with High-Resolution
+    peripheral Quantitative Computed Tomography (HR-pQCT): A 12-month cohort study'
+  authors:
+  - Scott Cameron Brunet
+  - Stephanie Finzel
+  - Klaus Engelke
+  - Steven Kyle Boyd
+  - Cheryl Barnabe
+  - Sarah Lynn Manske
+  publisher: Joint Bone Spine
+  date: '2021-01-01'
+  link: https://doi.org/gt5tmr
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.medengphy.2020.01.009
+  title: CT-based internal density calibration for opportunistic skeletal assessment
+    using abdominal CT scans
+  authors:
+  - Andrew S. Michalski
+  - Bryce A. Besler
+  - Geoffrey J. Michalak
+  - Steven K. Boyd
+  publisher: Medical Engineering &amp; Physics
+  date: '2020-04-01'
+  link: https://doi.org/gt5tms
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.21037/qims.2019.12.11
+  title: Consensus approach for 3D joint space width of metacarpophalangeal joints
+    of rheumatoid arthritis patients using high-resolution peripheral quantitative
+    computed tomography
+  authors:
+  - Kathryn S. Stok
+  - Andrew J. Burghardt
+  - Stephanie Boutroy
+  - Michiel P. H. Peters
+  - Sarah L. Manske
+  - Vincent Stadelmann
+  - Nicolas Vilayphiou
+  - Joop P. van den Bergh
+  - Piet Geusens
+  - Xiaojuan Li
+  - Hubert Marotte
+  - Bert van Rietbergen
+  - Steven K. Boyd
+  - Cheryl Barnabe
+  publisher: Quantitative Imaging in Medicine and Surgery
+  date: '2020-02-01'
+  link: https://doi.org/gt5tmt
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1080/03008207.2020.1813121
+  title: Contrast-enhanced x-ray microscopy of articular cartilage
+  authors:
+  - Ying Zhu
+  - Dragana Ponjevic
+  - John R. Matyas
+  - Steven K. Boyd
+  publisher: Connective Tissue Research
+  date: '2020-09-14'
+  link: https://doi.org/gt5tmv
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s11657-020-00822-4
+  title: 'Differences in fracture prevalence and in bone mineral density between Chinese
+    and White Canadians: the Canadian Multicentre Osteoporosis Study (CaMos)'
+  authors:
+  - S. N. Morin
+  - C. Berger
+  - W. Liu
+  - J. C. Prior
+  - A. M. Cheung
+  - D. A. Hanley
+  - S. K. Boyd
+  - A. K. O. Wong
+  - A. Papaioannou
+  - E. Rahme
+  - D. Goltzman
+  publisher: Archives of Osteoporosis
+  date: '2020-09-21'
+  link: https://doi.org/grscwz
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00198-020-05500-2
+  title: 'Effect of high-dose vitamin D supplementation on peripheral arterial calcification:
+    secondary analysis of a randomized controlled trial'
+  authors:
+  - E. O. Billington
+  - L. A. Burt
+  - R. Plett
+  - M. S. Rose
+  - S.K. Boyd
+  - D. A. Hanley
+  publisher: Osteoporosis International
+  date: '2020-06-15'
+  link: https://doi.org/gs9b35
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00198-020-05438-5
+  title: Guidelines for the assessment of bone density and microarchitecture in vivo
+    using high-resolution peripheral quantitative computed tomography
+  authors:
+  - D.E. Whittier
+  - S.K. Boyd
+  - A.J. Burghardt
+  - J. Paccou
+  - A. Ghasem-Zadeh
+  - R. Chapurlat
+  - K. Engelke
+  - M.L. Bouxsein
+  publisher: Osteoporosis International
+  date: '2020-05-26'
+  link: https://doi.org/gt5tmw
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1001/jama.2019.18153
+  title: "High-Dose Vitamin D Supplementation and Bone Health\u2014Reply"
+  authors:
+  - David A. Hanley
+  - Lauren A. Burt
+  - Steven K. Boyd
+  publisher: JAMA
+  date: '2020-01-07'
+  link: https://doi.org/gt5tmx
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.ymgmr.2020.100606
+  title: Impact on bone microarchitecture and failure load in a patient with type
+    I Gaucher disease who switched from Imiglucerase to Eliglustat
+  authors:
+  - Karamjot Sidhu
+  - Steven K. Boyd
+  - Aneal Khan
+  publisher: Molecular Genetics and Metabolism Reports
+  date: '2020-09-01'
+  link: https://doi.org/gt5tmz
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3390/nu12020527
+  title: 'Postural Balance Effects Associated with 400, 4000 or 10,000 IU Vitamin
+    D3 Daily for Three Years: A Secondary Analysis of a Randomized Clinical Trial'
+  authors:
+  - Lauren A. Burt
+  - Leigh Gabel
+  - Emma O. Billington
+  - David A. Hanley
+  - Steven K. Boyd
+  publisher: Nutrients
+  date: '2020-02-19'
+  link: https://doi.org/grxnwg
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TMI.2019.2963446
+  title: Robust Self-Supervised Learning of Deterministic Errors in Single-Plane (Monoplanar)
+    and Dual-Plane (Biplanar) X-Ray Fluoroscopy
+  authors:
+  - Jacky C. K. Chow
+  - Steven K. Boyd
+  - Derek D. Lichti
+  - Janet L. Ronsky
+  publisher: IEEE Transactions on Medical Imaging
+  date: '2020-06-01'
+  link: https://doi.org/gt5tm2
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1210/clinem/dgz212
+  title: 'Safety of High-Dose Vitamin D Supplementation: Secondary Analysis of a Randomized
+    Controlled Trial'
+  authors:
+  - Emma O Billington
+  - Lauren A Burt
+  - Marianne S Rose
+  - Erin M Davison
+  - Sharon Gaudet
+  - Michelle Kan
+  - Steven K Boyd
+  - David A Hanley
+  publisher: The Journal of Clinical Endocrinology &amp; Metabolism
+  date: '2019-11-20'
+  link: https://doi.org/gt5tm3
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s13023-020-01521-6
+  title: 'Spectrum of microarchitectural bone disease in inborn errors of metabolism:
+    a cross-sectional, observational study'
+  authors:
+  - Karamjot Sidhu
+  - Bilal Ali
+  - Lauren A. Burt
+  - Steven K. Boyd
+  - Aneal Khan
+  publisher: Orphanet Journal of Rare Diseases
+  date: '2020-09-16'
+  link: https://doi.org/gt5tm4
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3899/jrheum.180870
+  title: 'The SPECTRA Collaboration OMERACT Working Group: Construct Validity of Joint
+    Space Outcomes with High-resolution Peripheral Quantitative Computed Tomography'
+  authors:
+  - Sarah L. Manske
+  - Scott C. Brunet
+  - Stephanie Finzel
+  - Kathryn S. Stok
+  - Philip G. Conaghan
+  - Steven K. Boyd
+  - Cheryl Barnabe
+  publisher: The Journal of Rheumatology
+  date: '2019-01-15'
+  link: https://doi.org/ggn6xg
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/jor.24378
+  title: "Absence of Proteoglycan 4 (<i>Prg4</i>) Leads to Increased Subchondral Bone\
+    \ Porosity Which Can Be Mitigated Through Intra\u2010Articular Injection of PRG4"
+  authors:
+  - Saleem Abubacker
+  - Priyatha Premnath
+  - Anchita Shonak
+  - Catherine Leonard
+  - Sophia Shah
+  - Ying Zhu
+  - Gregory D. Jay
+  - Tannin A. Schmidt
+  - Steven Boyd
+  - Roman Krawetz
+  publisher: Journal of Orthopaedic Research
+  date: '2019-06-26'
+  link: https://doi.org/gpvjs3
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1371/journal.pone.0215018
+  title: Absence of p21(WAF1/CIP1/SDI1) protects against osteopenia and minimizes
+    bone loss after ovariectomy in a mouse model
+  authors:
+  - Priyatha Premnath
+  - Leah Ferrie
+  - Dante Louie
+  - Steven Boyd
+  - Roman Krawetz
+  publisher: PLOS ONE
+  date: '2019-04-10'
+  link: https://doi.org/gt5tm5
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1088/2057-1976/ab2c70
+  title: "Assessment of the elastic properties of human vertebral trabecular bone\
+    \ using computational mechanical tests and x-ray microtomography\u2014a subvolume\
+    \ analysis"
+  authors:
+  - A M H Silva
+  - S K Boyd
+  - S L Manske
+  - J M Alves
+  - J de Carvalho
+  publisher: Biomedical Physics &amp; Engineering Express
+  date: '2019-07-11'
+  link: https://doi.org/gt5tm6
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-3-030-11166-3_6
+  title: Bone Adaptation as Level Set Motion
+  authors:
+  - Bryce A. Besler
+  - Leigh Gabel
+  - Lauren A. Burt
+  - Nils D. Forkert
+  - Steven K. Boyd
+  publisher: Computational Methods and Clinical Applications in Musculoskeletal Imaging
+  date: '2019-01-01'
+  link: https://doi.org/gt5tm7
+  orcid: 0000-0002-2930-5997
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jocd.2018.07.002
+  title: Concurrent Assessment of Cartilage Morphology and Bone Microarchitecture
+    in the Human Knee Using Contrast-Enhanced HR-pQCT Imaging
+  authors:
+  - Geoffrey J. Michalak
+  - Richard Walker
+  - Steven K. Boyd
+  publisher: Journal of Clinical Densitometry
+  date: '2019-01-01'
+  link: https://doi.org/gt5tm8
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/S2213-8587(18)30308-5
+  title: 'Cortical and trabecular bone microarchitecture as an independent predictor
+    of incident fracture risk in older women and men in the Bone Microarchitecture
+    International Consortium (BoMIC): a prospective study'
+  authors:
+  - Elizabeth J Samelson
+  - Kerry E Broe
+  - Hanfei Xu
+  - Laiji Yang
+  - Steven Boyd
+  - Emmanuel Biver
+  - Pawel Szulc
+  - Jonathan Adachi
+  - Shreyasee Amin
+  - Elizabeth Atkinson
+  - Claudie Berger
+  - Lauren Burt
+  - Roland Chapurlat
+  - Thierry Chevalley
+  - Serge Ferrari
+  - David Goltzman
+  - David A Hanley
+  - Marian T Hannan
+  - Sundeep Khosla
+  - Ching-Ti Liu
+  - Mattias Lorentzon
+  - Dan Mellstrom
+  - Blandine Merle
+  - Maria Nethander
+  - "Ren\xE9 Rizzoli"
+  - Elisabeth Sornay-Rendu
+  - Bert Van Rietbergen
+  - Daniel Sundh
+  - Andy Kin On Wong
+  - Claes Ohlsson
+  - Serkalem Demissie
+  - Douglas P Kiel
+  - Mary L Bouxsein
+  publisher: The Lancet Diabetes &amp; Endocrinology
+  date: '2019-01-01'
+  link: https://doi.org/gh5nts
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1001/jama.2019.11889
+  title: Effect of High-Dose Vitamin D Supplementation on Volumetric Bone Density
+    and Bone Strength
+  authors:
+  - Lauren A. Burt
+  - Emma O. Billington
+  - Marianne S. Rose
+  - Duncan A. Raymond
+  - David A. Hanley
+  - Steven K. Boyd
+  publisher: JAMA
+  date: '2019-08-27'
+  link: https://doi.org/gf7t3f
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/journal/preflight_exercise.png
+  buttons:
+  - type: altmetric
+    link: https://www.altmetric.com/details/65516542
+- id: doi:10.1038/s41526-019-0066-3
+  title: Hip load capacity cut-points for Astronaut Skeletal Health NASA Finite Element
+    Strength Task Group Recommendations
+  authors:
+  - Andrew S. Michalski
+  - Shreyasee Amin
+  - Angela M. Cheung
+  - Dianna D. Cody
+  - Joyce H. Keyak
+  - Thomas F. Lang
+  - Daniel P. Nicolella
+  - Eric S. Orwoll
+  - Steven K. Boyd
+  - Jean D. Sibonga
+  publisher: npj Microgravity
+  date: '2019-03-14'
+  link: https://doi.org/gt5tm9
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/jor.24410
+  title: "Longitudinal Effects of Acute Anterior Cruciate Ligament Tears on Peri\u2010\
+    Articular Bone in Human Knees Within the First Year of Injury"
+  authors:
+  - Andres Kroker
+  - Bryce A. Besler
+  - Jennifer L. Bhatla
+  - Mariya Shtil
+  - Peter Salat
+  - Nicholas Mohtadi
+  - Richard E. Walker
+  - Sarah L. Manske
+  - Steven K. Boyd
+  publisher: Journal of Orthopaedic Research
+  date: '2019-07-23'
+  link: https://doi.org/gt5tnb
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/B978-0-12-814841-9.00079-8
+  title: Microimaging
+  authors:
+  - Steven Boyd
+  - "Ralph M\xFCller"
+  publisher: Principles of Bone Biology
+  date: '2020-01-01'
+  link: https://doi.org/gt5tnc
+  orcid: 0000-0002-2930-5997
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jocd.2018.11.005
+  title: The Correction of Systematic Error due to Plaster and Fiberglass Casts on
+    HR-pQCT Bone Parameters Measured In Vivo at the Distal Radius
+  authors:
+  - Danielle E. Whittier
+  - Sarah L. Manske
+  - Steven K. Boyd
+  - Prism S. Schneider
+  publisher: Journal of Clinical Densitometry
+  date: '2019-07-01'
+  link: https://doi.org/gt5tnd
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jocd.2017.09.001
+  title: The Influence of Reconstruction Kernel on Bone Mineral and Strength Estimates
+    Using Quantitative Computed Tomography and Finite Element Analysis
+  authors:
+  - Andrew S. Michalski
+  - W. Brent Edwards
+  - Steven K. Boyd
+  publisher: Journal of Clinical Densitometry
+  date: '2019-04-01'
+  link: https://doi.org/gt5tnf
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jocd.2018.04.002
+  title: Trabecular Bone Score at the Distal Femur and Proximal Tibia in Individuals
+    With Spinal Cord Injury
+  authors:
+  - Stacey Lobos
+  - Anne Cooke
+  - Gillian Simonett
+  - Chester Ho
+  - Steven K. Boyd
+  - W. Brent Edwards
+  publisher: Journal of Clinical Densitometry
+  date: '2019-04-01'
+  link: https://doi.org/gjhxxw
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/jbmr.3240
+  title: 'Diabetes and Deficits in Cortical Bone Density, Microarchitecture, and Bone
+    Size: Framingham HR-pQCT Study'
+  authors:
+  - Elizabeth J Samelson
+  - Serkalem Demissie
+  - L Adrienne Cupples
+  - Xiaochun Zhang
+  - Hanfei Xu
+  - Ching-Ti Liu
+  - Steven K Boyd
+  - Robert R McLean
+  - Kerry E Broe
+  - Douglas P Kiel
+  - Mary L Bouxsein
+  publisher: Journal of Bone and Mineral Research
+  date: '2017-09-20'
+  link: https://doi.org/gt5tng
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.knee.2018.07.004
+  title: A study of the relationship between meniscal injury and bone microarchitecture
+    in ACL reconstructed knees
+  authors:
+  - Andres Kroker
+  - Sarah L. Manske
+  - Nicholas Mohtadi
+  - Steven K. Boyd
+  publisher: The Knee
+  date: '2018-10-01'
+  link: https://doi.org/gt5tnh
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s12880-018-0255-7
+  title: An automated algorithm for the detection of cortical interruptions and its
+    underlying loss of trabecular bone; a reproducibility study
+  authors:
+  - M. Peters
+  - J. de Jong
+  - A. Scharmga
+  - A. van Tubergen
+  - P. Geusens
+  - D. Loeffen
+  - R. Weijers
+  - S. K. Boyd
+  - C. Barnabe
+  - K. S. Stok
+  - B. van Rietbergen
+  - J. van den Bergh
+  publisher: BMC Medical Imaging
+  date: '2018-05-15'
+  link: https://doi.org/gnvqwp
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jocd.2017.05.006
+  title: 'Assessment of Bone Mineral Density at the Distal Femur and the Proximal
+    Tibia by Dual-Energy X-ray Absorptiometry in Individuals With Spinal Cord Injury:
+    Precision of Protocol and Relation to Injury Duration'
+  authors:
+  - Stacey Lobos
+  - Anne Cooke
+  - Gillian Simonett
+  - Chester Ho
+  - Steven K. Boyd
+  - W. Brent Edwards
+  publisher: Journal of Clinical Densitometry
+  date: '2018-07-01'
+  link: https://doi.org/gdz8z6
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-3-319-74113-0_11
+  title: Automatic Full Femur Segmentation from Computed Tomography Datasets Using
+    an Atlas-Based Approach
+  authors:
+  - Bryce A. Besler
+  - Andrew S. Michalski
+  - Nils D. Forkert
+  - Steven K. Boyd
+  publisher: Computational Methods and Clinical Applications in Musculoskeletal Imaging
+  date: '2018-01-01'
+  link: https://doi.org/gt5tnj
+  orcid: 0000-0002-2930-5997
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1117/12.2293197
+  title: Contrast-enhanced x-ray microscopy of bovine articular cartilage
+  authors:
+  - Ying Zhu
+  - Dragana Ponjevic
+  - John R. Matyas
+  - Steven K. Boyd
+  publisher: 'Medical Imaging 2018: Physics of Medical Imaging'
+  date: '2018-03-09'
+  link: https://doi.org/gt5tnk
+  orcid: 0000-0002-2930-5997
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.joca.2018.04.006
+  title: Differences in subchondral bone plate and cartilage thickness between women
+    with anterior cruciate ligament reconstructions and uninjured controls
+  authors:
+  - J.L. Bhatla
+  - A. Kroker
+  - S.L. Manske
+  - C.A. Emery
+  - S.K. Boyd
+  publisher: Osteoarthritis and Cartilage
+  date: '2018-07-01'
+  link: https://doi.org/gdtxz4
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jbiomech.2018.08.030
+  title: Harmonizing finite element modelling for non-invasive strength estimation
+    by high-resolution peripheral quantitative computed tomography
+  authors:
+  - Danielle E. Whittier
+  - Sarah L. Manske
+  - Douglas P. Kiel
+  - Mary Bouxsein
+  - Steven K. Boyd
+  publisher: Journal of Biomechanics
+  date: '2018-10-01'
+  link: https://doi.org/gfmrhx
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/jbmr.3472
+  title: 'Long-Term and Recent Weight Change Are Associated With Reduced Peripheral
+    Bone Density, Deficits in Bone Microarchitecture, and Decreased Bone Strength:
+    The Framingham Osteoporosis Study'
+  authors:
+  - Ching-Ti Liu
+  - Shivani Sahni
+  - Hanfei Xu
+  - Robert R McLean
+  - Kerry E Broe
+  - Marian T Hannan
+  - Steven K Boyd
+  - Mary L Bouxsein
+  - Douglas P Kiel
+  - Elizabeth J Samelson
+  publisher: Journal of Bone and Mineral Research
+  date: '2018-05-29'
+  link: https://doi.org/gsv7sc
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/jbmr.3347
+  title: 'Lower Bone Density, Impaired Microarchitecture, and Strength Predict Future
+    Fragility Fracture in Postmenopausal Women: 5-Year Follow-up of the Calgary CaMos
+    Cohort'
+  authors:
+  - Lauren A Burt
+  - Sarah L Manske
+  - David A Hanley
+  - Steven K Boyd
+  publisher: Journal of Bone and Mineral Research
+  date: '2018-01-24'
+  link: https://doi.org/gdfsv7
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.cct.2018.02.009
+  title: 'Methods and procedures for: A randomized double-blind study investigating
+    dose-dependent longitudinal effects of vitamin D supplementation on bone health'
+  authors:
+  - Lauren A. Burt
+  - Sharon Gaudet
+  - Michelle Kan
+  - Marianne S. Rose
+  - Emma O. Billington
+  - Steven K. Boyd
+  - David A. Hanley
+  publisher: Contemporary Clinical Trials
+  date: '2018-04-01'
+  link: https://doi.org/gdhw3w
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.bone.2018.03.006
+  title: 'Subchondral bone microarchitecture in ACL reconstructed knees of young women:
+    A comparison with contralateral and uninjured control knees'
+  authors:
+  - Andres Kroker
+  - Jennifer L. Bhatla
+  - Carolyn A. Emery
+  - Sarah L. Manske
+  - Steven K. Boyd
+  publisher: Bone
+  date: '2018-06-01'
+  link: https://doi.org/gdn7qw
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.bone.2018.09.009
+  title: The relationship between estimated bone strength by finite element analysis
+    at the peripheral skeleton to areal BMD and trabecular bone score at lumbar spine
+  authors:
+  - Jackeline C. Alvarenga
+  - Steven K. Boyd
+  - Rosa M.R. Pereira
+  publisher: Bone
+  date: '2018-12-01'
+  link: https://doi.org/gfngvj
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/jbmr.3129
+  title: Cross-sectional Versus Longitudinal Change in a Prospective HR-pQCT Study
+  authors:
+  - Lauren A Burt
+  - David A Hanley
+  - Steven K Boyd
+  publisher: Journal of Bone and Mineral Research
+  date: '2017-03-15'
+  link: https://doi.org/gbkp84
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/jbmr.3128
+  title: The Estimation of Second-Generation HR-pQCT From First-Generation HR-pQCT
+    Using In Vivo Cross-Calibration
+  authors:
+  - Sarah L Manske
+  - Erin M Davison
+  - Lauren A Burt
+  - Duncan A Raymond
+  - Steven K Boyd
+  publisher: Journal of Bone and Mineral Research
+  date: '2017-03-15'
+  link: https://doi.org/gbknk3
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/jbmr.3200
+  title: "Bone Strength Estimated by Micro-Finite Element Analysis (\xB5FEA) Is Heritable\
+    \ and Shares Genetic Predisposition With Areal BMD: The Framingham Study"
+  authors:
+  - David Karasik
+  - Serkalem Demissie
+  - Darlene Lu
+  - Kerry E Broe
+  - Steven K Boyd
+  - Ching-Ti Liu
+  - Yi-Hsiang Hsu
+  - Mary L Bouxsein
+  - Douglas P Kiel
+  publisher: Journal of Bone and Mineral Research
+  date: '2017-07-19'
+  link: https://doi.org/gcq46w
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00198-016-3900-4
+  title: Cortical porosity exhibits accelerated rate of change in peri- compared with
+    post-menopausal women
+  authors:
+  - L. A. Burt
+  - J. L. Bhatla
+  - D. A. Hanley
+  - S. K. Boyd
+  publisher: Osteoporosis International
+  date: '2017-01-10'
+  link: https://doi.org/f92862
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.bone.2016.11.018
+  title: Cranio-caudal asymmetries in trabecular architecture reflect vertebral fracture
+    patterns
+  authors:
+  - Ge Yang
+  - "Michele C. Batti\xE9"
+  - Steven K. Boyd
+  - Tapio Videman
+  - Yue Wang
+  publisher: Bone
+  date: '2017-02-01'
+  link: https://doi.org/f9nbt2
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jbiomech.2017.05.011
+  title: Distal skeletal tibia assessed by HR-pQCT is highly correlated with femoral
+    and lumbar vertebra failure loads
+  authors:
+  - Andres Kroker
+  - Ryan Plett
+  - Kyle K. Nishiyama
+  - David D. McErlain
+  - Clara Sandino
+  - Steven K. Boyd
+  publisher: Journal of Biomechanics
+  date: '2017-07-01'
+  link: https://doi.org/gbp72z
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1201/9781351228343
+  title: Medical Image Analysis and Informatics
+  authors: []
+  publisher: CRC Press
+  date: '2017-11-23'
+  link: https://doi.org/gt5tnm
+  orcid: 0000-0002-2930-5997
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jmbbm.2016.10.005
+  title: 'Mechanical stimuli of trabecular bone in osteoporosis: A numerical simulation
+    by finite element analysis of microarchitecture'
+  authors:
+  - Clara Sandino
+  - David D. McErlain
+  - John Schipilow
+  - Steven K. Boyd
+  publisher: Journal of the Mechanical Behavior of Biomedical Materials
+  date: '2017-02-01'
+  link: https://doi.org/gt5tnn
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00198-016-3705-5
+  title: Operator variability in scan positioning is a major component of HR-pQCT
+    precision error and is reduced by standardized training
+  authors:
+  - S. Bonaretti
+  - N. Vilayphiou
+  - C. M. Chan
+  - A. Yu
+  - K. Nishiyama
+  - D. Liu
+  - S. Boutroy
+  - A. Ghasem-Zadeh
+  - S. K. Boyd
+  - R. Chapurlat
+  - H. McKay
+  - E. Shane
+  - M. L. Bouxsein
+  - D. M. Black
+  - S. Majumdar
+  - E. S. Orwoll
+  - T. F. Lang
+  - S. Khosla
+  - A. J. Burghardt
+  publisher: Osteoporosis International
+  date: '2016-07-30'
+  link: https://doi.org/f9k8xq
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s12891-017-1790-z
+  title: "p21\u2212/\u2212 mice exhibit enhanced bone regeneration after injury"
+  authors:
+  - Priyatha Premnath
+  - Britta Jorgenson
+  - Ricarda Hess
+  - Pankaj Tailor
+  - Dante Louie
+  - Jaymi Taiani
+  - Steven Boyd
+  - Roman Krawetz
+  publisher: BMC Musculoskeletal Disorders
+  date: '2017-11-09'
+  link: https://doi.org/gt5tnp
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.bone.2016.12.015
+  title: Quantitative in vivo assessment of bone microarchitecture in the human knee
+    using HR-pQCT
+  authors:
+  - Andres Kroker
+  - Ying Zhu
+  - Sarah L. Manske
+  - Rhamona Barber
+  - Nicholas Mohtadi
+  - Steven K. Boyd
+  publisher: Bone
+  date: '2017-04-01'
+  link: https://doi.org/f938h7
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/jbmr.3036
+  title: Romosozumab Improves Bone Mass and Strength While Maintaining Bone Quality
+    in Ovariectomized Cynomolgus Monkeys
+  authors:
+  - Michael S Ominsky
+  - Steven K Boyd
+  - Aurore Varela
+  - Jacquelin Jolette
+  - Melanie Felx
+  - Nancy Doyle
+  - Nacera Mellal
+  - Susan Y Smith
+  - Kathrin Locher
+  - Sabina Buntich
+  - Ian Pyrah
+  - Rogely W Boyce
+  publisher: Journal of Bone and Mineral Research
+  date: '2016-11-10'
+  link: https://doi.org/f9g25x
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3899/jrheum.161197
+  title: 'The SPECTRA Collaboration OMERACT Special Interest Group: Current Research
+    and Future Directions'
+  authors:
+  - Kathryn S. Stok
+  - Stephanie Finzel
+  - Andrew J. Burghardt
+  - Philip G. Conaghan
+  - Cheryl Barnabe
+  publisher: The Journal of Rheumatology
+  date: '2017-08-01'
+  link: https://doi.org/ggn6xc
+  orcid: 0000-0002-2930-5997
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/jbmr.2931
+  title: Visceral Adipose Tissue Is Associated With Bone Microarchitecture in the
+    Framingham Osteoporosis Study
+  authors:
+  - Ching-Ti Liu
+  - Kerry E Broe
+  - Yanhua Zhou
+  - Steven K Boyd
+  - L Adrienne Cupples
+  - Marian T Hannan
+  - Elise Lim
+  - Robert R McLean
+  - Elizabeth J Samelson
+  - Mary L Bouxsein
+  - Douglas P Kiel
+  publisher: Journal of Bone and Mineral Research
+  date: '2017-12-01'
+  link: https://doi.org/f9kbxs
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jocd.2015.02.005
+  title: 'Bilateral Asymmetry of Radius and Tibia Bone Macroarchitecture and Microarchitecture:
+    A High-Resolution Peripheral Quantitative Computed Tomography Study'
+  authors:
+  - Erin M. Hildebrandt
+  - Sarah L. Manske
+  - David A. Hanley
+  - Steven K. Boyd
+  publisher: Journal of Clinical Densitometry
+  date: '2016-04-01'
+  link: https://doi.org/f8n3kg
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jshs.2015.01.007
+  title: Competitive trampolining influences trabecular bone structure, bone size,
+    and bone strength
+  authors:
+  - Lauren A. Burt
+  - John D. Schipilow
+  - Steven K. Boyd
+  publisher: Journal of Sport and Health Science
+  date: '2016-12-01'
+  link: https://doi.org/f9pbqw
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3899/jrheum.160649
+  title: Determining Metacarpophalangeal Flexion Angle Tolerance for Reliable Volumetric
+    Joint Space Measurements by High-resolution Peripheral Quantitative Computed Tomography
+  authors:
+  - Stephanie Tom
+  - Mark Frayne
+  - Sarah L. Manske
+  - Andrew J. Burghardt
+  - Kathryn S. Stok
+  - Steven K. Boyd
+  - Cheryl Barnabe
+  publisher: The Journal of Rheumatology
+  date: '2016-10-01'
+  link: https://doi.org/f9gnjv
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.msec.2016.07.020
+  title: 'Evaluation of bone loss in antibacterial coated dental implants: An experimental
+    study in dogs'
+  authors:
+  - Maria Godoy-Gallardo
+  - "Maria Cristina Manzanares-C\xE9spedes"
+  - Pablo Sevilla
+  - "Jos\xE9 Nart"
+  - Norberto Manzanares
+  - "Jos\xE9 M. Manero"
+  - Francisco Javier Gil
+  - Steven K. Boyd
+  - "Daniel Rodr\xEDguez"
+  publisher: 'Materials Science and Engineering: C'
+  date: '2016-12-01'
+  link: https://doi.org/f85hdk
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00223-015-0064-8
+  title: 'Impact of Growth Hormone on Adult Bone Quality in Turner Syndrome: A HR-pQCT
+    Study'
+  authors:
+  - Munier A. Nour
+  - Lauren A. Burt
+  - Rebecca J. Perry
+  - David K. Stephure
+  - David A. Hanley
+  - Steven K. Boyd
+  publisher: Calcified Tissue International
+  date: '2015-10-06'
+  link: https://doi.org/f77nnq
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.joca.2016.05.013
+  title: "Integrin \u03B11\u03B21 protects against signs of post-traumatic osteoarthritis\
+    \ in the female murine knee partially via regulation of epidermal growth factor\
+    \ receptor signalling"
+  authors:
+  - S.Y. Shin
+  - A. Pozzi
+  - S.K. Boyd
+  - A.L. Clark
+  publisher: Osteoarthritis and Cartilage
+  date: '2016-10-01'
+  link: https://doi.org/f85r53
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.medengphy.2016.08.010
+  title: Morphology based anisotropic finite element models of the proximal femur
+    validated with experimental data
+  authors:
+  - W.S. Enns-Bray
+  - O. Ariza
+  - S. Gilchrist
+  - R.P. Widmer Soyka
+  - P.J. Vogt
+  - H. Palsson
+  - S.K. Boyd
+  - P. Guy
+  - P.A. Cripton
+  - S.J. Ferguson
+  - B. Helgason
+  publisher: Medical Engineering &amp; Physics
+  date: '2016-11-01'
+  link: https://doi.org/f9bh74
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/jbmr.2873
+  title: Sex- and Site-Specific Normative Data Curves for HR-pQCT
+  authors:
+  - Lauren A Burt
+  - Zhiying Liang
+  - Tolulope T Sajobi
+  - David A Hanley
+  - Steven K Boyd
+  publisher: Journal of Bone and Mineral Research
+  date: '2016-05-18'
+  link: https://doi.org/f9f5vq
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.bone.2014.11.023
+  title: A comparison of methods for in vivo assessment of cortical porosity in the
+    human appendicular skeleton
+  authors:
+  - Britta L. Jorgenson
+  - Helen R. Buie
+  - David D. McErlain
+  - Clara Sandino
+  - Steven K. Boyd
+  publisher: Bone
+  date: '2015-04-01'
+  link: https://doi.org/f64djc
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00198-015-3133-y
+  title: Bone micro-architecture of elite alpine skiers is not reflected by bone mineral
+    density
+  authors:
+  - A.-M. Liphardt
+  - J. D. Schipilow
+  - H. M. Macdonald
+  - M. Kan
+  - A. Zieger
+  - S. K. Boyd
+  publisher: Osteoporosis International
+  date: '2015-04-25'
+  link: https://doi.org/f7nff2
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00198-014-2995-8
+  title: "Bone quality in osteopenic postmenopausal women is not improved after 12\_\
+    months of whole-body vibration training"
+  authors:
+  - A. M. Liphardt
+  - J. Schipilow
+  - D. A. Hanley
+  - S. K. Boyd
+  publisher: Osteoporosis International
+  date: '2015-01-08'
+  link: https://doi.org/f64cxn
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jot.2015.07.003
+  title: "Cartilage imaging of a rabbit knee using dual-energy X-ray microscopy and\
+    \ 1.0\_T and\_9.4\_T magnetic resonance imaging"
+  authors:
+  - Ying Zhu
+  - Sarah L. Manske
+  - Steven K. Boyd
+  publisher: Journal of Orthopaedic Translation
+  date: '2015-10-01'
+  link: https://doi.org/gt5tnq
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.bone.2015.06.006
+  title: Human trabecular bone microarchitecture can be assessed independently of
+    density with second generation HR-pQCT
+  authors:
+  - Sarah L. Manske
+  - Ying Zhu
+  - Clara Sandino
+  - Steven K. Boyd
+  publisher: Bone
+  date: '2015-10-01'
+  link: https://doi.org/f7njxf
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/8904_2015_407
+  title: Improvement in Bone Mineral Density and Architecture in a Patient with Gaucher
+    Disease Using Teriparatide
+  authors:
+  - Aneal Khan
+  - David A. Hanley
+  - Colleen McNeil
+  - Steven Boyd
+  publisher: JIMD Reports
+  date: '2015-01-01'
+  link: https://doi.org/gt5tnr
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/jbmr.2358
+  title: Longitudinal HR-pQCT and Image Registration Detects Endocortical Bone Loss
+    in Kidney Transplantation Patients
+  authors:
+  - Kyle K Nishiyama
+  - Yves Pauchard
+  - Lucas E Nikkel
+  - Sapna Iyer
+  - Chiyuan Zhang
+  - Donald J McMahon
+  - David Cohen
+  - Steven K Boyd
+  - Elizabeth Shane
+  - Thomas L Nickolas
+  publisher: Journal of Bone and Mineral Research
+  date: '2014-09-11'
+  link: https://doi.org/gt5tns
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1182/blood-2014-10-602060
+  title: Premature changes in trabecular and cortical microarchitecture result in
+    decreased bone strength in hemophilia
+  authors:
+  - Adrienne Lee
+  - Steven K. Boyd
+  - Gregory Kline
+  - Man-Chiu Poon
+  publisher: Blood
+  date: '2015-03-26'
+  link: https://doi.org/f7cmm6
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.bone.2014.10.026
+  title: "Ten-year incident osteoporosis-related fractures in the population-based\
+    \ Canadian Multicentre Osteoporosis Study \u2014 Comparing site and age-specific\
+    \ risks in women and men"
+  authors:
+  - Jerilynn C. Prior
+  - Lisa Langsetmo
+  - Brian C. Lentle
+  - Claudie Berger
+  - David Goltzman
+  - Christopher S. Kovacs
+  - Stephanie M. Kaiser
+  - Jonathan D. Adachi
+  - Alexandra Papaioannou
+  - Tassos Anastassiades
+  - Tanveer Towheed
+  - Robert G. Josse
+  - Jacques P. Brown
+  - William D. Leslie
+  - Nancy Kreiger
+  publisher: Bone
+  date: '2015-02-01'
+  link: https://doi.org/f8k8v2
+  orcid: 0000-0002-2930-5997
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.spinee.2015.06.059
+  title: 'The distribution of bone mass in the lumbar vertebrae: are we measuring
+    the right target?'
+  authors:
+  - Yue Wang
+  - Tapio Videman
+  - Steven K. Boyd
+  - "Michele C. Batti\xE9"
+  publisher: The Spine Journal
+  date: '2015-11-01'
+  link: https://doi.org/gt5tnt
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jmbbm.2014.12.018
+  title: 'The poro-viscoelastic properties of trabecular bone: a micro computed tomography-based
+    finite element study'
+  authors:
+  - Clara Sandino
+  - David D. McErlain
+  - John Schipilow
+  - Steven K. Boyd
+  publisher: Journal of the Mechanical Behavior of Biomedical Materials
+  date: '2015-04-01'
+  link: https://doi.org/gh2b84
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00198-015-3110-5
+  title: The relationship between serum 25(OH)D and bone density and microarchitecture
+    as measured by HR-pQCT
+  authors:
+  - S. K. Boyd
+  - L. A. Burt
+  - L. K. Sevick
+  - D. A. Hanley
+  publisher: Osteoporosis International
+  date: '2015-04-08'
+  link: https://doi.org/f7nbcf
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s11657-014-0183-2
+  title: 'Bone microarchitecture and strength of the radius and tibia in a reference
+    population of young adults: an HR-pQCT study'
+  authors:
+  - Lauren A. Burt
+  - Heather M. Macdonald
+  - David A. Hanley
+  - Steven K. Boyd
+  publisher: Archives of Osteoporosis
+  date: '2014-05-27'
+  link: https://doi.org/gt5tnv
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/ajpa.22533
+  title: "Bone quality in prehistoric, cis\u2010baikal forager femora: A micro\u2010\
+    CT analysis of cortical canal microstructure"
+  authors:
+  - Kathleen Faccia
+  - Helen Buie
+  - Andrzej Weber
+  - Vladimir I. Bazaliiskii
+  - Olga I. Goriunova
+  - Steven Boyd
+  - "Benedikt Hallgr\xEDmsson"
+  - M. Anne Katzenberg
+  publisher: American Journal of Physical Anthropology
+  date: '2014-05-19'
+  link: https://doi.org/gt5tnw
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00198-013-2459-6
+  title: Classification of women with and without hip fracture based on quantitative
+    computed tomography and finite element analysis
+  authors:
+  - K. K. Nishiyama
+  - M. Ito
+  - A. Harada
+  - S. K. Boyd
+  publisher: Osteoporosis International
+  date: '2013-08-16'
+  link: https://doi.org/f5rv7p
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.bone.2014.04.019
+  title: Embryonic stem cell therapy improves bone quality in a model of impaired
+    fracture healing in the mouse; tracked temporally using in vivo micro-CT
+  authors:
+  - J.T. Taiani
+  - H.R. Buie
+  - G.M. Campbell
+  - S.L. Manske
+  - R.J. Krawetz
+  - D.E. Rancourt
+  - S.K. Boyd
+  - J.R. Matyas
+  publisher: Bone
+  date: '2014-07-01'
+  link: https://doi.org/f55zdf
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jot.2014.07.004
+  title: 'International Combined Orthopaedic Research Societies: A model for international
+    collaboration to promote orthopaedic and musculoskeletal research'
+  authors:
+  - Theodore Miclau
+  - Nobuo Adachi
+  - John Antoniou
+  - Nicola Baldini
+  - Gordon Blunn
+  - Steven Boyd
+  - Je-Ken Chang
+  - Bernd Grimm
+  - X. Edward Guo
+  - Gun-Il Im
+  - Shin-Yoon Kim
+  - Feza Korkusuz
+  - Oscar Kuang-Sheng Lee
+  - Andrew McCaskie
+  - R. Geoff Richards
+  - Gautam Shetty
+  - Suresh Sivananthan
+  - Tingting Tang
+  - Jiake Xu
+  - Ling Qin
+  publisher: Journal of Orthopaedic Translation
+  date: '2014-10-01'
+  link: https://doi.org/gnrpzv
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jbiomech.2014.08.020
+  title: Mapping anisotropy of the proximal femur for enhanced image based finite
+    element analysis
+  authors:
+  - William S. Enns-Bray
+  - Jan S. Owoc
+  - Kyle K. Nishiyama
+  - Steven K. Boyd
+  publisher: Journal of Biomechanics
+  date: '2014-10-01'
+  link: https://doi.org/f6ndwr
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jbiomech.2014.06.024
+  title: Predicting the permeability of trabecular bone by micro-computed tomography
+    and finite element modeling
+  authors:
+  - Clara Sandino
+  - Paul Kroliczek
+  - David D. McErlain
+  - Steven K. Boyd
+  publisher: Journal of Biomechanics
+  date: '2014-09-01'
+  link: https://doi.org/f6mttw
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jbiomech.2014.06.040
+  title: Proximal femur elastic behaviour is the same in impact and constant displacement
+    rate fall simulation
+  authors:
+  - S. Gilchrist
+  - K.K. Nishiyama
+  - P. de Bakker
+  - P. Guy
+  - S.K. Boyd
+  - T. Oxland
+  - P.A. Cripton
+  publisher: Journal of Biomechanics
+  date: '2014-11-01'
+  link: https://doi.org/f6rvz2
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/jmri.23876
+  title: Assessment of the efficacy of MRI for detection of changes in bone morphology
+    in a mouse model of bone injury
+  authors:
+  - May A. Taha
+  - Sarah L. Manske
+  - Erika Kristensen
+  - Jaymi T. Taiani
+  - Roman Krawetz
+  - Ying Wu
+  - Dragana Ponjevic
+  - John R. Matyas
+  - Steven K. Boyd
+  - Derrick E. Rancourt
+  - Jeff F. Dunn
+  publisher: Journal of Magnetic Resonance Imaging
+  date: '2012-11-02'
+  link: https://doi.org/gt5tnx
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.bone.2013.06.014
+  title: 'Bone micro-architecture, estimated bone strength, and the muscle-bone interaction
+    in elite athletes: An HR-pQCT study'
+  authors:
+  - J.D. Schipilow
+  - H.M. Macdonald
+  - A.M. Liphardt
+  - M. Kan
+  - S.K. Boyd
+  publisher: Bone
+  date: '2013-10-01'
+  link: https://doi.org/f484tt
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/ede.12025
+  title: Effects of growth hormone on the ontogenetic allometry of craniofacial bones
+  authors:
+  - Paula N. Gonzalez
+  - Erika Kristensen
+  - Douglas W. Morck
+  - Steven Boyd
+  - "Benedikt Hallgr\xEDmsson"
+  publisher: Evolution &amp; Development
+  date: '2013-03-01'
+  link: https://doi.org/f4v7z8
+  orcid: 0000-0002-2930-5997
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3727/096368912X658755
+  title: Embryonic Stem Cells Incorporate into Newly Formed Bone and do Not Form Tumors
+    in an Immunocompetent Mouse Fracture Model
+  authors:
+  - Jaymi T. Taiani
+  - Roman J. Krawetz
+  - Akihiro Yamashita
+  - Yves Pauchard
+  - Helen R. Buie
+  - Dragana Ponjevic
+  - Steven K. Boyd
+  - Derrick E. Rancourt
+  - John R. Matyas
+  publisher: Cell Transplantation
+  date: '2013-08-01'
+  link: https://doi.org/f46hxw
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1061/9780784412992.132
+  title: Estimation of the Poroelastic Properties of Trabecular Bone at the Microscopic
+    Scale Using CT Based FE Models
+  authors:
+  - Clara Sandino
+  - David D. McErlain
+  - John Schipilow
+  - Steven K. Boyd
+  publisher: Poromechanics V
+  date: '2013-06-18'
+  link: https://doi.org/gt5tnz
+  orcid: 0000-0002-2930-5997
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s11914-013-0140-9
+  title: 'High-Resolution Peripheral Quantitative Computed Tomography for the Assessment
+    of Bone Strength and Structure: A Review by the Canadian Bone Strength Working
+    Group'
+  authors:
+  - Angela M. Cheung
+  - Jonathan D. Adachi
+  - David A. Hanley
+  - David L. Kendler
+  - K. Shawn Davison
+  - Robert Josse
+  - Jacques P. Brown
+  - Louis-Georges Ste-Marie
+  - Richard Kremer
+  - Marta C. Erlandson
+  - Larry Dian
+  - Andrew J. Burghardt
+  - Steven K. Boyd
+  publisher: Current Osteoporosis Reports
+  date: '2013-03-24'
+  link: https://doi.org/f4vqfs
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/8904_2012_146
+  title: In Vivo Bone Architecture in Pompe Disease Using High-Resolution Peripheral
+    Computed Tomography
+  authors:
+  - Aneal Khan
+  - Zachary Weinstein
+  - David A. Hanley
+  - Robin Casey
+  - Colleen McNeil
+  - Barbara Ramage
+  - Steven Boyd
+  publisher: JIMD Reports
+  date: '2012-01-01'
+  link: https://doi.org/gt5tn2
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1080/10255842.2011.648625
+  title: "<i>In vivo</i>monitoring of bone\u2013implant bond strength by microCT and\
+    \ finite element modelling"
+  authors:
+  - Vincent A. Stadelmann
+  - Carl M. Conway
+  - Steven K. Boyd
+  publisher: Computer Methods in Biomechanics and Biomedical Engineering
+  date: '2013-09-01'
+  link: https://doi.org/fzmqrm
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.medengphy.2013.05.016
+  title: 'Micro-CT evaluation of bone defects: Applications to osteolytic bone metastases,
+    bone cysts, and fracture'
+  authors:
+  - Helen R. Buie
+  - Nick A. Bosma
+  - Charlene M. Downey
+  - Frank R. Jirik
+  - Steven K. Boyd
+  publisher: Medical Engineering &amp; Physics
+  date: '2013-11-01'
+  link: https://doi.org/gt5tn3
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/jbmr.1795
+  title: Multicenter precision of cortical and trabecular bone quality measures assessed
+    by high-resolution peripheral quantitative computed tomography
+  authors:
+  - Andrew J Burghardt
+  - Jean-Baptiste Pialat
+  - Galateia J Kazakia
+  - Stephanie Boutroy
+  - Klaus Engelke
+  - Janina M Patsch
+  - Alexander Valentinitsch
+  - Danmei Liu
+  - Eva Szabo
+  - Cesar E Bogado
+  - Maria Belen Zanchetta
+  - Heather A McKay
+  - Elizabeth Shane
+  - Steven K Boyd
+  - Mary L Bouxsein
+  - Roland Chapurlat
+  - Sundeep Khosla
+  - Sharmila Majumdar
+  publisher: Journal of Bone and Mineral Research
+  date: '2012-10-16'
+  link: https://doi.org/gt5tn4
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.bone.2013.09.005
+  title: Occupational loading may not affect the association between vertebral trabecular
+    bone and intervertebral disc narrowing
+  authors:
+  - Yue Wang
+  - Jan S. Owoc
+  - Steven K. Boyd
+  - Tapio Videman
+  - "Michele C. Batti\xE9"
+  publisher: Bone
+  date: '2013-12-01'
+  link: https://doi.org/gt5tn5
+  orcid: 0000-0002-2930-5997
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jbiomech.2013.02.025
+  title: Proximal femur bone strength estimated by a computationally fast finite element
+    analysis in a sideways fall configuration
+  authors:
+  - Kyle K. Nishiyama
+  - Seth Gilchrist
+  - Pierre Guy
+  - Peter Cripton
+  - Steven K. Boyd
+  publisher: Journal of Biomechanics
+  date: '2013-04-01'
+  link: https://doi.org/f4w9jx
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.bone.2013.06.022
+  title: 'Regional variations in trabecular architecture of the lumbar vertebra: Associations
+    with age, disc degeneration and disc space narrowing'
+  authors:
+  - Yue Wang
+  - Jan S. Owoc
+  - Steven K. Boyd
+  - Tapio Videman
+  - "Michele C. Batti\xE9"
+  publisher: Bone
+  date: '2013-10-01'
+  link: https://doi.org/f484v5
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.medengphy.2013.04.003
+  title: Reproducible metacarpal joint space width measurements using 3D analysis
+    of images acquired with high-resolution peripheral quantitative computed tomography
+  authors:
+  - Cheryl Barnabe
+  - Helen Buie
+  - Michelle Kan
+  - Eva Szabo
+  - Susan G. Barr
+  - Liam Martin
+  - Steven K. Boyd
+  publisher: Medical Engineering &amp; Physics
+  date: '2013-10-01'
+  link: https://doi.org/f5ctpz
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-1-4614-6351-1_13
+  title: Trabecular Bone Poroelasticity for MicroCT-Based FE Models
+  authors:
+  - Clara Sandino
+  - Steven K. Boyd
+  publisher: Computational Biomechanics for Medicine
+  date: '2013-01-01'
+  link: https://doi.org/gt5tn6
+  orcid: 0000-0002-2930-5997
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00198-012-2160-1
+  title: Women with previous fragility fractures can be classified based on bone microarchitecture
+    and finite element analysis measured with HR-pQCT
+  authors:
+  - K. K. Nishiyama
+  - H. M. Macdonald
+  - D. A. Hanley
+  - S. K. Boyd
+  publisher: Osteoporosis International
+  date: '2012-11-20'
+  link: https://doi.org/f4wbr3
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/jbmr.552
+  title: 'Cortical porosity is higher in boys compared with girls at the distal radius
+    and distal tibia during pubertal growth: An HR-pQCT study'
+  authors:
+  - Kyle K Nishiyama
+  - Heather M Macdonald
+  - Sarah A Moore
+  - Tak Fung
+  - Steven K Boyd
+  - Heather A McKay
+  publisher: Journal of Bone and Mineral Research
+  date: '2011-10-25'
+  link: https://doi.org/c2d6mg
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jmbbm.2011.12.009
+  title: Deformable image registration and 3D strain mapping for the quantitative
+    assessment of cortical bone microdamage
+  authors:
+  - David Christen
+  - Alina Levchuk
+  - Stefan Schori
+  - Philipp Schneider
+  - Steven K. Boyd
+  - "Ralph M\xFCller"
+  publisher: Journal of the Mechanical Behavior of Biomedical Materials
+  date: '2012-04-01'
+  link: https://doi.org/fztsck
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-1-4614-1046-1_4
+  title: 'Fragile Spines on Cayo Santiago: Bone Mineral Density, Trabecular Morphology,
+    and the Potential for Exploring the Genetics of Osteoporosis in Rhesus Monkeys'
+  authors:
+  - Jean E. Turnquist
+  - Antonietta M. Cerroni
+  - Kate J. Faccia
+  - Steven K. Boyd
+  - Benedikt Hallgrimsson
+  publisher: Bones, Genetics, and Behavior of Rhesus Macaques
+  date: '2011-09-28'
+  link: https://doi.org/bf267k
+  orcid: 0000-0002-2930-5997
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0036486
+  title: High-Frequency, Low-Magnitude Vibration Does Not Prevent Bone Loss Resulting
+    from Muscle Disuse in Mice following Botulinum Toxin Injection
+  authors:
+  - Sarah L. Manske
+  - Craig A. Good
+  - Ronald F. Zernicke
+  - Steven K. Boyd
+  publisher: PLoS ONE
+  date: '2012-05-10'
+  link: https://doi.org/gt5tn7
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1155/2012/294965
+  title: Microarchitecture, but Not Bone Mechanical Properties, Is Rescued with Growth
+    Hormone Treatment in a Mouse Model of Growth Hormone Deficiency
+  authors:
+  - Erika Kristensen
+  - "Benedikt Hallgr\xEDmsson"
+  - Douglas W. Morck
+  - Steven K. Boyd
+  publisher: International Journal of Endocrinology
+  date: '2012-01-01'
+  link: https://doi.org/gb7nfx
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.bone.2012.03.003
+  title: Quality control for bone quality parameters affected by subject motion in
+    high-resolution peripheral quantitative computed tomography
+  authors:
+  - Yves Pauchard
+  - Anna-Maria Liphardt
+  - Heather M. Macdonald
+  - David A. Hanley
+  - Steven K. Boyd
+  publisher: Bone
+  date: '2012-06-01'
+  link: https://doi.org/f3z59h
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1371/journal.pone.0041685
+  title: Quantitative Ex-Vivo Micro-Computed Tomographic Imaging of Blood Vessels
+    and Necrotic Regions within Tumors
+  authors:
+  - Charlene M. Downey
+  - Arvind K. Singla
+  - Michelle L. Villemaire
+  - Helen R. Buie
+  - Steven K. Boyd
+  - Frank R. Jirik
+  publisher: PLoS ONE
+  date: '2012-07-25'
+  link: https://doi.org/f35c3t
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/jbmr.1633
+  title: "Response to \u201CVertebral fracture and intervertebral discs\u201D"
+  authors:
+  - Yue Wang
+  - Steven Boyd
+  - "Michele Batti\xE9"
+  - Yutaka Yasui
+  - Tapio Videman
+  publisher: Journal of Bone and Mineral Research
+  date: '2012-05-17'
+  link: https://doi.org/gt5tn8
+  orcid: 0000-0002-2930-5997
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1136/bjsports-2011-090054
+  title: 'A blueprint for bone health across the lifespan: engaging novel team members
+    to influence fracture rates'
+  authors:
+  - S K Boyd
+  - R E Rhodes
+  - J Wharf Higgins
+  - H A McKay
+  - K M Khan
+  publisher: British Journal of Sports Medicine
+  date: '2011-04-10'
+  link: https://doi.org/c37fnx
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/jbmr.171
+  title: 'Age-related patterns of trabecular and cortical bone loss differ between
+    sexes and skeletal sites: A population-based HR-pQCT study'
+  authors:
+  - Heather M Macdonald
+  - Kyle K Nishiyama
+  - Jian Kang
+  - David A Hanley
+  - Steven K Boyd
+  publisher: Journal of Bone and Mineral Research
+  date: '2010-12-22'
+  link: https://doi.org/cwjwkk
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1088/0031-9155/56/20/001
+  title: Automated quantification of three-dimensional subject motion to monitor image
+    quality in high-resolution peripheral quantitative computed tomography
+  authors:
+  - Yves Pauchard
+  - "F\xE1bio J Ayres"
+  - Steven K Boyd
+  publisher: Physics in Medicine and Biology
+  date: '2011-09-21'
+  link: https://doi.org/b7dktd
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1249/MSS.0b013e31821f8634
+  title: Bone Quality and Muscle Strength in Female Athletes with Lower Limb Stress
+    Fractures
+  authors:
+  - KATHARINA E. SCHNACKENBURG
+  - HEATHER M. MACDONALD
+  - REED FERBER
+  - J. PRESTON WILEY
+  - STEVEN K. BOYD
+  publisher: Medicine &amp; Science in Sports &amp; Exercise
+  date: '2011-11-01'
+  link: https://doi.org/c3jnrq
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00198-010-1283-5
+  title: 'Bone quality is partially recovered after the discontinuation of RANKL administration
+    in rats by increased bone mass on existing trabeculae: an in vivo micro-CT study'
+  authors:
+  - Graeme M. Campbell
+  - Michael S. Ominsky
+  - Steven K. Boyd
+  publisher: Osteoporosis International
+  date: '2010-05-18'
+  link: https://doi.org/bcdzsx
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00198-010-1226-1
+  title: "Changes in trabecular and cortical bone microarchitecture at peripheral\
+    \ sites associated with 18\_months of teriparatide therapy in postmenopausal women\
+    \ with osteoporosis"
+  authors:
+  - H. M. Macdonald
+  - K. K. Nishiyama
+  - D. A. Hanley
+  - S. K. Boyd
+  publisher: Osteoporosis International
+  date: '2010-05-11'
+  link: https://doi.org/d23tft
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.bone.2011.02.022
+  title: Computational finite element bone mechanics accurately predicts mechanical
+    competence in the human radius of an elderly population
+  authors:
+  - Thomas L. Mueller
+  - David Christen
+  - Steve Sandercott
+  - Steven K. Boyd
+  - Bert van Rietbergen
+  - Felix Eckstein
+  - "Eva-Maria Lochm\xFCller"
+  - "Ralph M\xFCller"
+  - G. Harry van Lenthe
+  publisher: Bone
+  date: '2011-06-01'
+  link: https://doi.org/d442h2
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.bone.2011.01.004
+  title: 'Increased bone strength is associated with improved bone microarchitecture
+    in intact female rats treated with strontium ranelate: A finite element analysis
+    study'
+  authors:
+  - Steven K. Boyd
+  - Eva Szabo
+  - Patrick Ammann
+  publisher: Bone
+  date: '2011-05-01'
+  link: https://doi.org/ddk77w
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/jbmr.476
+  title: "Is greater lumbar vertebral BMD associated with more disk degeneration?\
+    \ A study using \xB5CT and discography"
+  authors:
+  - Yue Wang
+  - Steven K Boyd
+  - "Michele C Batti\xE9"
+  - Yutaka Yasui
+  - Tapio Videman
+  publisher: Journal of Bone and Mineral Research
+  date: '2011-07-22'
+  link: https://doi.org/dwnxcc
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/j.1651-2227.2010.01995.x
+  title: Physical activity positively predicts bone architecture and bone strength
+    in adolescent males and females
+  authors:
+  - Heather McKay
+  - Danmei Liu
+  - Deetria Egeli
+  - Steven Boyd
+  - Melonie Burrows
+  publisher: Acta Paediatrica
+  date: '2010-09-14'
+  link: https://doi.org/dtdwpd
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.bone.2011.04.008
+  title: The bone architecture is enhanced with combined PTH and alendronate treatment
+    compared to monotherapy while maintaining the state of surface mineralization
+    in the OVX rat
+  authors:
+  - Graeme M. Campbell
+  - R. Bernhardt
+  - D. Scharnweber
+  - Steven K. Boyd
+  publisher: Bone
+  date: '2011-08-01'
+  link: https://doi.org/bjm3b4
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.bone.2010.12.005
+  title: 'The osseous endplates in lumbar vertebrae: Thickness, bone mineral density
+    and their associations with age and disk degeneration'
+  authors:
+  - Yue Wang
+  - "Michele C. Batti\xE9"
+  - Steven K. Boyd
+  - Tapio Videman
+  publisher: Bone
+  date: '2011-04-01'
+  link: https://doi.org/c2fhkk
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jbiomech.2010.11.011
+  title: Vertical ground reaction forces diminish in mice after botulinum toxin injection
+  authors:
+  - Sarah L. Manske
+  - Steven K. Boyd
+  - Ronald F. Zernicke
+  publisher: Journal of Biomechanics
+  date: '2011-02-01'
+  link: https://doi.org/dsz3wq
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s11999-009-0948-x
+  title: 'Can Porous Tantalum Be Used to Achieve Ankle and Subtalar Arthrodesis?:
+    A Pilot Study'
+  authors:
+  - Arno Frigg
+  - Hugh Dougall
+  - Steve Boyd
+  - Benno Nigg
+  publisher: Clinical Orthopaedics &amp; Related Research
+  date: '2010-01-01'
+  link: https://doi.org/chbcr4
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s12018-009-9066-2
+  title: Clinical Tools to Evaluate Bone Strength
+  authors:
+  - Sarah L. Manske
+  - Heather M. Macdonald
+  - Kyle K. Nishiyama
+  - Steven K. Boyd
+  - Heather A. McKay
+  publisher: Clinical Reviews in Bone and Mineral Metabolism
+  date: '2010-02-12'
+  link: https://doi.org/ddt3vk
+  orcid: 0000-0002-2930-5997
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/jbmr.141
+  title: "Guidelines for assessment of bone microstructure in rodents using micro\u2013\
+    computed tomography"
+  authors:
+  - Mary L Bouxsein
+  - Stephen K Boyd
+  - Blaine A Christiansen
+  - Robert E Guldberg
+  - Karl J Jepsen
+  - "Ralph M\xFCller"
+  publisher: Journal of Bone and Mineral Research
+  date: '2010-06-30'
+  link: https://doi.org/cng5vx
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1017/S0007114509993084
+  title: High-fat, sucrose diet impairs geometrical and mechanical properties of cortical
+    bone in mice
+  authors:
+  - Caeley Lorincz
+  - Raylene A. Reimer
+  - Steven K. Boyd
+  - Ronald F. Zernicke
+  publisher: British Journal of Nutrition
+  date: '2009-12-08'
+  link: https://doi.org/drzrvx
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/jbmr.81
+  title: 'Microarchitectural deterioration of cortical and trabecular bone: Differing
+    effects of denosumab and alendronate'
+  authors:
+  - Ego Seeman
+  - Pierre D Delmas
+  - David A Hanley
+  - Deborah Sellmeyer
+  - Angela M Cheung
+  - Elizabeth Shane
+  - Ann Kearns
+  - Thierry Thomas
+  - Steven K Boyd
+  - Stephanie Boutroy
+  - Cesar Bogado
+  - Sharmila Majumdar
+  - Michelle Fan
+  - Cesar Libanati
+  - Jose Zanchetta
+  publisher: Journal of Bone and Mineral Research
+  date: '2010-07-30'
+  link: https://doi.org/d68xz4
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.bone.2009.10.016
+  title: Muscle and bone follow similar temporal patterns of recovery from muscle-induced
+    disuse due to botulinum toxin injection
+  authors:
+  - Sarah L. Manske
+  - Steven K. Boyd
+  - Ronald F. Zernicke
+  publisher: Bone
+  date: '2010-01-01'
+  link: https://doi.org/b3m4gb
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00223-010-9428-2
+  title: Muscle Changes Can Account for Bone Loss After Botulinum Toxin Injection
+  authors:
+  - Sarah L. Manske
+  - Steven K. Boyd
+  - Ronald F. Zernicke
+  publisher: Calcified Tissue International
+  date: '2010-10-22'
+  link: https://doi.org/bjrc3s
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1359/jbmr.091020
+  title: 'Postmenopausal women with osteopenia have higher cortical porosity and thinner
+    cortices at the distal radius and tibia than women with normal aBMD: An in vivo
+    HR-pQCT study'
+  authors:
+  - Kyle K Nishiyama
+  - Heather M Macdonald
+  - Helen R Buie
+  - David A Hanley
+  - Steven K Boyd
+  publisher: Journal of Bone and Mineral Research
+  date: '2010-04-01'
+  link: https://doi.org/bc5m63
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1249/MSS.0b013e3181dd25d4
+  title: Reduced Bone Mass Accrual in Swim-Trained Prepubertal Mice
+  authors:
+  - HELEN R. BUIE
+  - STEVEN K. BOYD
+  publisher: Medicine &amp; Science in Sports &amp; Exercise
+  date: '2010-10-01'
+  link: https://doi.org/c64j8d
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.bone.2009.09.023
+  title: Reproducibility of bone micro-architecture measurements in rodents by in
+    vivo micro-computed tomography is maximized with three-dimensional image registration
+  authors:
+  - Kyle K. Nishiyama
+  - Graeme M. Campbell
+  - Robert J. Klinck
+  - Steven K. Boyd
+  publisher: Bone
+  date: '2010-01-01'
+  link: https://doi.org/cvvfqv
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.bone.2010.05.034
+  title: Reproducibility of direct quantitative measures of cortical bone microarchitecture
+    of the distal radius and tibia by HR-pQCT
+  authors:
+  - Andrew J. Burghardt
+  - Helen R. Buie
+  - Andres Laib
+  - Sharmila Majumdar
+  - Steven K. Boyd
+  publisher: Bone
+  date: '2010-09-01'
+  link: https://doi.org/djcsjb
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.bone.2010.04.587
+  title: Timing of growth hormone treatment affects trabecular bone microarchitecture
+    and mineralization in growth hormone deficient mice
+  authors:
+  - Erika Kristensen
+  - "Benedikt Hallgr\xEDmsson"
+  - Douglas W. Morck
+  - Steven K. Boyd
+  publisher: Bone
+  date: '2010-08-01'
+  link: https://doi.org/cb5r82
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00586-009-0910-3
+  title: Differences in endplate deformation of the adjacent and augmented vertebra
+    following cement augmentation
+  authors:
+  - Paul A. Hulme
+  - S. K. Boyd
+  - P. F. Heini
+  - S. J. Ferguson
+  publisher: European Spine Journal
+  date: '2009-02-26'
+  link: https://doi.org/cx5q96
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-3-540-68993-5_14
+  title: Image-Based Finite Element Analysis
+  authors:
+  - Steven K. Boyd
+  publisher: Advanced Imaging in Biology and Medicine
+  date: ''
+  link: https://doi.org/dn56cf
+  orcid: 0000-0002-2930-5997
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ISBI.2009.5193053
+  title: Measuring patient motion in HR-pQCT
+  authors:
+  - Yves Pauchard
+  - Fabio J. Ayres
+  - Steven K. Boyd
+  publisher: '2009 IEEE International Symposium on Biomedical Imaging: From Nano to
+    Macro'
+  date: '2009-06-01'
+  link: https://doi.org/dc9n93
+  orcid: 0000-0002-2930-5997
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-540-68993-5_1
+  title: Micro-Computed Tomography
+  authors:
+  - Steven K. Boyd
+  publisher: Advanced Imaging in Biology and Medicine
+  date: ''
+  link: https://doi.org/bc5wjm
+  orcid: 0000-0002-2930-5997
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0005620
+  title: "The Lysyl Oxidase Inhibitor, \u03B2-Aminopropionitrile, Diminishes the Metastatic\
+    \ Colonization Potential of Circulating Breast Cancer Cells"
+  authors:
+  - Alla Bondareva
+  - Charlene M. Downey
+  - Fabio Ayres
+  - Wei Liu
+  - Steven K. Boyd
+  - Benedikt Hallgrimsson
+  - Frank R. Jirik
+  publisher: PLoS ONE
+  date: '2009-05-19'
+  link: https://doi.org/cbp7jn
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TBME.2008.923106
+  title: A Novel 3-D Image-Based Morphological Method for Phenotypic Analysis
+  authors:
+  - E. Kristensen
+  - T.E. Parsons
+  - B. HallgrImsson
+  - S.K. Boyd
+  publisher: IEEE Transactions on Biomedical Engineering
+  date: '2008-12-01'
+  link: https://doi.org/cz26g7
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.bone.2008.01.017
+  title: Bone strength at the distal radius can be estimated from high-resolution
+    peripheral quantitative computed tomography and the finite element method
+  authors:
+  - Joshua A. MacNeil
+  - Steven K. Boyd
+  publisher: Bone
+  date: '2008-06-01'
+  link: https://doi.org/fqsrx7
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jbiomech.2007.07.018
+  title: Determination of vertebral endplate deformation under load using micro-computed
+    tomography
+  authors:
+  - P.A. Hulme
+  - S.J. Ferguson
+  - S.K. Boyd
+  publisher: Journal of Biomechanics
+  date: '2008-01-01'
+  link: https://doi.org/czx7r2
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/j.1469-7580.2008.00876.x
+  title: Erratum
+  authors: []
+  publisher: Journal of Anatomy
+  date: '2008-02-26'
+  link: https://doi.org/c7wnps
+  orcid: 0000-0002-2930-5997
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jbiomech.2008.07.036
+  title: 'European Society of Biomechanics S.M. Perren Award 2008: Using temporal
+    trends of 3D bone micro-architecture to predict bone quality'
+  authors:
+  - Yves Pauchard
+  - Corinne Mattmann
+  - Andreas Kuhn
+  - "J\xFCrg A. Gasser"
+  - Steven K. Boyd
+  publisher: Journal of Biomechanics
+  date: '2008-10-01'
+  link: https://doi.org/fnbzzj
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.medengphy.2007.11.003
+  title: Improved reproducibility of high-resolution peripheral quantitative computed
+    tomography for measurement of bone quality
+  authors:
+  - Joshua A. MacNeil
+  - Steven K. Boyd
+  publisher: Medical Engineering &amp; Physics
+  date: '2008-07-01'
+  link: https://doi.org/fhbx6d
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1117/12.768434
+  title: Landmark based compensation of patient motion artifacts in computed tomography
+  authors:
+  - Yves Pauchard
+  - Steven K. Boyd
+  publisher: SPIE Proceedings
+  date: '2008-03-06'
+  link: https://doi.org/ffx8rz
+  orcid: 0000-0002-2930-5997
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/j.1469-7580.2007.00845.x
+  title: 'Phenotypic variability and craniofacial dysmorphology: increased shape variance
+    in a mouse model for cleft lip'
+  authors:
+  - Trish E. Parsons
+  - Erika Kristensen
+  - Lynnette Hornung
+  - Virginia M. Diewert
+  - Steven K. Boyd
+  - Rebecca Z. German
+  - "Benedikt Hallgr\xEDmsson"
+  publisher: Journal of Anatomy
+  date: '2008-01-31'
+  link: https://doi.org/bwjxrv
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1359/jbmr.080808
+  title: Postpubertal Architectural Developmental Patterns Differ Between the L3 Vertebra
+    and Proximal Tibia in Three Inbred Strains of Mice
+  authors:
+  - Helen R Buie
+  - Christopher P Moore
+  - Steven K Boyd
+  publisher: Journal of Bone and Mineral Research
+  date: '2020-12-01'
+  link: https://doi.org/bxxb5b
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.clinbiomech.2007.10.015
+  title: Preservation of periarticular cancellous morphology and mechanical stiffness
+    in post-traumatic experimental osteoarthritis by antiresorptive therapy
+  authors:
+  - Joshua A. MacNeil
+  - Michael R. Doschak
+  - Ronald F. Zernicke
+  - Steven K. Boyd
+  publisher: Clinical Biomechanics
+  date: '2008-03-01'
+  link: https://doi.org/dx5dgb
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.medengphy.2007.11.004
+  title: Radiation effects on bone architecture in mice and rats resulting from in
+    vivo micro-computed tomography scanning
+  authors:
+  - R. Josh Klinck
+  - Graeme M. Campbell
+  - Steven K. Boyd
+  publisher: Medical Engineering &amp; Physics
+  date: '2008-09-01'
+  link: https://doi.org/c6swhn
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00198-008-0581-7
+  title: Signs of irreversible architectural changes occur early in the development
+    of experimental osteoporosis as assessed by in vivo micro-CT
+  authors:
+  - G. M. Campbell
+  - H. R. Buie
+  - S. K. Boyd
+  publisher: Osteoporosis International
+  date: '2008-03-29'
+  link: https://doi.org/bkgs82
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jocd.2007.12.013
+  title: Site-Specific Variation of Bone Micro-Architecture in the Distal Radius and
+    Tibia
+  authors:
+  - Steven K. Boyd
+  publisher: Journal of Clinical Densitometry
+  date: '2008-07-01'
+  link: https://doi.org/cm4pvb
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00223-008-9150-5
+  title: The Magnitude and Rate of Bone Loss in Ovariectomized Mice Differs Among
+    Inbred Strains as Determined by Longitudinal In vivo Micro-Computed Tomography
+  authors:
+  - Josh Klinck
+  - Steven K. Boyd
+  publisher: Calcified Tissue International
+  date: '2008-06-26'
+  link: https://doi.org/fkgr38
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.bone.2008.06.008
+  title: 'Tissue modulus calculated from beam theory is biased by bone size and geometry:
+    Implications for the use of three-point bending tests to determine bone tissue
+    modulus'
+  authors:
+  - G. Harry van Lenthe
+  - Romain Voide
+  - Steven K. Boyd
+  - "Ralph M\xFCller"
+  publisher: Bone
+  date: '2008-10-01'
+  link: https://doi.org/d9wvrj
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.medengphy.2006.11.002
+  title: Accuracy of high-resolution peripheral quantitative computed tomography for
+    measurement of bone quality
+  authors:
+  - Joshua A. MacNeil
+  - Steven K. Boyd
+  publisher: Medical Engineering &amp; Physics
+  date: '2007-12-01'
+  link: https://doi.org/bmsb5b
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.bone.2007.07.007
+  title: Automatic segmentation of cortical and trabecular compartments based on a
+    dual threshold technique for in vivo micro-CT bone analysis
+  authors:
+  - Helen R. Buie
+  - Graeme M. Campbell
+  - R. Joshua Klinck
+  - Joshua A. MacNeil
+  - Steven K. Boyd
+  publisher: Bone
+  date: '2007-10-01'
+  link: https://doi.org/bqxs6g
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.medengphy.2006.06.010
+  title: Establishment of an architecture-specific experimental validation approach
+    for finite element modeling of bone by rapid prototyping and high resolution computed
+    tomography
+  authors:
+  - Renfeng Su
+  - Graeme M. Campbell
+  - Steven K. Boyd
+  publisher: Medical Engineering &amp; Physics
+  date: '2007-05-01'
+  link: https://doi.org/dmpfh4
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1359/jbmr.070420
+  title: Inactivation of <i>Pten</i> in Osteo-Chondroprogenitor Cells Leads to Epiphyseal
+    Growth Plate Abnormalities and Skeletal Overgrowth
+  authors:
+  - Alice Fiona Ford-Hutchinson
+  - Zenobia Ali
+  - Suzen Elizabeth Lines
+  - "Benedikt Hallgr\xEDmsson"
+  - Steven Kyle Boyd
+  - Frank Robert Jirik
+  publisher: Journal of Bone and Mineral Research
+  date: '2007-08-01'
+  link: https://doi.org/c3b67n
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/dvg.20294
+  title: Increased bone mass in male and female mice following tamoxifen administration
+  authors:
+  - L.M. Starnes
+  - C.M. Downey
+  - S.K. Boyd
+  - F.R. Jirik
+  publisher: genesis
+  date: '2007-04-01'
+  link: https://doi.org/bpmkbt
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.bone.2007.02.029
+  title: Load distribution and the predictive power of morphological indices in the
+    distal radius and tibia by high resolution peripheral quantitative computed tomography
+  authors:
+  - Joshua A. MacNeil
+  - Steven K. Boyd
+  publisher: Bone
+  date: '2007-07-01'
+  link: https://doi.org/cj5bh7
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/9780470245842.ch7
+  title: Morphometrics and Biological Anthropology in the Postgenomic Age
+  authors:
+  - "Benedikt Hallgr\xEDmsson"
+  - Miriam Leah Zelditch
+  - Trish E. Parsons
+  - Erika Kristensen
+  - Nathan M. Young
+  - Steven K. Boyd
+  publisher: Biological Anthropology of the Human Skeleton
+  date: '2007-08-09'
+  link: https://doi.org/bxsgbw
+  orcid: 0000-0002-2930-5997
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.bone.2006.10.003
+  title: Regional trabecular morphology assessed by micro-CT is correlated with failure
+    of aged thoracic vertebrae under a posteroanterior load and may determine the
+    site of fracture
+  authors:
+  - Meena M. Sran
+  - Steven K. Boyd
+  - David M.L. Cooper
+  - Karim M. Khan
+  - Ron F. Zernicke
+  - Thomas R. Oxland
+  publisher: Bone
+  date: '2007-03-01'
+  link: https://doi.org/ftgs77
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.bone.2007.08.019
+  title: Regional variation in vertebral bone morphology and its contribution to vertebral
+    fracture strength
+  authors:
+  - P.A. Hulme
+  - S.K. Boyd
+  - S.J. Ferguson
+  publisher: Bone
+  date: '2007-12-01'
+  link: https://doi.org/cdqv4j
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s10439-006-9168-7
+  title: Evaluation of Three-dimensional Image Registration Methodologies for In Vivo
+    Micro-computed Tomography
+  authors:
+  - Steven K. Boyd
+  - Stephan Moser
+  - Michael Kuhn
+  - Robert J. Klinck
+  - Peter L. Krauze
+  - "Ralph M\xFCller"
+  - "J\xFCrg A. Gasser"
+  publisher: Annals of Biomedical Engineering
+  date: '2006-09-07'
+  link: https://doi.org/c4hjwt
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.bone.2006.04.017
+  title: Monitoring individual morphological changes over time in ovariectomized rats
+    by in vivo micro-computed tomography
+  authors:
+  - Steven K. Boyd
+  - Peter Davison
+  - "Ralph M\xFCller"
+  - "J\xFCrg A. Gasser"
+  publisher: Bone
+  date: '2006-10-01'
+  link: https://doi.org/czcd43
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jbiomech.2005.03.006
+  title: Smooth surface meshing for automated finite element model generation from
+    3D image data
+  authors:
+  - Steven K. Boyd
+  - "Ralph M\xFCller"
+  publisher: Journal of Biomechanics
+  date: '2006-01-01'
+  link: https://doi.org/fn5hdn
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.joca.2004.11.004
+  title: Long-term periarticular bone adaptation in a feline knee injury model for
+    post-traumatic experimental osteoarthritis
+  authors:
+  - S.K. Boyd
+  - "R. M\xFCller"
+  - T. Leonard
+  - W. Herzog
+  publisher: Osteoarthritis and Cartilage
+  date: '2005-03-01'
+  link: https://doi.org/c7t842
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1080/10255840410001656408
+  title: A Finite Element Beam-model for Efficient Simulation of Large-scale Porous
+    Structures
+  authors:
+  - Martin Stauber
+  - Martin Huber
+  - G. Harry van Lenthe
+  - Steven K. Boyd*
+  - "Ralph M\xFCller"
+  publisher: Computer Methods in Biomechanics and Biomedical Engineering
+  date: '2004-02-01'
+  link: https://doi.org/d5zq9z
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1017/S0952836904005412
+  title: Maintenance of bone mass and architecture in denning black bears (<i>Ursus
+    americanus</i>)
+  authors:
+  - Connor K. Pardy
+  - Gregory R. Wohl
+  - Philip J. Ukrainetz
+  - Andrew Sawers
+  - Steven K. Boyd
+  - Ronald F. Zernicke
+  publisher: Journal of Zoology
+  date: '2004-08-01'
+  link: https://doi.org/cjpkvd
+  orcid: 0000-0002-2930-5997
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1114/1.1535414
+  title: Adaptations of Trabecular Bone to Low Magnitude Vibrations Result in More
+    Uniform Stress and Strain Under Load
+  authors:
+  - Stefan Judex
+  - Steve Boyd
+  - Yi-Xian Qin
+  - Simon Turner
+  - Kenny Ye
+  - "Ralph M\xFCller"
+  - Clinton Rubin
+  publisher: Annals of Biomedical Engineering
+  date: '2003-01-01'
+  link: https://doi.org/dntdvk
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s11914-003-0003-x
+  title: Combining high-resolution micro-computed tomography with material composition
+    to define the quality of bone tissue
+  authors:
+  - Stefan Judex
+  - Steve Boyd
+  - Yi-Xian Qin
+  - Lisa Miller
+  - "Ralph M\xFCller"
+  - Clinton Rubin
+  publisher: Current Osteoporosis Reports
+  date: '2003-06-01'
+  link: https://doi.org/bhsjwh
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1359/jbmr.2002.17.4.687
+  title: Mechanical and Architectural Bone Adaptation in Early Stage Experimental
+    Osteoarthritis
+  authors:
+  - Steven K. Boyd
+  - "Ralph M\xFCller"
+  - Ronald F. Dr. Zernicke
+  publisher: Journal of Bone and Mineral Research
+  date: '2002-04-01'
+  link: https://doi.org/bwh9xb
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/S1350-4533(01)00062-5
+  title: Measurement of cancellous bone strain during mechanical tests using a new
+    extensometer device
+  authors:
+  - Steven Boyd
+  - Nigel Shrive
+  - Greg Wohl
+  - "Ralph M\xFCller"
+  - Ron Zernicke
+  publisher: Medical Engineering &amp; Physics
+  date: '2001-07-01'
+  link: https://doi.org/b3k3nh
+  orcid: 0000-0002-2930-5997
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1117/12.452845
+  title: Micromechanical evaluation of bone microstructures under load
+  authors:
+  - Ralph Mueller
+  - Tobias Boesch
+  - Drazen Jarak
+  - Martin Stauber
+  - Ara Nazarian
+  - Michelle Tantillo
+  - Steven Boyd
+  publisher: SPIE Proceedings
+  date: '2002-01-09'
+  link: https://doi.org/fwnxrb
+  orcid: 0000-0002-2930-5997
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1152/jappl.2001.90.3.1083
+  title: Physiological and mechanical adaptation of periarticular cancellous bone
+    after joint ligament injury
+  authors:
+  - Roxane C. Shymkiw
+  - Robert C. Bray
+  - Steven K. Boyd
+  - Apostolos Kantzas
+  - Ronald F. Zernicke
+  publisher: Journal of Applied Physiology
+  date: '2001-03-01'
+  link: https://doi.org/gt5tn9
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/S0268-0033(00)00023-1
+  title: Early morphometric and anisotropic change in periarticular cancellous bone
+    in a model of experimental knee osteoarthritis quantified using microcomputed
+    tomography
+  authors:
+  - Steven K Boyd
+  - "Ralph M\xFCller"
+  - John R Matyas
+  - Gregory R Wohl
+  - Ronald F Zernicke
+  publisher: Clinical Biomechanics
+  date: '2000-10-01'
+  link: https://doi.org/bz2fsc
+  orcid: 0000-0002-2930-5997
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1152/jappl.2000.89.6.2359
+  title: Early regional adaptation of periarticular bone mineral density after anterior
+    cruciate ligament injury
+  authors:
+  - Steven K. Boyd
+  - John R. Matyas
+  - Greg R. Wohl
+  - Apostolos Kantzas
+  - Ronald F. Zernicke
+  publisher: Journal of Applied Physiology
+  date: '2000-12-01'
+  link: https://doi.org/gt5tpb
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1115/1.429632
+  title: "Erratum: \u201CJoint Surface Modeling With Thin-Plate Splines\u201D [ASME\
+    \ J. Biomech. Eng., 121, pp. 525\u2013532]"
+  authors:
+  - S. K. Boyd,
+  - J. L. Ronsky,
+  - D. D. Lichti,
+  - "D. S\u02C7alkauskas, and"
+  - M. A. Chapman
+  publisher: Journal of Biomechanical Engineering
+  date: '2000-02-01'
+  link: https://doi.org/cfckqv
+  orcid: 0000-0002-2930-5997
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/S1440-2440(00)80040-7
+  title: Functional adaptation of bone to exercise and injury
+  authors:
+  - Gregory R Wohl
+  - Steven K Boyd
+  - Stefan Judex
+  - Ronald F Zernicke
+  publisher: Journal of Science and Medicine in Sport
+  date: '2000-09-01'
+  link: https://doi.org/cnczsj
+  orcid: 0000-0002-2930-5997
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1123/jab.16.2.111
+  title: Normal and ACL-Deficient in Situ Measurement of Patellofemoral Joint Contact
+  authors:
+  - Steven K. Boyd
+  - Janet L. Ronsky
+  publisher: Journal of Applied Biomechanics
+  date: '2000-05-01'
+  link: https://doi.org/gt5tpc
+  orcid: 0000-0002-2930-5997
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1115/1.2835083
+  title: Joint Surface Modeling With Thin-Plate Splines
+  authors:
+  - S. K. Boyd
+  - J. L. Ronsky
+  - D. D. Lichti
+  - "D. S\u02C7alkauskas"
+  - M. A. Chapman
+  publisher: Journal of Biomechanical Engineering
+  date: '1999-10-01'
+  link: https://doi.org/dfkvmm
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1115/1.2835104
+  title: Precise Measurement of Cat Patellofemoral Joint Surface Geometry With Multistation
+    Digital Photogrammetry
+  authors:
+  - J. L. Ronsky
+  - S. K. Boyd
+  - D. D. Lichti
+  - M. A. Chapman
+  - "K. S\u02C7alkauskas"
+  publisher: Journal of Biomechanical Engineering
+  date: '1999-04-01'
+  link: https://doi.org/bnjrrm
+  orcid: 0000-0002-2930-5997
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/S0021-9290(97)00135-8
+  title: Instantaneous moment arm determination of the cat knee
+  authors:
+  - Steven K. Boyd
+  - Janet L. Ronsky
+  publisher: Journal of Biomechanics
+  date: '1997-12-01'
+  link: https://doi.org/dv2q2v
+  orcid: 0000-0002-2930-5997
+  plugin: orcid.py
+  file: orcid.yaml
+- id: arxiv:2111.01350
+  title: Constructing High-Order Signed Distance Maps from Computed Tomography Data
+    with Application to Bone Morphometry
+  authors:
+  - Bryce A. Besler
+  - Tannis D. Kemp
+  - Nils D. Forkert
+  - Steven K. Boyd
+  publisher: arXiv
+  date: '2021-11-03'
+  link: https://arxiv.org/abs/2111.01350
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:2110.13354
+  title: High-Order Signed Distance Transform of Sampled Signals
+  authors:
+  - Bryce A. Besler
+  - Tannis D. Kemp
+  - Nils D. Forkert
+  - Steven K. Boyd
+  publisher: arXiv
+  date: '2021-10-27'
+  link: https://arxiv.org/abs/2110.13354
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:2012.10483
+  title: Sphere Under Advection and Mean Curvature Flow
+  authors:
+  - Bryce A. Besler
+  - Tannis D. Kemp
+  - Nils D. Forkert
+  - Steven K. Boyd
+  publisher: arXiv
+  date: '2020-12-22'
+  link: https://arxiv.org/abs/2012.10483
+  plugin: sources.py
+  file: sources.yaml
+- id: pmid:23331665
+  title: Quantification of small joint space width, periarticular bone microstructure
+    and erosions using high-resolution peripheral quantitative computed tomography
+    in rheumatoid arthritis.
+  authors:
+  - Cheryl Barnabe
+  - Eva Szabo
+  - Liam Martin
+  - Steven K Boyd
+  - Susan G Barr
+  publisher: Clinical and experimental rheumatology
+  date: '2013-01-18'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/23331665
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.compbiomed.2024.108791
+  title: Deep learning-based automated detection and segmentation of bone and traumatic
+    bone marrow lesions from MRI following an acute ACL tear
+  authors:
+  - Callie E. Stirling
+  - Nathan J. Neeteson
+  - Richard E.A. Walker
+  - Steven K. Boyd
+  publisher: Computers in Biology and Medicine
+  date: '2024-08-01'
+  link: https://doi.org/gt66s7
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.bone.2024.117144
+  title: Statistical investigation of interdependence of trabecular microarchitectural
+    parameters from micro-computed tomography
+  authors:
+  - Nathan J. Neeteson
+  - Annabel R. Bugbird
+  - Lauren A. Burt
+  - Steven K. Boyd
+  publisher: Bone
+  date: '2024-10-01'
+  link: https://doi.org/gt64f4
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.rcl.2024.02.010
+  title: High-Resolution Peripheral Quantitative Computed Tomography in Rheumatic
+    Diseases
+  authors:
+  - Steven K. Boyd
+  publisher: Radiologic Clinics of North America
+  date: '2024-09-01'
+  link: https://doi.org/gt64f5
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/jbmr.4808
+  title: A Fracture Risk Assessment Tool for High Resolution Peripheral Quantitative
+    Computed Tomography
+  authors:
+  - Danielle E. Whittier
+  - Elizabeth J. Samelson
+  - Marian T. Hannan
+  - Lauren A. Burt
+  - David A. Hanley
+  - Emmanuel Biver
+  - Pawel Szulc
+  - "Elisabeth Sornay\u2010Rendu"
+  - Blandine Merle
+  - Roland Chapurlat
+  - Eric Lespessailles
+  - Andy Kin On Wong
+  - David Goltzman
+  - Sundeep Khosla
+  - Serge Ferrari
+  - Mary L. Bouxsein
+  - Douglas P. Kiel
+  - Steven K. Boyd
+  publisher: Journal of Bone and Mineral Research
+  date: '2023-05-03'
+  link: https://doi.org/gt64fv
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/mp.16482
+  title: "Bone\u2010GAN: Generation of virtual bone microstructure of high resolution\
+    \ peripheral quantitative computed tomography"
+  authors:
+  - Felix S. L. Thomsen
+  - Emmanuel Iarussi
+  - Jan Borggrefe
+  - Steven K. Boyd
+  - Yue Wang
+  - "Michele C. Batti\xE9"
+  publisher: Medical Physics
+  date: '2023-06-01'
+  link: https://doi.org/gt64fw
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3389/fendo.2023.1144137
+  title: Relationship between risk factors for impaired bone health and HR-pQCT in
+    young adults with type 1 diabetes
+  authors:
+  - Etienne B. Sochett
+  - Mary Dominicis
+  - Reza Vali
+  - Amer Shammas
+  - Yesmino Elia
+  - Rahim Moineddin
+  - Farid Mahmud
+  - Esther Assor
+  - Michelle Furman
+  - Steve K. Boyd
+  - Nina Lenherr-Taube
+  publisher: Frontiers in Endocrinology
+  date: '2023-03-03'
+  link: https://doi.org/gt64fx
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41598-022-27350-0
+  title: Automatic segmentation of trabecular and cortical compartments in HR-pQCT
+    images using an embedding-predicting U-Net and morphological post-processing
+  authors:
+  - Nathan J. Neeteson
+  - Bryce A. Besler
+  - Danielle E. Whittier
+  - Steven K. Boyd
+  publisher: Scientific Reports
+  date: '2023-01-05'
+  link: https://doi.org/gt64fz
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00198-022-06652-z
+  title: 'C-reactive protein predicts endocortical expansion but not fracture in older
+    men: the prospective STRAMBO study'
+  authors:
+  - Dylan Girard
+  - Philippe P. Wagner
+  - Danielle E. Whittier
+  - Steven K. Boyd
+  - Roland Chapurlat
+  - Pawel Szulc
+  publisher: Osteoporosis International
+  date: '2022-12-26'
+  link: https://doi.org/gt64f2
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3390/diagnostics13152572
+  title: Addressing Challenges of Opportunistic Computed Tomography Bone Mineral Density
+    Analysis
+  authors:
+  - Kirsten N. Bott
+  - Bryn E. Matheson
+  - Ainsley C. J. Smith
+  - Justin J. Tse
+  - Steven K. Boyd
+  - Sarah L. Manske
+  publisher: Diagnostics
+  date: '2023-08-02'
+  link: https://doi.org/gt64f3
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/jbmr.4494
+  title: Bone Microarchitecture Phenotypes Identified in Older Adults Are Associated
+    With Different Levels of Osteoporotic Fracture Risk
+  authors:
+  - Danielle E Whittier
+  - Elizabeth J Samelson
+  - Marian T Hannan
+  - Lauren A Burt
+  - David A Hanley
+  - Emmanuel Biver
+  - Pawel Szulc
+  - Elisabeth Sornay-Rendu
+  - Blandine Merle
+  - Roland Chapurlat
+  - Eric Lespessailles
+  - Andy Kin On Wong
+  - David Goltzman
+  - Sundeep Khosla
+  - Serge Ferrari
+  - Mary L Bouxsein
+  - Douglas P Kiel
+  - Steven K Boyd
+  publisher: Journal of Bone and Mineral Research
+  date: '2020-12-01'
+  link: https://doi.org/gn2thm
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1371/journal.pone.0273203
+  title: Internal calibration for opportunistic computed tomography muscle density
+    analysis
+  authors:
+  - Ainsley C. J. Smith
+  - Justin J. Tse
+  - Tadiwa H. Waungana
+  - Kirsten N. Bott
+  - Michael T. Kuczynski
+  - Andrew S. Michalski
+  - Steven K. Boyd
+  - Sarah L. Manske
+  publisher: PLOS ONE
+  date: '2022-10-17'
+  link: https://doi.org/gt64f6
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.ostima.2022.100068
+  title: A pilot study of four-year longitudinal bone changes following anterior cruciate
+    ligament reconstructive surgery using DXA and HR-pQCT
+  authors:
+  - Nikolas K. Knowles
+  - Nathan Neeteson
+  - Andres Kroker
+  - Richard E.A. Walker
+  - Steven K. Boyd
+  publisher: Osteoarthritis Imaging
+  date: '2022-06-01'
+  link: https://doi.org/gt64f7
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.cmpb.2022.107051
+  title: High performance multi-platform computing for large-scale image-based finite
+    element modeling of bone
+  authors:
+  - Nikolas K. Knowles
+  - Nathan Neeteson
+  - Steven K. Boyd
+  publisher: Computer Methods and Programs in Biomedicine
+  date: '2022-10-01'
+  link: https://doi.org/gt64f8
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.bone.2022.116517
+  title: Denosumab treatment is associated with decreased cortical porosity and increased
+    bone density and strength at the proximal humerus of ovariectomized cynomolgus
+    monkeys
+  authors:
+  - Ifaz T. Haider
+  - Andrew Sawatsky
+  - Ying Zhu
+  - Rebecca Page
+  - Paul J. Kostenuik
+  - Steven K. Boyd
+  - W. Brent Edwards
+  publisher: Bone
+  date: '2022-11-01'
+  link: https://doi.org/gt64f9
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.bone.2021.116260
+  title: Bone microarchitecture and estimated failure load are deteriorated whether
+    patients with chronic kidney disease have normal bone mineral density, osteopenia
+    or osteoporosis
+  authors:
+  - Ali Ghasem-Zadeh
+  - Minh Bui
+  - Ego Seeman
+  - Steven K. Boyd
+  - Sandra Iuliano
+  - Rizwan Jaipurwala
+  - Peter F. Mount
+  - Nigel D. Toussaint
+  - Cherie Chiang
+  publisher: Bone
+  date: '2022-01-01'
+  link: https://doi.org/gt64gb
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41598-022-13461-1
+  title: "Incomplete recovery of bone strength and trabecular microarchitecture at\
+    \ the distal tibia 1\_year after return from long duration spaceflight"
+  authors:
+  - Leigh Gabel
+  - Anna-Maria Liphardt
+  - Paul A. Hulme
+  - Martina Heer
+  - Sara R. Zwart
+  - Jean D. Sibonga
+  - Scott M. Smith
+  - Steven K. Boyd
+  publisher: Scientific Reports
+  date: '2022-06-30'
+  link: https://doi.org/gqfjpv
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00256-022-04023-7
+  title: Diagnostic accuracy of a dual-energy computed tomography-based post-processing
+    method for imaging bone marrow edema following an acute ligamentous knee injury
+  authors:
+  - Chantal M. J. de Bakker
+  - Tushar Peedikayil
+  - Richard E. A. Walker
+  - Nathan J. Neeteson
+  - Sarah L. Manske
+  - Steven K. Boyd
+  publisher: Skeletal Radiology
+  date: '2022-03-15'
+  link: https://doi.org/gt64gc
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jsams.2021.09.001
+  title: Bone density, microarchitecture and strength in elite figure skaters is discipline
+    dependent
+  authors:
+  - Lauren A. Burt
+  - Erik M. Groves
+  - Kelly Quipp
+  - Steven K. Boyd
+  publisher: Journal of Science and Medicine in Sport
+  date: '2022-02-01'
+  link: https://doi.org/gt64gd
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.bone.2020.115785
+  title: A new approach for quantifying localized bone loss by measuring void spaces
+  authors:
+  - Danielle E. Whittier
+  - Lauren A. Burt
+  - Steven K. Boyd
+  publisher: Bone
+  date: '2021-02-01'
+  link: https://doi.org/gt64gf
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1210/clinem/dgab506
+  title: "Bone Microarchitecture Decline and Risk of Fall and Fracture in Men With\
+    \ Poor Physical Performance\u2014The STRAMBO Study"
+  authors:
+  - Philippe Paul Wagner
+  - Danielle E Whittier
+  - Dominique Foesser
+  - Steven K Boyd
+  - Roland Chapurlat
+  - Pawel Szulc
+  publisher: The Journal of Clinical Endocrinology &amp; Metabolism
+  date: '2021-07-12'
+  link: https://doi.org/gt64gg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41586-020-03180-w
+  title: Neuroprosthetic baroreflex controls haemodynamics after spinal cord injury
+  authors:
+  - Jordan W. Squair
+  - Matthieu Gautier
+  - Lois Mahe
+  - Jan Elaine Soriano
+  - Andreas Rowald
+  - Arnaud Bichat
+  - Newton Cho
+  - Mark A. Anderson
+  - Nicholas D. James
+  - Jerome Gandar
+  - Anthony V. Incognito
+  - Giuseppe Schiavone
+  - Zoe K. Sarafis
+  - Achilleas Laskaratos
+  - Kay Bartholdi
+  - Robin Demesmaeker
+  - Salif Komi
+  - Charlotte Moerman
+  - Bita Vaseghi
+  - Berkeley Scott
+  - Ryan Rosentreter
+  - Claudia Kathe
+  - Jimmy Ravier
+  - Laura McCracken
+  - Xiaoyang Kang
+  - Nicolas Vachicouras
+  - Florian Fallegger
+  - Ileana Jelescu
+  - YunLong Cheng
+  - Qin Li
+  - Rik Buschman
+  - Nicolas Buse
+  - Tim Denison
+  - Sean Dukelow
+  - Rebecca Charbonneau
+  - Ian Rigby
+  - Steven K. Boyd
+  - Philip J. Millar
+  - Eduardo Martin Moraud
+  - Marco Capogrosso
+  - Fabien B. Wagner
+  - Quentin Barraud
+  - Erwan Bezard
+  - "St\xE9phanie P. Lacour"
+  - Jocelyne Bloch
+  - "Gr\xE9goire Courtine"
+  - Aaron A. Phillips
+  publisher: Nature
+  date: '2021-01-27'
+  link: https://doi.org/gkbh84
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.bonr.2021.100748
+  title: Improvements in radiographic and clinical assessment of distal radius fracture
+    healing by FE-estimated bone stiffness
+  authors:
+  - Phillip J.C. Spanswick
+  - Danielle E. Whittier
+  - Cory Kwong
+  - Robert Korley
+  - Steven K. Boyd
+  - Prism S. Schneider
+  publisher: Bone Reports
+  date: '2021-06-01'
+  link: https://doi.org/gt64gh
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jocd.2020.12.003
+  title: Restoration of Stiffness During Fracture Healing at the Distal Radius, Using
+    HR-pQCT and Finite Element Methods
+  authors:
+  - Phillip Spanswick
+  - Danielle Whittier
+  - Cory Kwong
+  - Robert Korley
+  - Steven Boyd
+  - Prism Schneider
+  publisher: Journal of Clinical Densitometry
+  date: '2021-07-01'
+  link: https://doi.org/gt64gj
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00223-021-00857-w
+  title: 'Maintained Bone Density in Young Hypoestrogenized Women with a High BMI:
+    Case Series'
+  authors:
+  - Anabel Cardenas Rivas
+  - Lauren A. Burt
+  - Micheil Innes
+  - Steven K. Boyd
+  - Gregory A. Kline
+  publisher: Calcified Tissue International
+  date: '2021-05-12'
+  link: https://doi.org/gjz27x
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s10439-021-02789-w
+  title: Proximal Tibia Bone Stiffness and Strength in HR-pQCT- and QCT-Based Finite
+    Element Models
+  authors:
+  - Nikolas K. Knowles
+  - Danielle E. Whittier
+  - Bryce A. Besler
+  - Steven K. Boyd
+  publisher: Annals of Biomedical Engineering
+  date: '2021-05-11'
+  link: https://doi.org/gjzjs7
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/cnm.3515
+  title: "An inverse technique to identify participant\u2010specific bone adaptation\
+    \ from serial <scp>CT</scp> measurements"
+  authors:
+  - Tannis D. Kemp
+  - Bryce A. Besler
+  - Steven K. Boyd
+  publisher: International Journal for Numerical Methods in Biomedical Engineering
+  date: '2021-08-09'
+  link: https://doi.org/gt64gk
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jocd.2021.01.004
+  title: Validation of Bone Density and Microarchitecture Measurements of the Load-Bearing
+    Femur in the Human Knee Obtained Using In Vivo HR-pQCT Protocol
+  authors:
+  - Christopher E. Keen
+  - Danielle E. Whittier
+  - Colin R. Firminger
+  - W Brent Edwards
+  - Steven K. Boyd
+  publisher: Journal of Clinical Densitometry
+  date: '2021-10-01'
+  link: https://doi.org/gt64gm
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jocd.2020.11.001
+  title: The Assessment of Skeletal Muscle and Cortical Bone by Second-generation
+    HR-pQCT at the Tibial Midshaft
+  authors:
+  - Kurt N Hildebrand
+  - Karamjot Sidhu
+  - Leigh Gabel
+  - Bryce A Besler
+  - Lauren A Burt
+  - Steven K Boyd
+  publisher: Journal of Clinical Densitometry
+  date: '2021-07-01'
+  link: https://doi.org/gtrvdb
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/mp.14791
+  title: "A quantitative assessment of dual energy computed tomography\u2010based\
+    \ material decomposition for imaging bone marrow edema associated with acute knee\
+    \ injury"
+  authors:
+  - Chantal M.J. de Bakker
+  - Richard E.A. Walker
+  - Bryce A. Besler
+  - Justin J. Tse
+  - Sarah L. Manske
+  - C. Ryan Martin
+  - Stephen J. French
+  - Andrew E. Dodd
+  - Steven K. Boyd
+  publisher: Medical Physics
+  date: '2021-03-11'
+  link: https://doi.org/gt64gn
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1177/0363546520985279
+  title: 'Structural Consequences of a Partial Anterior Cruciate Ligament Injury on
+    Remaining Joint Integrity: Evidence for Ligament and Bone Changes Over Time in
+    an Ovine Model'
+  authors:
+  - Kristen I. Barton
+  - Bryan J. Heard
+  - Andres Kroker
+  - Johnathan L. Sevick
+  - Duncan A. Raymond
+  - May Chung
+  - Yamini Achari
+  - C. Ryan Martin
+  - Cyril B. Frank
+  - Steven K. Boyd
+  - Nigel G. Shrive
+  - David A. Hart
+  publisher: The American Journal of Sports Medicine
+  date: '2021-02-01'
+  link: https://doi.org/gt64gp
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.bone.2020.115778
+  title: Heterogeneity in microstructural deterioration following spinal cord injury
+  authors:
+  - Ali Ghasem-Zadeh
+  - Mary P. Galea
+  - Andrew Nunn
+  - Maya Panisset
+  - Xiao-Fang Wang
+  - Sandra Iuliano
+  - Steven K. Boyd
+  - Mark R. Forwood
+  - Ego Seeman
+  publisher: Bone
+  date: '2021-01-01'
+  link: https://doi.org/gn9jfc
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:Doi 10.1111/Ede.12025
+  title: Effects of growth hormone on the ontogenetic allometry of craniofacial bones
+  authors:
+  - Paula N. Gonzalez
+  - Erika Kristensen
+  - Douglas W. Morck
+  - Steven Boyd
+  - "Benedikt Hallgr\xEDmsson"
+  publisher: Evolution & Development
+  date: '2013-03-01'
+  link: https://doi.org/doi 10.1111/ede.12025
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:DOI 10.1007/s12018-009-9066-2
+  title: Clinical Tools to Evaluate Bone Strength
+  authors:
+  - Sarah L. Manske
+  - Heather M. Macdonald
+  - Kyle K. Nishiyama
+  - Steven K. Boyd
+  - Heather A. McKay
+  publisher: Clinical Reviews in Bone and Mineral Metabolism
+  date: '2010-09-01'
+  link: https://doi.org/doi 10.1007/s12018-009-9066-2
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/s1350-4533(01)00062-5
+  title: Measurement of cancellous bone strain during mechanical tests using a new
+    extensometer device
+  authors:
+  - Steven Boyd
+  - Nigel Shrive
+  - Greg Wohl
+  - "Ralph M\xFCller"
+  - Ron Zernicke
+  publisher: Medical Engineering &amp; Physics
+  date: '2001-07-01'
+  link: https://doi.org/b3k3nh
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/s1440-2440(00)80040-7
+  title: Functional adaptation of bone to exercise and injury
+  authors:
+  - Gregory R Wohl
+  - Steven K Boyd
+  - Stefan Judex
+  - Ronald F Zernicke
+  publisher: Journal of Science and Medicine in Sport
+  date: '2000-09-01'
+  link: https://doi.org/cnczsj
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/s0268-0033(00)00023-1
+  title: Early morphometric and anisotropic change in periarticular cancellous bone
+    in a model of experimental knee osteoarthritis quantified using microcomputed
+    tomography
+  authors:
+  - Steven K Boyd
+  - "Ralph M\xFCller"
+  - John R Matyas
+  - Gregory R Wohl
+  - Ronald F Zernicke
+  publisher: Clinical Biomechanics
+  date: '2000-10-01'
+  link: https://doi.org/bz2fsc
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/s0021-9290(97)00135-8
+  title: Instantaneous moment arm determination of the cat knee
+  authors:
+  - Steven K. Boyd
+  - Janet L. Ronsky
+  publisher: Journal of Biomechanics
+  date: '1997-12-01'
+  link: https://doi.org/dv2q2v
   plugin: sources.py
   file: sources.yaml
