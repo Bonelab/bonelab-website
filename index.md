@@ -1,7 +1,7 @@
 ---
 ---
 
-# This site is under construction
+# This site is under construction (Test)
 Visit [Bone Imaging Lab](https://bonelab.ucalgary.ca)
 {:.center}
 
