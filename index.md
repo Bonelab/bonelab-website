@@ -2,7 +2,7 @@
 ---
 
 # This site is under construction
-Visit [Bone Imaging Lab](https://bonelab.ucalgary.ca)
+Please visit [Bone Imaging Lab](https://bonelab.ucalgary.ca)
 {:.center}
 
 {%
