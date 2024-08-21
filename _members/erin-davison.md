@@ -1,5 +1,5 @@
 ---
-name: Erin Davison (Hildebrandt)
+name: Erin Davison
 image: images/headshots/ErinHildebrandt.png
 description: MSc - Biomedical Engineering, 2013 – 2016
 role: msc

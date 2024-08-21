@@ -6,5 +6,7 @@ nav:
 ---
 
 # {% include icon.html icon="fa-solid fa-lightbulb" %}Ideas
-A collection of a few ideas for the future...
+
+A gathering place for future project ideas...
+
 {% include list.html data="posts" component="post-excerpt" %}

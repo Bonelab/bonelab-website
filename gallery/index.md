@@ -7,33 +7,6 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Gallery
 
-Here are some nice videos and images.
-
-{% include section.html %}
-
-## Videos
-
-{% capture content %}
-
-<video controls="controls" width="800" height="600" name="KUB">
-  <source src="/video/kub.mov">
-</video>
-
-<!-- autoplay="autoplay" -->
-<!-- loop="loop" -->
-
-<video controls="controls" width="800" height="600" name="Skeleton">
-  <source src="/video/skeleton.mov">
-</video>
-
-{% endcapture %}
-
-{%
-  include grid.html 
-  content=content
-  style="100%"
-%}
-
 {% include section.html %}
 
 ## Photographs over the years
@@ -112,6 +85,30 @@ A little taste of the types of things we do and fun we have...
   style="100%"
 %}
 
+{% include section.html %}
+
+## Cool Animations
+
+{% capture content %}
+
+<video controls="controls" width="800" height="600" name="KUB">
+  <source src="/video/kub.mov">
+</video>
+
+<!-- autoplay="autoplay" -->
+<!-- loop="loop" -->
+
+<video controls="controls" width="800" height="600" name="Skeleton">
+  <source src="/video/skeleton.mov">
+</video>
+
+{% endcapture %}
+
+{%
+  include grid.html 
+  content=content
+  style="100%"
+%}
 
 {% include section.html %}
 

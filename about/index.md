@@ -85,8 +85,12 @@ needs of our students, faculty, staff and community.
 We have a vibrant training environment in the Bone Imaging Lab that includes trainees at all
 levels, from undergraduate, to graduate (MSc, PhD) and post-doctoral fellows.
 
-We receive many queries about joining the lab and we try to respond to them all. However, to
+We receive many queries about joining the lab and we try to respond to them all. To
 increase the odds of having a favourable reply, it is encouraged to follow the guidance below.
+
+Successully getting a position is in part a matter of asking at the right time, right place. 
+Also, although a strong CV obviously helps, there are several factors that influence the decision. 
+Being well-rounded is highly regarded!
 
 ### Postdoctoral fellows
 

@@ -2,13 +2,12 @@
 name: Kara Sidhu
 image: images/headshots/KaraSidhu.png
 description: MSc – Biomedical Engineering, 2018 – 2020
-role: 
-affiliation: 
+role: msc
+affiliation: University of Calgary
 group: alumni
 aliases: 
 links:
-  Email: kksidhu@ucalgary.ca
-  Location: HRIC3C49
+  email: kksidhu@ucalgary.ca
 ---
 
 Kara’s research is focused on investigating bone health in children and adults diagnosed with rare 

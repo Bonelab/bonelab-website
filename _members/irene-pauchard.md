@@ -7,7 +7,7 @@ affiliation: University of Calgary
 group: alumni
 aliases: 
 links:
-  Email: irene.pauchard@ucalgary.ca
+  email: irene.pauchard@ucalgary.ca
 ---
 
 Irene has been working as a medical Radiology Technologist since 1999 first in Switzerland 

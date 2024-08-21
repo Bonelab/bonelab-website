@@ -7,8 +7,8 @@ affiliation: University of Calgary
 group: alumni
 aliases: 
 links:
-  Email: armaan.mohar1@ucalgary.ca
-  LinkedIn: https://www.linkedin.com/in/armaan-mohar-37a364162/
+  mail: armaan.mohar1@ucalgary.ca
+  linkedin: armaan-mohar-37a364162/
 ---
 
 Armaan is a senior software engineering student with a biomedical engineering minor at the University of Calgary. 

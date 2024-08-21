@@ -1,7 +1,7 @@
 ---
 title: Links
 nav:
-  order: 6
+  order: 7
   tooltip: Relevant links and videos
 ---
 
@@ -21,9 +21,10 @@ Please find some useful links related to the Bone Imaging Laboratory, as well as
 - [Faculty of Kinesiology](https://kinesiology.ucalgary.ca/)
 - [BME Graduate Program](https://www.ucalgary.ca/bme/graduate)
 
-##### Travel & Safety
-- [Register to travel for work](https://www.ucalgary.ca/risk/risk-management-insurance/travel/register-travel)
-- [Radiation safety](https://www.radiologyinfo.org/en/info.cfm?pg=safety-xray)
+##### GitHub Sites of Interest
+- [Bonelab](https://github.com/Bonelab)
+- [Numerics88](https://github.com/Numerics88)
+- [ManskeLab](https://github.com/ManskeLab)
 {% endcapture %}
 
 {% capture col2 %}
@@ -33,13 +34,14 @@ Please find some useful links related to the Bone Imaging Laboratory, as well as
 - [Alberta Innovates](https://albertainnovates.ca/)
 - [Graduate Student Salary Calculator](https://bonelab.github.io/salarycalc/index.html)
 
+##### Travel & Safety
+- [Register to travel for work](https://www.ucalgary.ca/risk/risk-management-insurance/travel/register-travel)
+- [Radiation safety](https://www.radiologyinfo.org/en/info.cfm?pg=safety-xray)
+
 ##### Visitor Information
 - [City of Calgary](https://www.calgary.ca/)
 - [Rocky Mountains](http://www.canadianrockies.net/)
 - [Government of Canada](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada.html)
-
-Online Courses
-- [Scientific Writing](https://www.coursera.org/learn/sciwrite)
 {% endcapture %}
 
 {%

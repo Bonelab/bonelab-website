@@ -9,7 +9,7 @@ aliases:
   - C. Stirling
   - C Stirling
 links:
-  Email: caledonia.stirling@ucalgary.ca
+  email: caledonia.stirling@ucalgary.ca
 education:
   - "Mechanical Engineering, Queen's University"
 ---
