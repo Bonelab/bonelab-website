@@ -5,7 +5,7 @@
 {% capture content %}
   {%
     include figure.html
-    image="images/photos/BIL CT Room.jpg"
+    image="images/photos/BIL_CT_Room.jpg"
     width="100%"
   %}
 {% endcapture %}
@@ -71,7 +71,7 @@ Our research includes developing methods for fragility **fracture risk**, how bo
 
 {%
   include feature.html
-  image="images/general/VITD2-cropped.png"
+  image="images/projects/VITD.png"
   link="research"
   title="Our Projects"
   flip=true
