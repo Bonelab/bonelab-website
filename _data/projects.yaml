@@ -3,56 +3,56 @@
 - title: Calgary Bone Health Study
   subtitle: Bone Microarchitecture
   group: studies
-  image: images/general/cabhs.png
+  image: images/projects/CABHS.png
   link: https://normative.ca
   description: "**CaBHS** A population-based study investigating the variation of bone across the lifespan so that we can determine who might be at risk for a fragility fracture."
 
 - title: Knee ACL Injuries and OA
   subtitle: SALTAC II
   group: studies
-  image: images/general/SALTAC.png
+  image: images/projects/SALTAC.png
   link: https://github.com/Bonelab/Ogo
   description: "**SALTAC II** We know that knee injuries affect all the tissues in the joint, so this study explores the role bone plays in the potential developemnt of osteoarthritis."
 
 - title: Opportunistic CT
   subtitle: Hip and Spine BMD
   group: studies
-  image: images/general/Opportunistic.png
+  image: images/projects/Opportunistic.png
   link: https://github.com/Bonelab/Ogo
   description: "**RETRO** CT scans are done in the healthcare system for many reasons, so we do opportunistic CT to reuse them to determine their bone health."
 
 - title: Astronauts
   subtitle: Bone Microarchitecture in Space
   group: studies
-  image: images/general/TBONE.png
+  image: images/projects/TBONE.png
   link: https://www.asc-csa.gc.ca/eng/sciences/tbone.asp
   description: "**TBONE** Astronauts lose bone in space due to microgravity, so we study how their microarchitecture changes in space and how it recovers when they return to Earth."
 
 - title: Predicting Hip Fractures
   subtitle: Microarchitecture for Fracture Prediction
   group: studies
-  image: images/general/HipFX.png
+  image: images/projects/HipFX.png
   link: (vitamind)
   description: "**HipFX** We used new morphological parameters and machine learning to predict when a person is at risk of a hip fracture based on their microarchitecture."
 
 - title: Calgary Vitamin D Study
   subtitle: Effects of Vitamin D Supplementation on Bone
   group: studies
-  image: images/general/VITD.png
+  image: images/projects/VITD.png
   link: (vitamind)
   description: "**VITD** A 3-year double-blind randomized controlled trial to study the effects of low, medium and high vitamin D supplementation on bone health using HR-pQCT."
 
 - title: Finite Elements
   subtitle: Image-Based Bone Strength Analysis
   group: studies
-  image: images/general/fea.png
+  image: images/projects/FEA.png
   link: https://bonelab.github.io/n88/
   description: "**FAIM** We combine medical imaging with finite element analysis to non-invasively determine bone strength of people for the prediction of fracture."
 
 - title: Quantitative CT
   subtitle: Establishing BMD from clinical CT
   group: studies
-  image: images/general/artinin.png
+  image: images/projects/ARTININ.png
   link: https://github.com/Bonelab/Ogo/blob/master/ogo/cli/ImageCalibration.py
   description: "**ARTININ** We use clinical CT scans for developing asynchronous and phantom-based approaches to measure volumetric bone mineral density."
 
@@ -61,35 +61,35 @@
 - title: Finite Element Analysis
   subtitle: Numerics88 FAIM
   group: software
-  image: images/general/Numerics88.png
+  image: images/projects/Numerics88.png
   link: https://bonelab.github.io/n88/
   description: This free package can be installed on MacOS, Linux or Windows for solving image-based FE models. It includes n88tools/vtkbone that reads AIM files.
 
 - title: Opportunistic CT
   subtitle: Ogo Repo
   group: software
-  image: images/general/Ogo.png
+  image: images/projects/Ogo.png
   link: https://github.com/Bonelab/Ogo
   description: An open-source repository for working with computed tomography data designed to support opportunistic screening. Includes various calibration methods.
 
 - title: HR-pQCT Knee Segmentation
   subtitle: Knee Seg Repo
   group: software
-  image: images/general/knee_2d.png
+  image: images/projects/Knee_2d.png
   link: https://github.com/Bonelab/HRpQCT-Knee-Seg
   description: A repository using machine learning to segment the knee and identify regions of interest in each of the four compartments for morphological analysis.
   
 - title: HR-pQCT Radius & Tibia Seg
   subtitle: Radius/Tibia Seg Repo
   group: software
-  image: images/general/radtib.png
+  image: images/projects/RadTib.png
   link: https://github.com/Bonelab/HR-pQCT-Segmentation
   description: Machine learning for segmenting the distal radius and distal tibia from HR-pQCT scans as an alternative to the morphological processing approach.
   
 - title: Bonelab Toolbox
   subtitle: Bonelab Repo
   group: software
-  image: images/general/Bonelab.png
+  image: images/projects/Bonelab.png
   link: https://github.com/Bonelab/Bonelab
   description: Open-source repository of tools for image processing for microCT, HR-pQCT, or similar data. It has tools for 3D registration and other useful applications.
   repo: Bonelab/Bonelab
@@ -97,7 +97,7 @@
 - title: Tomographic Reconstruction
   subtitle: Athabasca Recon Repo
   group: software
-  image: images/general/Athabasca.png
+  image: images/projects/Athabasca.png
   link: http://numerics88.github.io/athabasca_recon/
   description: An open-source package for computed tomography reconstruction using filtered back-projection. It is designed for parallel X-rays from synchrotron acquisition.
   repo: Numerics88/athabasca_recon
@@ -105,14 +105,14 @@
 - title: Normative Reference Data
   subtitle: Normative Repo
   group: software
-  image: images/general/normative.png
+  image: images/projects/Normative.png
   link: http://www.normative.ca
   description: A comprehensive online tool that generates reference plots for HR-pQCT data and DXA data, and reports for bone phenotyping and µFRAC fracture estimation.
 
 - title: Cortical Bone Mapping
   subtitle: See Bonelab Repo
   group: software
-  image: images/general/treece.png
+  image: images/projects/Treece.png
   link: https://github.com/Bonelab/Bonelab/blob/master/bonelab/cli/treece_thickness.py
   description: Building on the method devised by Graham Treece, it a model-based approach to extracting cortical thickness and the periosteal surface for HR-pQCT and CT.
 

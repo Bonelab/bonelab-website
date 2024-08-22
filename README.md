@@ -28,13 +28,13 @@ See https://www.ucalgary.ca/brand/standards-and-guidelines/colours
 
 ### Accent Colours
 
-- 2400 C (Teal): ![](/images/brandstandard/BrandStandardTeal.png)
+- 2400 C (Teal): 47a67c ![](/images/brandstandard/BrandStandardTeal.png)
 
-- 100 C (Light Yellow): ![](/images/brandstandard/BrandStandardLightYellow.png)
+- 100 C (Light Yellow): ffe57b ![](/images/brandstandard/BrandStandardLightYellow.png)
 
-- 7602 C (Brown): ![](/images/brandstandard/BrandStandardBrown.png)
+- 7602 C (Brown): 6c3302 ![](/images/brandstandard/BrandStandardBrown.png)
 
-- 2311 C (Taupe): ![](/images/brandstandard/BrandStandardTaupe.png)
+- 2311 C (Taupe): d3ac8b ![](/images/brandstandard/BrandStandardTaupe.png)
 
 
 ### Neutrals (for text only)
@@ -44,8 +44,3 @@ See https://www.ucalgary.ca/brand/standards-and-guidelines/colours
 - Dark Grey: 6d6e71 ![](/images/brandstandard/BrandStandardDarkGrey.png)
 
 - Light Grey: c7c8ca ![](/images/brandstandard/BrandStandardLightGreg.png)
-
-
-## Image dimensions
-– Brand Standards are 240x240
-- Project images are 500x340

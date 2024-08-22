@@ -1,6 +1,6 @@
 ---
 name: Alice Escher
-image: images/headshots/lucy.png
+image: images/headshots/Lucy.png
 description: Summer Student, 2016
 role: undergrad
 affiliation: University of Calgary
