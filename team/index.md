@@ -29,11 +29,16 @@ Feel free to [send an update](mailto:bonelab@ucalgary.ca).
 ## Alumni
 {% include list.html data="members" component="portrait" filters="role: ^pi$, group: alumni" style="small" %}
 {% include list.html data="members" component="portrait" filters="role: ^faculty$, group: alumni" style="small" %}
+#### Staff
 {% include list.html data="members" component="portrait" filters="role: ^staff$, group: alumni" style="small" %}
+#### Postdocs
 {% include list.html data="members" component="portrait" filters="role: ^postdoc$, group: alumni" style="small" %}
+#### Graduate Students
 {% include list.html data="members" component="portrait" filters="role: ^phd$, group: alumni" style="small" %}
 {% include list.html data="members" component="portrait" filters="role: ^msc$, group: alumni" style="small" %}
+#### Summer students, undergrads, co-op
 {% include list.html data="members" component="portrait" filters="role: ^undergrad$, group: alumni" style="small" %}
+#### Visiting
 {% include list.html data="members" component="portrait" filters="role: ^visiting$, group: alumni" style="small" %}
 
 {% include section.html %}
