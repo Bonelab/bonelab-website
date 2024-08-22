@@ -117,20 +117,42 @@ and computational specialists *staff*, and **faculty**. We collaborate with peop
 {% include section.html %}
 
 ## Funding
+{% capture col1 %}
+<a href="https://cihr-irsc.gc.ca/e/193.html"><img src="images/logos/Funder_CIHR.png"></a> <!-- width="50%" link="https://cihr-irsc.gc.ca/e/193.html" %}-->
+{% endcapture %}
 
-{% include figure.html width="100%" image="images/logos/funders.png" %}
+{% capture col2 %}
+<a href="https://www.nserc-crsng.gc.ca/index_eng.asp"><img src="images/logos/Funder_NSERC.png"></a> <!-- width="50%" link="https://www.nserc-crsng.gc.ca/index_eng.asp" %}-->
+{% endcapture %}
+
+{% capture col3 %}
+<a href="https://albertainnovates.ca/about/who-we-are/teams/health-innovations-team/"><img src="images/logos/Funder_AI.png"></a> <!-- width="50%" link="https://albertainnovates.ca/about/who-we-are/teams/health-innovations-team/" %}-->
+{% endcapture %}
+
+{% capture col4 %}
+<a href="https://www.innovation.ca"><img src="images/logos/Funder_CFI.png"></a> <!-- width="50%" link="https://www.innovation.ca" %}-->
+{% endcapture %}
+
+{% capture col5 %}
+<a href="https://www.asc-csa.gc.ca/eng/"><img src="images/logos/Funder_CSA.png"></a> <!-- width="50%" link="https://www.asc-csa.gc.ca/eng/" %}-->
+{% endcapture %}
+
+{% capture col6 %}
+<a href="https://arthritis.ca"><img src="images/logos/Funder_TAS.png"></a> <!-- width="50%" link="https://arthritis.ca" %}-->
+{% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 col3=col3 col4=col4 col5=col5 col6=col6%}
 
 {% include section.html %}
 
-## Useful Links
-{% capture content %}
-  {% include figure.html image="images/logos/Logo_MyUofC_555_200.png" link="https://login.my.ucalgary.ca" %}
-  {% include figure.html image="images/logos/Logo_McCaig_555_200.png" link="https://mccaig.ucalgary.ca" %}
-  {% include figure.html image="images/logos/Logo_Altmetric_555_200.png" link="https://www.altmetric.com/details/65516542" %}
-  {% include figure.html image="images/logos/Logo_BoneLab_555_200.png" link="https://ucalgary.ca/people/steven-boyd" %}
-  {% include figure.html image="images/logos/Logo_BoneWiki_555_200.png" link="http://bone.wiki" %}
-  {% include figure.html image="images/logos/Logo_Orcid_555_200.png" link="http://orcid.org/0000-0002-2930-5997" %}
-  {% include figure.html image="images/logos/Logo_PubMed_555_200.png" link="https://pubmed.ncbi.nlm.nih.gov/advanced/" %}
-  {% include figure.html image="images/logos/Logo_Scopus_555_200.png" link="https://www.scopus.com/authid/detail.uri?authorId=56216683100" %}
+{% capture col1 %}
+<a href="https://www.ucalgary.ca"><img src="images/logos/University_of_Calgary.png"></a>
 {% endcapture %}
-{% include grid.html content=content %}
+
+{% capture col2 %}
+<a href="https://mccaig.ucalgary.ca"><img src="images/logos/McCaig_Institute.png"></a>
+{% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 %}
+
+{% include section.html %}

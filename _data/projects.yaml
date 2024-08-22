@@ -11,7 +11,7 @@
   subtitle: SALTAC II
   group: studies
   image: images/projects/SALTAC.png
-  link: https://github.com/Bonelab/Ogo
+  link: https://github.com/Bonelab/HR-pQCT-Segmentation
   description: "**SALTAC II** We know that knee injuries affect all the tissues in the joint, so this study explores the role bone plays in the potential developemnt of osteoarthritis."
 
 - title: Opportunistic CT
@@ -32,14 +32,14 @@
   subtitle: Microarchitecture for Fracture Prediction
   group: studies
   image: images/projects/HipFX.png
-  link: (vitamind)
+  link: https://academic.oup.com/jbmr/article/39/5/571/7619013?login=true
   description: "**HipFX** We used new morphological parameters and machine learning to predict when a person is at risk of a hip fracture based on their microarchitecture."
 
 - title: Calgary Vitamin D Study
   subtitle: Effects of Vitamin D Supplementation on Bone
   group: studies
   image: images/projects/VITD.png
-  link: (vitamind)
+  link: https://jamanetwork.com/journals/jama/fullarticle/2748796
   description: "**VITD** A 3-year double-blind randomized controlled trial to study the effects of low, medium and high vitamin D supplementation on bone health using HR-pQCT."
 
 - title: Finite Elements

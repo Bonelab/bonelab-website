@@ -31,6 +31,17 @@ Calgary, Alberta, Canada, T2N 4Z6<br>
   tooltip="Our location on Google Maps for easy navigation"
   link="https://www.google.com/maps"
 %}
+{% include section.html %}
+
+{% 
+  include button.html 
+  icon=""
+  type="link"
+  text="Join Us!"
+  link="about"
+  tooltip="Learn about how to join us"
+  style="button" 
+%}
 
 {% include section.html %}
 ## Map
