@@ -98,7 +98,7 @@ and computational specialists *staff*, and **faculty**. We collaborate with peop
 
 {%
   include feature.html
-  image="images/photos/BIL Stairs.jpg"
+  image="images/photos/BIL_Stairs.jpg"
   link="team"
   title="Our Team"
   text=text
