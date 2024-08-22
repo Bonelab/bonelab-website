@@ -1,5 +1,5 @@
 ---
-image: images/general/Numerics88.png
+image: images/projects/Numerics88.png
 title: Determine the limits of the association between bone mineral density and bone strength
 author: Steven Boyd
 tags:

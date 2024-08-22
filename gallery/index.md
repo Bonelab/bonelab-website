@@ -59,7 +59,7 @@ A little taste of the types of things we do and fun we have...
 
 {% include figure.html image="images/gallery/2022_Bonelab.jpg" %}
 
-{% include figure.html image="images/gallery/2022_summer_students.jpg" %}
+{% include figure.html image="images/gallery/2022_summer_students.png" %}
 
 {% include figure.html image="images/gallery/2022_bme_conference.jpg" %}
 
@@ -91,15 +91,23 @@ A little taste of the types of things we do and fun we have...
 
 {% capture content %}
 
-<video controls="controls" width="800" height="600" name="KUB">
+<video controls="controls" autoplay="autoplay" loop="loop" width="400" name="KUB">
   <source src="/video/kub.mov">
 </video>
 
 <!-- autoplay="autoplay" -->
 <!-- loop="loop" -->
 
-<video controls="controls" width="800" height="600" name="Skeleton">
+<video controls="controls" autoplay="autoplay" loop="loop" width="400" name="Skeleton">
   <source src="/video/skeleton.mov">
+</video>
+
+<video controls="controls" autoplay="autoplay" loop="loop" width="400" name="Skeleton">
+  <source src="/video/knee_rois.mov">
+</video>
+
+<video controls="controls" autoplay="autoplay" loop="loop" width="400" name="Skeleton">
+  <source src="/video/knee_compartments.mov">
 </video>
 
 {% endcapture %}
