@@ -12,9 +12,11 @@ links:
   email: bonelab@ucalgary.ca
   twitter: brynmathesonn
 education:
-  - "BSc 2013 Bioengineering, Washington State University"
-  - "BSc 2013 Applied Mathematics, Washington State University"
+  - "BSc 2022 Bioengineering, Washington State University"
+  - "BSc 2022 Applied Mathematics, Washington State University"
 ---
 
 Bryn is a bioengineering and applied mathematics graduate from Washington State University whose 
 interest in bone and joint health began during her undergraduate research in tissue engineering.
+She currently works on the opportunistic and quantitative CT projects, with a special interest 
+in image calibration! 
