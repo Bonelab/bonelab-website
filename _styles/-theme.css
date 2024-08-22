@@ -1,5 +1,5 @@
 [data-dark=false] {
-  --primary: #0795d9;
+  --primary: #d6001c;
   --secondary: #7dd3fc;
   --text: #000000;
   --background: #ffffff;
@@ -11,7 +11,7 @@
 }
 
 [data-dark=true] {
-  --primary: #0795d9;
+  --primary: #d6001c;
   --secondary: #075985;
   --text: #ffffff;
   --background: #181818;
@@ -23,9 +23,9 @@
 }
 
 :root {
-  --title: "Barlow", sans-serif;
-  --heading: "Barlow", sans-serif;
-  --body: "Barlow", sans-serif;
+  --title: "Proxima Nova", sans-serif;
+  --heading: "Proxima Nova", sans-serif;
+  --body: "Proxima Nova", sans-serif;
   --code: "Roboto Mono", monospace;
   --large: 1.2rem;
   --xl: 1.4rem;
