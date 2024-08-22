@@ -41,7 +41,7 @@ Calgary, Alberta, Canada, T2N 4Z6<br>
 
 {%
   include figure.html
-  image="images/photos/BIL Xray Room Play.jpg"
+  image="images/photos/BIL_Xray-Room_Play.jpg"
   caption="See you around!"
 %}
 

@@ -25,6 +25,8 @@ Please find some useful links related to the Bone Imaging Laboratory, as well as
 - [Bonelab](https://github.com/Bonelab)
 - [Numerics88](https://github.com/Numerics88)
 - [ManskeLab](https://github.com/ManskeLab)
+- [ORMIR-MIDS](https://ormir-mids.github.io)
+- [uniGradICON](https://github.com/uncbiag/uniGradICON)
 {% endcapture %}
 
 {% capture col2 %}
