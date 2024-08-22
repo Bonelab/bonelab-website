@@ -70,7 +70,7 @@ needs of our students, faculty, staff and community.
 {% capture content %}
   {%
     include figure.html
-    image="images/photos/BIL Stairs.jpg"
+    image="images/photos/BIL_Stairs.jpg"
     caption="Bone Imaging Laboratory"
     width="100%"
   %}
