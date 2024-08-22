@@ -1,5 +1,5 @@
 ---
-image: images/general/Opportunistic.png
+image: images/projects/Opportunistic.png
 title: Opportunistic detection and risk assessment of vertebral fractures in high-risk populations using machine learning
 author: Bryn Matheson
 tags:

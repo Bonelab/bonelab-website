@@ -1,6 +1,6 @@
 ---
 name: Anna Steinhoff
-image: images/headshots/lucy.png
+image: images/headshots/Lucy.png
 description: Visiting Student, 2010
 role: visiting
 affiliation: University of Applied Sciences, Germany

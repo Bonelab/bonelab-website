@@ -1,6 +1,6 @@
 ---
 name: Anne Bauer
-image: images/headshots/lucy.png
+image: images/headshots/Lucy.png
 description: Internship Student, 2011
 role: visiting
 affiliation: German Sport University Cologne, Germany
