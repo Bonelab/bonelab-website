@@ -1,6 +1,6 @@
 ---
 name: Anja Zieger
-image: images/headshots/lucy.png
+image: images/headshots/Lucy.png
 description: Visiting Student, 2010
 role: visiting
 affiliation: University of Konstanz, Germany

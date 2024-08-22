@@ -1,6 +1,6 @@
 ---
 name: Alyssa Mudryk
-image: images/headshots/lucy.png
+image: images/headshots/Lucy.png
 description: Co-op Student, 2019
 role: undergrad
 affiliation: University of Victoria

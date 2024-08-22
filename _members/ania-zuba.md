@@ -1,6 +1,6 @@
 ---
 name: Ania Zuba
-image: images/headshots/lucy.png
+image: images/headshots/Lucy.png
 description: Summer Student, 2009
 role: undergrad
 affiliation: University of Calgary
