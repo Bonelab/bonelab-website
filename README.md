@@ -1,15 +1,13 @@
 
-# BonelabDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# Bone Imaging Laboratory
+We are a team of researchers at the University of Calgary focused on studying bone, with an emphasis 
+on using advanced medical imaging. Visit **[bonelab.ca](https://bonelab.ca)** 🚀
 
-Visit **[bonelab.ca](https://bonelab.ca)** 🚀
-
-_Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
-
-## Development
+## Webpage Updates
 Any lab member can make changes to the web site by creating a branch. Pull requests to merge to the 
 `main` branch are approved by the site administrator.
 
-If you simply want to request a change, [send an email](mailto:bonelab@ucalgary.ca).
+If you simply want to request a change (add a photo, update a member profile, etc.), [send an email](mailto:bonelab@ucalgary.ca).
 
 Create a branch and clone the repository to your computer. Download, install and run [Docker](https://www.docker.com). 
 Navigate to the base directory of your local copy of the repo and get things running:
@@ -25,7 +23,7 @@ Edit your local repo files and whenever you save a file your local web browser w
 your updates to GitHub to update the site online.
 
 ## Common Updates
-Some tips for simple updates.
+Here are some tips for simple updates.
 
 ### Post a new idea for a project
 A new [idea]("ideas") can be added by simply creating a new file in `_posts/` such as `2024-08-19-vertebral-fractures.md`.
@@ -36,17 +34,18 @@ directory. Update your profile, such as personal links (e.g., Email, Instagram, 
 
 Adding a new member is as simple as creating a new member file in `_members`. 
 
-Profile photos should be 600x600 and are stored in `images/headshots` using the naming format `FirstnameLastname.png`.
+Profile photos should be 600px X 600px and are stored in `images/headshots` using the naming format `FirstnameLastname.png`.
 
 All changes to `_members` are reflected on the web page upon pushing to GitHub and merging.
 
 ### Citations
-Citations are based on the ORCID ID of Dr. Steven Boyd. If you see a missing citation you can edit `_data/sources.yaml` with the DOI. If you 
-want to associate an image with a particular citation, that is defined in the same file. Typically a copy of the first page of the journal
-publication is a good image to use, and these are stored in `images/journal/`.
+Citations are based on the ORCID ID of Dr. Steven Boyd. If you see a missing citation you can edit `_data/sources.yaml` and identify
+the missing publication by DOI. If you want to associate an image with a particular citation, that is defined in the same file. 
+Typically a copy of the first page of the journal publication is a good image to use, and these are stored in `images/journal/`.
 
 ## University of Calgary Brand Standards
-See https://www.ucalgary.ca/brand/standards-and-guidelines/colours
+Since we are all members of the [University of Calgary](https://www.ucalgary.ca) we try to stick to the brand standards. Details
+can be found [here](https://www.ucalgary.ca/brand/standards-and-guidelines/colours).
 
 ### Primary Colours
 | | |
@@ -68,3 +67,5 @@ See https://www.ucalgary.ca/brand/standards-and-guidelines/colours
 |:-------------------------:|:-------------------------:|:-------------------------:|
 |<img width="120" alt="Black: 000000" src="/images/brandstandard/BrandStandardBlack.png">  000000|<img width="120" alt="Dark Grey: 6d6e71" src="/images/brandstandard/BrandStandardDarkGrey.png">  6d6e71| <img width="120" alt="Light Grey: c7c8ca" src="/images/brandstandard/BrandStandardLightGreg.png">  c7c8ca|
 
+
+_Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
