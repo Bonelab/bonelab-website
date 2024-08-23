@@ -9,8 +9,8 @@ _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-tem
 See https://www.ucalgary.ca/brand/standards-and-guidelines/colours
 
 ### Primary Colours 
-|:-------------------------:|:-------------------------:|
-|<img width="120" alt="Red: d6001c" src="/images/brandstandard/BrandStandardRed.png">  d6001c|<img width="120" alt="Gold: ffcd00" src="/images/brandstandard/BrandStandardGold.png">  ffcd00|
+(|:-------------------------:|:-------------------------:|
+|<img width="120" alt="Red: d6001c" src="/images/brandstandard/BrandStandardRed.png">  d6001c|<img width="120" alt="Gold: ffcd00" src="/images/brandstandard/BrandStandardGold.png">  ffcd00|)
 
 |Secondary Colours |  | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
