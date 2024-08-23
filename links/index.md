@@ -54,11 +54,11 @@ Please find some useful links related to the Bone Imaging Laboratory, as well as
 
 {% 
   include button.html 
-  icon=""
   type="link"
-  text="Join Us!"
+  text="Learn more!"
+  icon="fa-solid fa-circle-plus fa-beat"
   link="about"
-  tooltip="Learn about how to join us"
+  tooltip="Thinking about joining?"
   style="button" 
 %}
 

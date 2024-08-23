@@ -82,7 +82,7 @@ Our research includes developing methods for fragility **fracture risk**, how bo
 {% capture text %}
 
 Our team includes **undergraduate** summer students, **graduate students** doing their MSc or PhD, **post-doctoral fellows**, medical imaging
-and computational specialists *staff*, and **faculty**. We collaborate with people in Calgary and around the world.
+and computational specialists, **staff**, and **faculty**. We collaborate with people in Calgary and around the world.
 
 
 {%
@@ -108,9 +108,9 @@ and computational specialists *staff*, and **faculty**. We collaborate with peop
   include button.html 
   type="link"
   text="Learn more!"
-  icon="fa-solid fa-handshake"
+  icon="fa-solid fa-circle-plus fa-beat"
   link="about"
-  tooltip="Learn more"
+  tooltip="Thinking about joining?"
   style="button" 
 %}
 
