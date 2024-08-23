@@ -8,10 +8,21 @@ _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-tem
 ## University of Calgary Brand Standards
 See https://www.ucalgary.ca/brand/standards-and-guidelines/colours
 
-|A |B |C |D |
+|Primary Colours |  |
+|:-------------------------:|:-------------------------:|
+|<img width="120" alt="Red: d6001c" src="/images/brandstandard/BrandStandardRed.png">  d6001c|<img width="120" alt="Gold: ffcd00" src="/images/brandstandard/BrandStandardGold.png">  ffcd00|
+
+|Secondary Colours |  | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
-|Primary Colours |  <img width="80" alt="Red: d6001c" src="/images/brandstandard/BrandStandardRed.png">  d6001c|<img width="80" alt="Gold: ffcd00" src="/images/brandstandard/BrandStandardGold.png">  ffcd00||
-|Primary Colours |  <img width="80" alt="Red: d6001c" src="/images/brandstandard/BrandStandardRed.png">  d6001c|<img width="80" alt="Gold: ffcd00" src="/images/brandstandard/BrandStandardGold.png">  ffcd00||
+|<img width="120" alt="Light orange: ffa300" src="/images/brandstandard/BrandStandardLightOrange.png">  ffa300|<img width="120" alt="Dark orange: ff671f" src="/images/brandstandard/BrandStandardDarkOrange.png">  ff671f|<img width="120" alt="Rubine Red C: ed0a72" src="/images/brandstandard/BrandStandardRubine.png">  ed0a72|<img width="120" alt="1945 C (Berry): 9c0534" src="/images/brandstandard/BrandStandardBerry.png">  9c0534|
+
+|Secondary Colours |  | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img width="120" alt="2400 C (Teal): 47a67c" src="/images/brandstandard/BrandStandardTeal.png">  47a67c|<img width="120" alt="100 C (Light Yellow): ffe57b" src="/images/brandstandard/BrandStandardLightYellow.png">  ffe57b| <img width="120" alt="7602 C (Brown): 6c3302" src="/images/brandstandard/BrandStandardBrown.png">  6c3302|<img width="120" alt="2311 C (Taupe): d3ac8b" src="/images/brandstandard/BrandStandardTaupe.png">  d3ac8b|
+
+|Neutrals | text only  | | 
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img width="120" alt="Black: 000000" src="/images/brandstandard/BrandStandardBlack.png">  000000|<img width="120" alt="Dark Grey: 6d6e71" src="/images/brandstandard/BrandStandardDarkGrey.png">  6d6e71| <img width="120" alt="Light Grey: c7c8ca" src="/images/brandstandard/BrandStandardLightGreg.png">  c7c8ca|
 
 ### Primary Colours
 
