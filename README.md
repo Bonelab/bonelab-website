@@ -8,6 +8,12 @@ _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-tem
 ## University of Calgary Brand Standards
 See https://www.ucalgary.ca/brand/standards-and-guidelines/colours
 
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img width="50" alt="Red: d6001c" src="/images/brandstandard/BrandStandardRed.png">  d6001c |  <img width="50" alt="Red: d6001c" src="/images/brandstandard/BrandStandardRed.png">  d6001c|<img width="50" alt="Red: d6001c" src="/images/brandstandard/BrandStandardRed.png">  d6001c|
+|<img width="50" alt="Red: d6001c" src="/images/brandstandard/BrandStandardRed.png">  d6001c |  <img width="50" alt="Red: d6001c" src="/images/brandstandard/BrandStandardRed.png">  d6001c|<img width="50" alt="Red: d6001c" src="/images/brandstandard/BrandStandardRed.png">  d6001c|
+|<img width="50" alt="Red: d6001c" src="/images/brandstandard/BrandStandardRed.png">  d6001c |  <img width="50" alt="Red: d6001c" src="/images/brandstandard/BrandStandardRed.png">  d6001c|<img width="50" alt="Red: d6001c" src="/images/brandstandard/BrandStandardRed.png">  d6001c|
+
 ### Primary Colours
 
 - Red: d6001c ![](/images/brandstandard/BrandStandardRed.png)
