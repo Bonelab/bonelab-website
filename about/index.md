@@ -59,7 +59,7 @@ supplementation on bone health.
 
 ## Our Mission
 To advance the detection, treatment and management of osteoporosis and osteoarthritis through 
-advanced medical imaging and medical image analysis. We aim to advance inclusive excellence in 
+medical imaging and medical image analysis. We aim to embrace inclusivity in 
 research by realizing the core values of respect, integrity, teamwork and excellence. We strive 
 to create an environment that is welcoming, culturally sensitive and responsive to the diverse 
 needs of our students, faculty, staff and community.
@@ -88,8 +88,8 @@ levels, from undergraduate, to graduate (MSc, PhD) and post-doctoral fellows.
 We receive many queries about joining the lab and we try to respond to them all. To
 increase the odds of having a favourable reply, it is encouraged to follow the guidance below.
 
-Successully getting a position is in part a matter of asking at the right time, right place. 
-Also, although a strong CV obviously helps, there are several factors that influence the decision. 
+Success at being accepted for a research position is partly about good timing and partly about your qualifications.
+Although a strong CV obviously helps, there are several factors that influence the decision. 
 Being well-rounded is highly regarded!
 
 ### Postdoctoral fellows
