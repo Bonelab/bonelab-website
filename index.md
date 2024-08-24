@@ -107,10 +107,10 @@ and computational specialists, **staff**, and **faculty**. We collaborate with p
 {% 
   include button.html 
   type="link"
-  text="Learn more!"
+  text="Thinking of applying? Learn more here"
   icon="fa-solid fa-circle-plus fa-beat"
   link="about"
-  tooltip="Thinking about joining?"
+  tooltip="Information about the application process"
   style="button" 
 %}
 

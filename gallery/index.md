@@ -37,7 +37,7 @@ A little taste of the types of things we do and fun we have...
 
 {% include figure.html image="images/gallery/2015_bonelab_members.jpg" %}
 
-{% include figure.html image="images/gallery/2016_McCaig Foundation.jpg" %}
+{% include figure.html image="images/gallery/2016_McCaig_Foundation.jpg" %}
 
 {% include figure.html image="images/gallery/2016_xt_install.jpg" %}
 
