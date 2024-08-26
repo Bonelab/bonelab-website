@@ -7,6 +7,6 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-lightbulb" %}Ideas
 
-A gathering place for future project ideas...
+Here is a place we collect ideas for future projects. Some of them are small and some are big!
 
 {% include list.html data="posts" component="post-excerpt" %}

@@ -18,7 +18,10 @@ scope:
   - "Includes grading, model development, identifying spine diseases in scans, running inference on dataset, statistics"
 ---
 
-Training a machine learning model that can identify vertebral fractures in clinical CT scans. 
+Training a machine learning model that can identify vertebral fractures in clinical CT scans...
+
+ 
+Training a machine learning model that can identify vertebral fractures in clinical CT scans.
 This model could either identify the presence of fractures OR identify the fractures and give 
 the fracture a grade based on Genant classification. Once the ML model is developed, it could 
 be used on RETRO2 to create associations with fracture risk and individuals with various spinal 

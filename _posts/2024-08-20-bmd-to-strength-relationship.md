@@ -16,6 +16,8 @@ scope:
   - "Perform finite element analysis on bone microarchitecture."
   - "Measure bone mineral density."
 ---
+Exploring the relationship between BMD and bone strength: can microarchitecture break the link?
+
 
 There is a strong relationship between bone mineral density (BMD) and bone strength, however
 that relationship breaks down when bone microarchitecture is affected. It is difficult to know
