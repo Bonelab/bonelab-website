@@ -62,10 +62,10 @@
 
   <meta name="author" content="Steven Boyd">
   <meta property="og:type" content="article">
-  <meta property="og:updated_time" content="2024-08-24T14:31:50+00:00">
+  <meta property="og:updated_time" content="2024-08-26T13:58:19+00:00">
   <meta property="article:published_time" content="2024-08-22T00:00:00+00:00">
-  <meta property="article:modified_time" content="2024-08-24T14:31:50+00:00">
-  <meta name="revised" content="2024-08-24T14:31:50+00:00">
+  <meta property="article:modified_time" content="2024-08-26T13:58:19+00:00">
+  <meta name="revised" content="2024-08-26T13:58:19+00:00">
 
 
 <script type="application/ld+json">
@@ -75,7 +75,7 @@
       "@type": "BlogPosting",
       "author": { "@type": "Person", "name": "Extraction of an image mask from polygon data" },
       "datePublished": "2024-08-22T00:00:00+00:00",
-      "dateModified": "2024-08-24T14:31:50+00:00",
+      "dateModified": "2024-08-26T13:58:19+00:00",
     
     "name": "Extraction of an image mask from polygon data",
     "description": "University of Calgary. ",
@@ -453,7 +453,7 @@
   
     <span data-tooltip="Last updated on">
       <i class="icon fa-solid fa-clock-rotate-left"></i>
-      <span>August 24, 2024</span>
+      <span>August 26, 2024</span>
     </span>
   
 </div>
@@ -490,21 +490,23 @@
 <!-- Description -->
 <div>
   <h3>Project Description</h3>
-  <p>Cortical bone mapping with global optimization produces incredible results for all types
+  <p>Developing a new method with universal application for defining bone compartments…</p>
+
+<p>Cortical bone mapping with global optimization produces incredible results for all types
 of CT data, including clinical CT and HR-pQCT. The result of the algorithm is a polygon
 dataset of the periosteal surface of the bone and scalars representing the local thickness
 (i.e., periosteal to endosteal) calculated by the algorithm. The calculation of cortical
 thickness can be summarized from the individual data points (i.e., means, standard deviations,
 localized measurements, etc).</p>
 
-<p>https://github.com/Bonelab/Bonelab/blob/master/bonelab/cli/treece_thickness.py</p>
+<p><a href="https://github.com/Bonelab/Bonelab/blob/master/bonelab/cli/treece_thickness.py">https://github.com/Bonelab/Bonelab/blob/master/bonelab/cli/treece_thickness.py</a></p>
 
 <p>However, the algorithm cannot produce an image mask. So the aim of this project is to develop 
 additional functionality that outputs a binarized image with voxels labelled as cortical bone (127), 
 trabecular bone (100), and background (0). The image will be the identical size to the input
 that is input. Likely it would be based on VTK stencil objects (similar to blRapidPrototype):</p>
 
-<p>https://github.com/Bonelab/Bonelab/blob/master/bonelab/cli/RapidPrototype.py</p>
+<p><a href="https://github.com/Bonelab/Bonelab/blob/master/bonelab/cli/RapidPrototype.py">https://github.com/Bonelab/Bonelab/blob/master/bonelab/cli/RapidPrototype.py</a></p>
 
 <p>When completed it will be validated on HR-pQCT of radius, tibia and knee, as well as QCT of 
 abdomen and knee.</p>
