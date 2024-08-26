@@ -30,8 +30,8 @@ by space flight, and more.
 
 {% capture text %}
 
-Our research uses **advanced medical imaging and computational methods** to study bone fragility and treatments in **osteoporosis** 
-and how to prevent **osteoarthritis** after suffering a joint injury.
+Our research uses advanced medical imaging and computational methods to study bone fragility and treatments in osteoporosis 
+and how to prevent osteoarthritis after suffering a joint injury.
 
 {%
   include button.html
@@ -54,9 +54,9 @@ and how to prevent **osteoarthritis** after suffering a joint injury.
 
 {% capture text %}
 
-Our research includes developing methods for fragility **fracture risk**, how bones change in **astronauts**, the effects of 
-**vitamin D**, what happens to a **knee joint** after a tear of the ACL, using **machine learning** for assessing bone quality in
-**opportunistic CT**, and much more.
+Our research includes developing methods for fragility fracture risk, how bones change in astronauts, the effects of 
+vitamin D, what happens to a knee joint after a tear of the ACL, using machine learning for assessing bone quality in
+opportunistic CT, and much more.
 
 {%
   include button.html
@@ -81,8 +81,8 @@ Our research includes developing methods for fragility **fracture risk**, how bo
 
 {% capture text %}
 
-Our team includes **undergraduate** summer students, **graduate students** doing their MSc or PhD, **post-doctoral fellows**, medical imaging
-and computational specialists, **staff**, and **faculty**. We collaborate with people in Calgary and around the world.
+Our team includes undergraduate summer students, graduate students doing their MSc or PhD, post-doctoral fellows, medical imaging
+and computational specialists, staff, and faculty. We collaborate with people in Calgary and around the world.
 
 
 {%
@@ -109,7 +109,7 @@ and computational specialists, **staff**, and **faculty**. We collaborate with p
   type="link"
   text="Thinking of applying? Learn more here"
   icon="fa-solid fa-circle-plus fa-beat"
-  link="about"
+  link="about#joinus"
   tooltip="Information about the application process"
   style="button" 
 %}

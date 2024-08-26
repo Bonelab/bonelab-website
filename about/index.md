@@ -64,6 +64,7 @@ research by realizing the core values of respect, integrity, teamwork and excell
 to create an environment that is welcoming, culturally sensitive and responsive to the diverse 
 needs of our students, faculty, staff and community.
 
+<div id="joinus"></div>
 {:.left}
 ##  {% include icon.html icon="fa-solid fa-tower-broadcast" %} Get Involved!
 

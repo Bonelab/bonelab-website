@@ -9,7 +9,7 @@ nav:
 
 {% include section.html %}
 
-## Photographs over the years
+## Photographs
 
 A little taste of the types of things we do and fun we have...
 
@@ -87,7 +87,7 @@ A little taste of the types of things we do and fun we have...
 
 {% include section.html %}
 
-## Cool Animations
+## Animations
 
 {% capture content %}
 

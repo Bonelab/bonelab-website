@@ -38,7 +38,7 @@ Calgary, Alberta, Canada, T2N 4Z6<br>
   type="link"
   text="Thinking of applying? Learn more here"
   icon="fa-solid fa-circle-plus fa-beat"
-  link="about"
+  link="about#joinus"
   tooltip="Information about the application process"
   style="button" 
 %}
