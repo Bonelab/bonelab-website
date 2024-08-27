@@ -3,7 +3,7 @@ name: Claire Li
 image: images/headshots/ClaireLi.png
 description: Summer Student, 2024
 role: undergrad
-affiliation: University of Calgary
+affiliation: UCLA
 group: current
 links:
   email: claire.li1@ucalgary.ca
