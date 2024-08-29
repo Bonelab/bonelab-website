@@ -5,7 +5,7 @@
 {% capture content %}
   {%
     include figure.html
-    image="images/photos/BIL_CT_Room.jpg"
+    image="images/general/BIL_CT_Room.jpg"
     width="100%"
   %}
 {% endcapture %}
@@ -98,7 +98,7 @@ and computational specialists, staff, and faculty. We collaborate with people in
 
 {%
   include feature.html
-  image="images/photos/BIL_Stairs.jpg"
+  image="images/general/BIL_Stairs.jpg"
   link="team"
   title="Our Team"
   text=text
@@ -118,27 +118,27 @@ and computational specialists, staff, and faculty. We collaborate with people in
 
 ## Funding
 {% capture col1 %}
-<a href="https://cihr-irsc.gc.ca/e/193.html"><img src="images/logos/Funder_CIHR.png"></a> <!-- width="50%" link="https://cihr-irsc.gc.ca/e/193.html" %}-->
+<a href="https://cihr-irsc.gc.ca/e/193.html" target="_blank"><img src="images/logos/Funder_CIHR.png"></a> <!-- width="50%" link="https://cihr-irsc.gc.ca/e/193.html" %}-->
 {% endcapture %}
 
 {% capture col2 %}
-<a href="https://www.nserc-crsng.gc.ca/index_eng.asp"><img src="images/logos/Funder_NSERC.png"></a> <!-- width="50%" link="https://www.nserc-crsng.gc.ca/index_eng.asp" %}-->
+<a href="https://www.nserc-crsng.gc.ca/index_eng.asp" target="_blank"><img src="images/logos/Funder_NSERC.png"></a> <!-- width="50%" link="https://www.nserc-crsng.gc.ca/index_eng.asp" %}-->
 {% endcapture %}
 
 {% capture col3 %}
-<a href="https://albertainnovates.ca/about/who-we-are/teams/health-innovations-team/"><img src="images/logos/Funder_AI.png"></a> <!-- width="50%" link="https://albertainnovates.ca/about/who-we-are/teams/health-innovations-team/" %}-->
+<a href="https://albertainnovates.ca/about/who-we-are/teams/health-innovations-team/" target="_blank"><img src="images/logos/Funder_AI.png"></a> <!-- width="50%" link="https://albertainnovates.ca/about/who-we-are/teams/health-innovations-team/" %}-->
 {% endcapture %}
 
 {% capture col4 %}
-<a href="https://www.innovation.ca"><img src="images/logos/Funder_CFI.png"></a> <!-- width="50%" link="https://www.innovation.ca" %}-->
+<a href="https://www.innovation.ca" target="_blank"><img src="images/logos/Funder_CFI.png"></a> <!-- width="50%" link="https://www.innovation.ca" %}-->
 {% endcapture %}
 
 {% capture col5 %}
-<a href="https://www.asc-csa.gc.ca/eng/"><img src="images/logos/Funder_CSA.png"></a> <!-- width="50%" link="https://www.asc-csa.gc.ca/eng/" %}-->
+<a href="https://www.asc-csa.gc.ca/eng/" target="_blank"><img src="images/logos/Funder_CSA.png"></a> <!-- width="50%" link="https://www.asc-csa.gc.ca/eng/" %}-->
 {% endcapture %}
 
 {% capture col6 %}
-<a href="https://arthritis.ca"><img src="images/logos/Funder_TAS.png"></a> <!-- width="50%" link="https://arthritis.ca" %}-->
+<a href="https://arthritis.ca" target="_blank"><img src="images/logos/Funder_TAS.png"></a> <!-- width="50%" link="https://arthritis.ca" %}-->
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 col4=col4 col5=col5 col6=col6%}
@@ -146,11 +146,11 @@ and computational specialists, staff, and faculty. We collaborate with people in
 {% include section.html %}
 
 {% capture col1 %}
-<a href="https://www.ucalgary.ca"><img src="images/logos/University_of_Calgary.png"></a>
+<a href="https://www.ucalgary.ca" target="_blank"><img src="images/logos/University_of_Calgary.png"></a>
 {% endcapture %}
 
 {% capture col2 %}
-<a href="https://mccaig.ucalgary.ca"><img src="images/logos/McCaig_Institute.png"></a>
+<a href="https://mccaig.ucalgary.ca" target="_blank"><img src="images/logos/McCaig_Institute.png"></a>
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 %}

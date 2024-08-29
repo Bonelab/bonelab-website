@@ -9,11 +9,12 @@ nav:
 
 The Bone Imaging Laboratory is a research team of about 20 staff and trainees led by [Dr. Steven Boyd](/members/steven-boyd.html). 
 We are based at the 
-[University of Calgary](https://www.ucalgary.ca) in the 
-[Cumming School of Medicine](https://cumming.ucalgary.ca), located in the 
-[McCaig Institute for Bone and Joint Health](https://mccaig.ucalgary.ca). Dr. Boyd is a Professor in the 
-[Department of Radiology](https://cumming.ucalgary.ca/departments/radiology/home), and a member of the 
-[Image Science Division](https://cumming.ucalgary.ca/departments/radiology/division/image-science).
+<a href="https://www.ucalgary.ca" target="_blank">University of Calgary</a> in the
+<a href="https://cumming.ucalgary.ca" target="_blank">Cumming School of Medicine</a>, located in the 
+<a href="https://mccaig.ucalgary.ca" target="_blank">McCaig Institute for Bone and Joint Health</a>. 
+Dr. Boyd is a Professor in the 
+<a href="https://cumming.ucalgary.ca/departments/radiology/home" target="_blank">Department of Radiology</a>, and a member of the 
+<a href="https://cumming.ucalgary.ca/departments/radiology/division/image-science" target="_blank">Image Science Division</a>.
 
 {% include section.html %}
 
@@ -71,7 +72,7 @@ needs of our students, faculty, staff and community.
 {% capture content %}
   {%
     include figure.html
-    image="images/photos/BIL_Stairs.jpg"
+    image="images/general/BIL_Stairs.jpg"
     caption="Bone Imaging Laboratory"
     width="100%"
   %}
@@ -97,8 +98,8 @@ Being well-rounded is highly regarded!
 
 Typically we do not have funding for postdoctoral fellows, unless otherwise noted. However, if you
 have your own funding, please contact us at the email at the bottom of this page. If you are interested
-in applying for funding, some common sources are [CIHR](https://cihr-irsc.gc.ca/e/193.html), 
-[NSERC](https://www.nserc-crsng.gc.ca/index_eng.asp), and [AIHS](https://albertainnovates.ca).
+in applying for funding, some common sources are <a href="https://cihr-irsc.gc.ca/e/193.html" target="_blank">CIHR</a>, 
+<a href="https://www.nserc-crsng.gc.ca/index_eng.asp" target="_blank">NSERC</a>, and <a href="https://albertainnovates.ca" target="_blank">AIHS</a>.
 
 When contacting by email, please include the following:
 
@@ -111,9 +112,10 @@ Applications are accepted at any time.
 ### Graduate students
 
 Graduate students in the Bone Imaging Lab have undergraduate degrees in engineering (all types), kinesiology, or 
-other science degrees. They typically enter the [Biomedical Engineering Graduate Program](https://schulich.ucalgary.ca/biomedical/programs/graduate) program, 
-but sometimes also the [Faculty of Kinesiology](https://kinesiology.ucalgary.ca/current-students/graduates/doctor-philosophy) 
-and other departments at the [Schulich School of Engineering](https://schulich.ucalgary.ca).
+other science degrees. They typically enter the 
+<a href="https://schulich.ucalgary.ca/biomedical/programs/graduate" target="_blank">Biomedical Engineering Graduate Program</a> program, 
+but sometimes also the <a href="https://kinesiology.ucalgary.ca/current-students/graduates/doctor-philosophy" target="_blank">Faculty of Kinesiology</a> 
+and other departments at the <a href="https://schulich.ucalgary.ca" target="_blank">Schulich School of Engineering</a>.
 
 Contact the lab before applying to those programs at the email at the bottom of this page.
 In your query, please include the following:

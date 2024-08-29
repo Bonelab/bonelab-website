@@ -8,7 +8,7 @@ nav:
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
 <div align="center">
-	<video controls="controls" width="300" height="300" autoplay="autoplay" loop="loop" name="Skeleton">
+	<video width="300" height="300" autoplay="autoplay" loop="loop" name="Skeleton">
 	  <source src="/video/skeleton.mov">
 	</video>
 </div>
@@ -58,3 +58,10 @@ Take a spin through and see if you find something you like...
 
 {% include section.html %}
 
+## {% include icon.html icon="fa-solid fa-lightbulb" %}New Ideas
+
+Here is a place we collect ideas for future projects. Some of them are small and some are big!
+
+{% include list.html data="posts" component="post-excerpt" %}
+
+{% include section.html %}

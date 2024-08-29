@@ -32,6 +32,8 @@ Dr. Steven Boyd, PhD, is a Professor, Department of Radiology in the Cumming Sch
 at the University of Calgary and former (2016-2023) Director of the McCaig Institute for Bone and 
 Joint Health. He is a Biomedical Engineer with a joint appointment in the Schulich School of Engineering. 
 
+You can visit his university web page <a href="https://ucalgary.ca/people/steven-boyd" target="_blank">here</a>.
+
 Dr. Boyd’s research focuses on understanding the aetiology of bone and joint diseases, with a 
 particular interest in interventions targeting osteoporotic fracture prevention and altering the 
 trajectory of post-traumatic osteoarthritis following an acute knee ligament injury. His work 
@@ -39,7 +41,7 @@ develops and applies novel high-resolution imaging techniques and computational 
 and he has established a vibrant research team consisting of a senior scientist, post-doctoral 
 fellows, MSc and PhD graduate students, undergraduate students and full-time staff based at his 
 Bone Imaging Laboratory. He has published over 240 peer-reviewed manuscripts, 7 book chapters and 
-has an H-index (Scopus, 2023) of 51 with over 12,000 citations. Recent publications include work 
+has an H-index (Scopus, 2024) of 53 with over 13,000 citations. Recent publications include work 
 in the area of vitamin D supplementation (JAMA), opportunistic CT (Med Eng Phys), post-traumatic 
 osteoarthritis (J Orthop Res), image-based finite element analysis (J Biomech), contrast-enhanced 
 imaging (J Clin Densitom) and fracture prediction in a longitudinal cohort study of bone health (J Bone Miner Res).

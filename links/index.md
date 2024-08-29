@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Links
 
-Please find some useful links related to the Bone Imaging Laboratory, as well as a series of YouTube videos.
+Please find some useful links related to the Bone Imaging Laboratory and our YouTube videos.
 
 ## Helpful Links
 
@@ -44,6 +44,11 @@ Please find some useful links related to the Bone Imaging Laboratory, as well as
 - [City of Calgary](https://www.calgary.ca/)
 - [Rocky Mountains](http://www.canadianrockies.net/)
 - [Government of Canada](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada.html)
+
+##### University of Calgary
+- [Parking](https://www.ucalgary.ca/ancillary/parking/parking-permits/find-parking)
+- [Maps](https://www.ucalgary.ca/about/our-campuses/campus-maps-and-room-finder)
+- [Transit](https://www.ucalgary.ca/sites/default/files/teams/157/Main-Campus-Transit_20230831.pdf)
 {% endcapture %}
 
 {%
