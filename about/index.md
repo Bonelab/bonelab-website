@@ -59,7 +59,7 @@ supplementation on bone health.
 {% include section.html %}
 
 ## Our Mission
-To advance the detection, treatment and management of osteoporosis and osteoarthritis through 
+To advance the detection, treatment and management of bone and joint health through 
 medical imaging and medical image analysis. We aim to embrace inclusivity in 
 research by realizing the core values of respect, integrity, teamwork and excellence. We strive 
 to create an environment that is welcoming, culturally sensitive and responsive to the diverse 

@@ -107,8 +107,8 @@ and computational specialists, staff, and faculty. We collaborate with people in
 {% 
   include button.html 
   type="link"
-  text="Thinking of applying? Learn more here"
-  icon="fa-solid fa-circle-plus fa-beat"
+  text="Join us? Learn more here"
+  icon="fa-solid fa-arrow-right fa-beat"
   link="about#joinus"
   tooltip="Information about the application process"
   style="button" 
