@@ -50,6 +50,6 @@ In 2016, he established the Centre for Mobility and Joint Health (MoJo), which s
 for numerous clinical studies by many PIs at the University of Calgary and beyond in the area of 
 bone and joint research and other areas of biomedical research. He was appointed a Fellow of the 
 American Society of Bone and Mineral Research in 2018, and he holds the Bob and Nola Rintoul 
-Chair in Bone and Joint Research. He research is 
+Chair in Bone and Joint Research. His research is 
 supported by CIHR, NSERC, The Arthritis Society, Canadian Space Agency, Canada Foundation for 
 Innovation, NIH collaborations and industry.
