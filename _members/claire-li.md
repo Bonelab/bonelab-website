@@ -4,7 +4,7 @@ image: images/headshots/ClaireLi.png
 description: Summer Student, 2024
 role: undergrad
 affiliation: UCLA
-group: current
+group: alumni
 links:
   email: claire.li1@ucalgary.ca
 ---

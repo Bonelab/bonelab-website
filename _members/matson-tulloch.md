@@ -4,7 +4,7 @@ image: images/headshots/MatsonTulloch.png
 description: Summer Student, 2024
 role: undergrad
 affiliation: University College Dublin
-group: current
+group: alumni
 aliases:
   - M. Tulloch
   - M Tulloch

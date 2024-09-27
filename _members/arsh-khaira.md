@@ -4,7 +4,7 @@ image: images/headshots/ArshKhaira.png
 description: Summer student, 2024
 role: undergrad
 affiliation: University of Alberta
-group: current
+group: alumni
 aliases:
   - A. Khaira
   - A Khaira

@@ -1,10 +1,10 @@
 ---
 name: Emily Smith
 image: images/headshots/EmilySmith.png
-description: MSc Candidate – Biomedical Engineering
+description: MSc – Biomedical Engineering, 2022 – 2024
 role: msc
 affiliation: University of Calgary
-group: current
+group: alumni
 aliases:
   - E. Smith
   - E Smith
