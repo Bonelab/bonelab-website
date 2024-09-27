@@ -1,5 +1,39 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1093/jbmr/zjae143
+  title: 'Short-term risk of fracture is increased by deficits in cortical and trabecular
+    bone microarchitecture independent of DXA BMD and FRAX: bone microarchitecture
+    international consortium (BoMIC) prospective cohorts'
+  authors:
+  - Marine Sarfati
+  - Roland Chapurlat
+  - Alyssa B Dufour
+  - Elisabeth Sornay-Rendu
+  - Blandine Merle
+  - Steven K Boyd
+  - Danielle E Whittier
+  - David A Hanley
+  - David Goltzman
+  - Pawel Szulc
+  - Andy Kin On Wong
+  - Eric Lespessailles
+  - Sundeep Khosla
+  - Serge Ferrari
+  - Emmanuel Biver
+  - Claes Ohlsson
+  - Mattias Lorentzon
+  - "Dan Mellstr\xF6m"
+  - Maria Nethander
+  - Elizabeth J Samelson
+  - Douglas P Kiel
+  - Marian T Hannan
+  - Mary L Bouxsein
+  publisher: Journal of Bone and Mineral Research
+  date: '2024-09-05'
+  link: https://doi.org/gvdnd3
+  orcid: 0000-0002-2930-5997
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.jocd.2024.101504
   title: Accuracy of Volumetric Bone Mineral Density Measurement in Weight Bearing,
     Cone Beam Computed Tomography
