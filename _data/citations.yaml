@@ -1,5 +1,21 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2024.09.27.24314508
+  title: A New Approach to Identifying Elite Winter Sport Athletes' Risk of Relative
+    Energy Deficiency in Sport (REDs)
+  authors:
+  - Emily Marie Smith
+  - Kelly Drager
+  - Erik M Groves
+  - Leigh Gabel
+  - Steven K Boyd
+  - Lauren A Burt
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-09-28'
+  link: https://doi.org/g57sh3
+  orcid: 0000-0002-2930-5997
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1093/jbmr/zjae143
   title: 'Short-term risk of fracture is increased by deficits in cortical and trabecular
     bone microarchitecture independent of DXA BMD and FRAX: bone microarchitecture
