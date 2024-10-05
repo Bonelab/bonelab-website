@@ -16,8 +16,8 @@
   flip=true
 %}
 
-The Bone Imaging Laboratory was established in 2004 by Dr. Steven Boyd at the University of Calgary 
-and is focused on using advanced imaging and computational methods for understanding the role of bone in joint injuries and disease.
+The Bone Imaging Laboratory was established in 2004 at the University of Calgary by Dr. Steven Boyd, PhD, PEng. 
+It is focused on using advanced imaging and computational methods for understanding the role of bone in joint injuries and disease.
 Our goal is to prevent, diagnose and develop interventions to maximize bone health across the lifespan.
 
 We collect novel image data that often involves multiple imaging modalities and develop novel computational approaches to analyse those data.
