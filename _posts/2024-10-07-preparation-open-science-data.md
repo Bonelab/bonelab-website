@@ -1,5 +1,5 @@
 ---
-image: images/projects/opensciencebook.png
+image: images/projects/openscienceideas.png
 title: Making research data available for Open Science
 author: Steven Boyd
 tags:
