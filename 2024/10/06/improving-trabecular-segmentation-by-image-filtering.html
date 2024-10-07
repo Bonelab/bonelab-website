@@ -39,31 +39,31 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<title>Extraction of an image mask from polygon data | Bone Imaging Laboratory</title>
+<title>Improved image segmentation of bone by image filtering | Bone Imaging Laboratory</title>
 
 <link rel="icon" href="/images/icon.png">
 
-<meta name="title" content="Extraction of an image mask from polygon data">
+<meta name="title" content="Improved image segmentation of bone by image filtering">
 <meta name="description" content="University of Calgary. ">
 
-<meta property="og:title" content="Extraction of an image mask from polygon data">
+<meta property="og:title" content="Improved image segmentation of bone by image filtering">
 <meta property="og:site_title" content="Bone Imaging Laboratory">
 <meta property="og:description" content="University of Calgary. ">
 <meta property="og:url" content="https://bonelab.ca">
 <meta property="og:image" content="/images/share.jpg">
 <meta property="og:locale" content="en_US">
 
-<meta property="twitter:title" content="Extraction of an image mask from polygon data">
+<meta property="twitter:title" content="Improved image segmentation of bone by image filtering">
 <meta property="twitter:description" content="University of Calgary. ">
 <meta property="twitter:url" content="https://bonelab.ca">
 <meta property="twitter:card" content="summary_large_image">
 <meta property="twitter:image" content="/images/share.jpg">
 
 
-  <meta name="author" content="Steven Boyd">
+  <meta name="author" content="Steven Boyd, with Nathan Neeteson">
   <meta property="og:type" content="article">
   <meta property="og:updated_time" content="2024-10-07T22:42:42+00:00">
-  <meta property="article:published_time" content="2024-08-22T00:00:00+00:00">
+  <meta property="article:published_time" content="2024-10-06T00:00:00+00:00">
   <meta property="article:modified_time" content="2024-10-07T22:42:42+00:00">
   <meta name="revised" content="2024-10-07T22:42:42+00:00">
 
@@ -73,13 +73,13 @@
     "@context": "https://schema.org",
     
       "@type": "BlogPosting",
-      "author": { "@type": "Person", "name": "Extraction of an image mask from polygon data" },
-      "datePublished": "2024-08-22T00:00:00+00:00",
+      "author": { "@type": "Person", "name": "Improved image segmentation of bone by image filtering" },
+      "datePublished": "2024-10-06T00:00:00+00:00",
       "dateModified": "2024-10-07T22:42:42+00:00",
     
-    "name": "Extraction of an image mask from polygon data",
+    "name": "Improved image segmentation of bone by image filtering",
     "description": "University of Calgary. ",
-    "headline": "Extraction of an image mask from polygon data",
+    "headline": "Improved image segmentation of bone by image filtering",
     "publisher": {
       "@type": "Organization",
       "logo": { "@type": "ImageObject", "url": "/images/icon.png" }
@@ -413,15 +413,15 @@
   
   
 
-  <section class="background" data-size="1" style="--image: url('/images/projects/Treece.png')">
+  <section class="background" data-size="1" style="--image: url('/images/projects/kneeinprofile.png')">
     <!--
-  background: images/projects/Treece.png;
+  background: images/projects/kneeinprofile.png;
   dark: ;
   size: 1;
 -->
 
 
-<h1 class="center">Extraction of an image mask from polygon data</h1>
+<h1 class="center">Improved image segmentation of bone by image filtering</h1>
 
 <div class="post-info">
   
@@ -429,7 +429,7 @@
     
       <span data-tooltip="Author">
         <i class="icon fa-solid fa-feather-pointed"></i>
-        <span>Steven Boyd</span>
+        <span>Steven Boyd, with Nathan Neeteson</span>
       </span>
     
   
@@ -440,7 +440,7 @@
   
     <span data-tooltip="Originally published on">
       <i class="icon fa-regular fa-calendar"></i>
-      <span>August 22, 2024</span>
+      <span>October 06, 2024</span>
     </span>
   
 
@@ -458,8 +458,8 @@
 
   <div class="tags" data-link="https://bonelab.ca/blog">
     
-      <a href="https://bonelab.ca/blog?search=%22tag:%20software%22" class="tag" data-tooltip='Show items with the tag "software"'>
-        software
+      <a href="https://bonelab.ca/blog?search=%22tag:%20hr-pqct%22" class="tag" data-tooltip='Show items with the tag "hr-pqct"'>
+        hr-pqct
       </a>
     
       <a href="https://bonelab.ca/blog?search=%22tag:%20image-processing%22" class="tag" data-tooltip='Show items with the tag "image-processing"'>
@@ -484,26 +484,20 @@
 <!-- Description -->
 <div>
   <h3>Project Description</h3>
-  <p>Developing a new method with universal application for defining bone compartments…</p>
+  <p>Can we do a better job of segmenting the trabecular structure in knee scans by HR-pQCT…</p>
 
-<p>Cortical bone mapping with global optimization produces incredible results for all types
-of CT data, including clinical CT and HR-pQCT. The result of the algorithm is a polygon
-dataset of the periosteal surface of the bone and scalars representing the local thickness
-(i.e., periosteal to endosteal) calculated by the algorithm. The calculation of cortical
-thickness can be summarized from the individual data points (i.e., means, standard deviations,
-localized measurements, etc).</p>
+<p>The use of HR-pQCT of the knee is relatively new, and although we are able to collect images
+as part of our normal protocol now, the size of the knee seems to lead to some beam hardening 
+issues at the centre. This is manifested as a slight darking of the trabecular structure. There
+is work by the UCSF group (Kazakia, Burghardt) that has shown the so-called Laplace-Hamming
+filter provided by Scanco Medical IPL seems to perform better than the standard Gaussian filtering.
+Other methods such as Otsu’s method, adaptive filtering, etc, are also options.</p>
 
-<p><a href="https://github.com/Bonelab/Bonelab/blob/master/bonelab/cli/treece_thickness.py">https://github.com/Bonelab/Bonelab/blob/master/bonelab/cli/treece_thickness.py</a></p>
-
-<p>However, the algorithm cannot produce an image mask. So the aim of this project is to develop 
-additional functionality that outputs a binarized image with voxels labelled as cortical bone (127), 
-trabecular bone (100), and background (0). The image will be the identical size to the input
-that is input. Likely it would be based on VTK stencil objects (similar to blRapidPrototype):</p>
-
-<p><a href="https://github.com/Bonelab/Bonelab/blob/master/bonelab/cli/RapidPrototype.py">https://github.com/Bonelab/Bonelab/blob/master/bonelab/cli/RapidPrototype.py</a></p>
-
-<p>When completed it will be validated on HR-pQCT of radius, tibia and knee, as well as QCT of 
-abdomen and knee.</p>
+<p>The goal of this project is to compare filtering methods on the ability to extract bone 
+microarchitecture. We would want to determine how these affect measures such as TbTh and TbSp, 
+and possibly finite element outcomes. This could be explored using the TRIKNEE study where we
+have three repeat measures on the same individual for a small cohort. The ground-truth would be
+taken as the Gauss segmentation, since we don’t have a true gold standard for these in vivo scans.</p>
 
 </div>
 
@@ -527,9 +521,7 @@ abdomen and knee.</p>
   <h3>Data Source</h3>
   <ul>
       
-      <li>ARTININ</li>
-      
-      <li>CaBHS</li>
+      <li>TRIKNEE</li>
       
   </ul>
 </div>
@@ -541,7 +533,9 @@ abdomen and knee.</p>
   <h3>Resources</h3>
   <ul>
       
-      <li>Treece surface model in Bonelab github</li>
+      <li>IPL scipts</li>
+      
+      <li>Python scipts</li>
       
   </ul>
 </div>
@@ -563,16 +557,16 @@ abdomen and knee.</p>
   <span>
     
       <i class="icon fa-solid fa-angle-left"></i> Previous post<br>
-      <a href="/2024/08/20/bmd-to-strength-relationship.html">
-        Determine the limits of the association between bone mineral density and bone strength
+      <a href="/2024/09/29/establish-fibular-as-nonweightbearing-control.html">
+        Establishing the fibular as a non-weight bearing control
       </a>
     
   </span>
   <span>
     
       Next post <i class="icon fa-solid fa-angle-right"></i><br>
-      <a href="/2024/09/29/establish-fibular-as-nonweightbearing-control.html">
-        Establishing the fibular as a non-weight bearing control
+      <a href="/2024/10/07/preparation-open-science-data.html">
+        Making research data available for Open Science
       </a>
     
   </span>
