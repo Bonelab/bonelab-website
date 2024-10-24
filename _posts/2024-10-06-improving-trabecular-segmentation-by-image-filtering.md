@@ -29,3 +29,5 @@ microarchitecture. We would want to determine how these affect measures such as 
 and possibly finite element outcomes. This could be explored using the TRIKNEE study where we
 have three repeat measures on the same individual for a small cohort. The ground-truth would be
 taken as the Gauss segmentation, since we don't have a true gold standard for these in vivo scans.
+
+We have implemented a L-H filter here: https://github.com/Bonelab/Bonelab/blob/master/bonelab%2Fcli%2Ffft_laplace_hamming.py
