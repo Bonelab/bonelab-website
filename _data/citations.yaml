@@ -1,5 +1,20 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.jocd.2024.101535
+  title: Canadian adult reference data for body composition, trabecular bone score
+    and advanced hip analysis using DXA
+  authors:
+  - Lauren A. Burt
+  - Liam T. Pond
+  - Annabel R. Bugbird
+  - David A. Hanley
+  - Steven K. Boyd
+  publisher: Journal of Clinical Densitometry
+  date: '2025-01-01'
+  link: https://doi.org/g8n5ps
+  orcid: 0000-0002-2930-5997
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1055/s-0044-1788623
   title: 'Two Decades of High-Resolution Peripheral Quantitative Computed Tomography:
     Present and Future Clinical Perspectives'
