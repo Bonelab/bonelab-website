@@ -15,33 +15,6 @@
   orcid: 0000-0002-2930-5997
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1055/s-0044-1788623
-  title: 'Two Decades of High-Resolution Peripheral Quantitative Computed Tomography:
-    Present and Future Clinical Perspectives'
-  authors:
-  - Steven K. Boyd
-  publisher: Seminars in Musculoskeletal Radiology
-  date: '2024-10-01'
-  link: https://doi.org/g8nmvh
-  orcid: 0000-0002-2930-5997
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2024.09.27.24314508
-  title: "A New Approach to Identifying Elite Winter Sport Athletes\u2019 Risk of\
-    \ Relative Energy Deficiency in Sport (REDs)"
-  authors:
-  - Emily M. Smith
-  - Kelly Drager
-  - Erik M. Groves
-  - Leigh Gabel
-  - Steven K. Boyd
-  - Lauren A. Burt
-  publisher: Cold Spring Harbor Laboratory
-  date: '2024-09-28'
-  link: https://doi.org/g57sh3
-  orcid: 0000-0002-2930-5997
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1093/jbmr/zjae143
   title: 'Short-term risk of fracture is increased by deficits in cortical and trabecular
     bone microarchitecture independent of DXA BMD and FRAX: bone microarchitecture
@@ -73,6 +46,33 @@
   publisher: Journal of Bone and Mineral Research
   date: '2024-09-05'
   link: https://doi.org/gvdnd3
+  orcid: 0000-0002-2930-5997
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1055/s-0044-1788623
+  title: 'Two Decades of High-Resolution Peripheral Quantitative Computed Tomography:
+    Present and Future Clinical Perspectives'
+  authors:
+  - Steven K. Boyd
+  publisher: Seminars in Musculoskeletal Radiology
+  date: '2024-10-01'
+  link: https://doi.org/g8nmvh
+  orcid: 0000-0002-2930-5997
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2024.09.27.24314508
+  title: "A New Approach to Identifying Elite Winter Sport Athletes\u2019 Risk of\
+    \ Relative Energy Deficiency in Sport (REDs)"
+  authors:
+  - Emily M. Smith
+  - Kelly Drager
+  - Erik M. Groves
+  - Leigh Gabel
+  - Steven K. Boyd
+  - Lauren A. Burt
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-09-28'
+  link: https://doi.org/g57sh3
   orcid: 0000-0002-2930-5997
   plugin: orcid.py
   file: orcid.yaml
@@ -194,6 +194,25 @@
   orcid: 0000-0002-2930-5997
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.63021/book.978-6589249290.2024.ch1
+  title: "Microtomografia computadorizada de alta resolu\xE7\xE3o: princ\xEDpios e\
+    \ aplica\xE7\xF5es na \xE1rea da sa\xFAde"
+  authors:
+  - A.M.H. Silva
+  - W. Melo
+  - U.D.P. Neto
+  - G.H.G. Sanchez
+  - J.S. Cerqueira
+  - R.N. Santos
+  - J. Carvalho
+  - M. Lazaretti-Castro
+  - S.K. Boyd
+  publisher: "Inova\xE7\xE3o e tecnologias em sa\xFAde: uma abordagem de Bioengenharia"
+  date: '2024-01-01'
+  link: https://doi.org/g8sq3z
+  orcid: 0000-0002-2930-5997
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.3390/life13112183
   title: Predicting Bone Adaptation in Astronauts during and after Spaceflight
   authors:
@@ -851,7 +870,7 @@
   - Lauren A. Burt
   - Nils D. Forkert
   - Steven K. Boyd
-  publisher: Computational Methods and Clinical Applications in Musculoskeletal Imaging
+  publisher: Lecture Notes in Computer Science
   date: '2019-01-01'
   link: https://doi.org/gt5tm7
   orcid: 0000-0002-2930-5997
@@ -1109,7 +1128,7 @@
   - Andrew S. Michalski
   - Nils D. Forkert
   - Steven K. Boyd
-  publisher: Computational Methods and Clinical Applications in Musculoskeletal Imaging
+  publisher: Lecture Notes in Computer Science
   date: '2018-01-01'
   link: https://doi.org/gt5tnj
   orcid: 0000-0002-2930-5997
