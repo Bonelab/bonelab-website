@@ -106,6 +106,7 @@ Presentations on how to perform some of our key activities in the lab are collec
 {% include figure.html width="100%" image="https://www.youtube.com/embed/lx2UAp2ouQ0" caption="blQtViewer" %}
 {% include figure.html width="100%" image="https://www.youtube.com/embed/LSrIwvBGs1w" caption="Statistical Data Exploration &amp; Implementation using R" %}
 {% include figure.html width="100%" image="https://www.youtube.com/embed/nG7KF0_PhDU" caption="EOS Lower Limb Tutorial" %}
+{% include figure.html width="100%" image="https://youtu.be/Nyf9oWGrenk" caption="Normative 2.0 Tutorial" %}
 {% endcapture %}
 
 {%
