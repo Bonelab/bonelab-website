@@ -35,10 +35,70 @@
       - type: altmetric
         link: https://www.altmetric.com/details/65516542
 
+# Some papers returned by an ORCID that you don't want to keep:
+# - id: pubmed:123456
+#  remove: true
+
+# On my Scopus account I can find this article, but the DOI
+# seems to be erroneous. I've submitted an error report and
+# can resolve this once that is updated. The title of this 
+# paper is "Automatic finite element mesh generation and 
+# correction from 3D image data" published in "IFMBE Proceedings"
+- id: doi:10.1007/978-3-642-03882-2-497
+  remove: true
+
+# The following are EID values, which seem to cause a problem
+# with Manubot. I've first set each one to 'remove' and then
+# I've re-entered them with the title and publication information.
+# But it seems that they are not being included in the publication 
+# list despite that.
+- id: eid:2-s2.0-84875776920
+  remove: true
+- id: eid:2-s2.0-80053641662
+  remove: true
+- id: eid:2-s2.0-0035704621
+  remove: true
+- id: eid:2-s2.0-0035443128
+  remove: true
+- id: eid:2-s2.0-0033757410
+  remove: true
+- id: eid:2-s2.0-0033763763
+  remove: true
+- id: eid:2-s2.0-0030686402
+  remove: true
+- id: eid:2-s2.0-0030684355
+  remove: true
+
+- id: eid:2-s2.0-84875776920
+  title: Quantification of small joint space width, periarticular bone microstructure and erosions using high-resolution peripheral quantitative computed tomography in rheumatoid arthritis
+  publisher: Clinical and Experimental Rheumatology
+- id: eid:2-s2.0-80053641662
+  title: In vivo assessment of trabecular and cortical bone microstructure
+  publisher: Clinical Calcium
+- id: eid:2-s2.0-0035704621
+  title: Functional adaptation of bone
+  publisher: Journal of Medical and Biological Engineering
+- id: eid:2-s2.0-0035443128
+  title: Mechanical and architectural bone adaptation in early experimental osteoarthritis
+  publisher: Journal of Biomechanics
+- id: eid:2-s2.0-0033757410
+  title: Factors in skeletal adaptation
+  publisher: Archives of Physiology and Biochemistry
+- id: eid:2-s2.0-0033763763
+  title: The effects of patellofemoral tracking kinematics on cartilage stresses
+  publisher: Archives of Physiology and Biochemistry
+- id: eid:2-s2.0-0030686402
+  title: Precise measurement of articular cartilage surfaces Comparison of multi-station digital photogrammetry with 3D digitization
+  publisher: American Society of Mechanical Engineers
+- id: eid:2-s2.0-0030684355
+  title: Quantification of articular cartilage thickness of the cat patellofemoral joint with multi-station digital photogrammetry and thin-plate spline surface interpolation
+  publisher: American Society of Mechanical Engineers
+    
 # Main list (August 14, 2024)
 #   Many of these are duplicates found via ORCID, but the merging process
 #   ensures we don't report the same reference twice. Plus, we can find a 
 #   few citations that aren't found using ORCID (including arxiv and pmid).
+
 - id: arxiv:2111.01350
 - id: arxiv:2110.13354
 - id: arxiv:2012.10483
@@ -251,10 +311,6 @@
 - id: doi:10.1007/s11914-003-0003-x
 - id: doi:10.1359/jbmr.2002.17.4.687
 - id: doi:10.1152/jappl.2001.90.3.1083
-- id: doi:10.1016/s1350-4533(01)00062-5
-- id: doi:10.1016/s1440-2440(00)80040-7
-- id: doi:10.1016/s0268-0033(00)00023-1
 - id: doi:10.1152/jappl.2000.89.6.2359
 - id: doi:10.1115/1.2835104
 - id: doi:10.1115/1.2835083
-- id: doi:10.1016/s0021-9290(97)00135-8

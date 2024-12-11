@@ -23,7 +23,8 @@ Edit your local repo files and whenever you save a file your local web browser w
 
 If you've edited files (e.g., `_cite/.cache/cache.db`) you may need to restore from the master branch before pushing: 
 ```
-git restore _cite/.cache/cache.db
+$ git restore _cite/.cache/cache.db
+$ git restore _data/citations.yaml
 ```
 ## Common Updates
 Here are some tips for simple updates.
