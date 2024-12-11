@@ -19,9 +19,12 @@ It’ll process the site and then give you the URL to put in your browser:
 ```
 http://localhost:4000
 ```
-Edit your local repo files and whenever you save a file your local web browser will be updated. When you're done, push 
-your updates to GitHub to update the site online.
+Edit your local repo files and whenever you save a file your local web browser will be updated. When you're done, push your updates to GitHub to update the site online.
 
+If you've edited files (e.g., _cite/.cache/cache.db) you may need to restore from the master branch before pushing: 
+```
+git restore _cite/.cache/cache.db
+```
 ## Common Updates
 Here are some tips for simple updates.
 
