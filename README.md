@@ -21,7 +21,7 @@ http://localhost:4000
 ```
 Edit your local repo files and whenever you save a file your local web browser will be updated. When you're done, push your updates to GitHub to update the site online.
 
-If you've edited files (e.g., _cite/.cache/cache.db) you may need to restore from the master branch before pushing: 
+If you've edited files (e.g., `_cite/.cache/cache.db`) you may need to restore from the master branch before pushing: 
 ```
 git restore _cite/.cache/cache.db
 ```
@@ -32,8 +32,7 @@ Here are some tips for simple updates.
 A new [idea]("ideas") can be added by simply creating a new file in `_posts/` such as `2024-08-19-vertebral-fractures.md`.
 
 ### Members
-Each member file is stored in `_members`. See other files for examples or refer to `template.txt` in that 
-directory. Update your profile, such as personal links (e.g., Email, Instagram, LinkedIn, PubMed, etc) or your biography as you please.
+Each member file is stored in `_members`. See other files for examples or refer to `template.txt` in that directory. Update your profile, such as personal links (e.g., Email, Instagram, LinkedIn, PubMed, etc) or your biography as you please.
 
 Adding a new member is as simple as creating a new member file in `_members`. 
 
