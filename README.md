@@ -24,6 +24,11 @@ is not already created, then make it:
 ```
 $ git checkout -b citation-update
 ```
+Sometimes you may need to update these local files (e.g., if you ran Docker):
+```
+$ git restore _cite/.cache/cache.db
+$ git restore _data/citations.yaml
+```
 Push your changes to that branch and then create a new pull request on github to merge 
 the new branch with main. This will run the GitHub actions with appropriate permissions.
 
@@ -34,8 +39,7 @@ Here are some tips for simple updates.
 A new [idea]("ideas") can be added by simply creating a new file in `_posts/` such as `2024-08-19-vertebral-fractures.md`.
 
 ### Members
-Each member file is stored in `_members`. See other files for examples or refer to `template.txt` in that 
-directory. Update your profile, such as personal links (e.g., Email, Instagram, LinkedIn, PubMed, etc) or your biography as you please.
+Each member file is stored in `_members`. See other files for examples or refer to `template.txt` in that directory. Update your profile, such as personal links (e.g., Email, Instagram, LinkedIn, PubMed, etc) or your biography as you please.
 
 Adding a new member is as simple as creating a new member file in `_members`. 
 
