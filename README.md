@@ -19,14 +19,20 @@ It’ll process the site and then give you the URL to put in your browser:
 ```
 http://localhost:4000
 ```
-Edit your local repo files and whenever you save a file your local web browser will be updated. When you're done, push your updates to GitHub to update the site online.
-
-If you've edited files (e.g., `_cite/.cache/cache.db`) you may need to restore from the master branch before pushing: 
+Edit your local repo files, but do it on the branch `citation-update` or similar. If that branch
+is not already created, then make it:
+```
+$ git checkout -b citation-update
+```
+Sometimes you may need to update these local files (e.g., if you ran Docker):
 ```
 $ git restore _cite/.cache/cache.db
 $ git restore _data/citations.yaml
 ```
-## Common Updates
+Push your changes to that branch and then create a new pull request on github to merge 
+the new branch with main. This will run the GitHub actions with appropriate permissions.
+
+## Common Types of Update
 Here are some tips for simple updates.
 
 ### Post a new idea for a project
