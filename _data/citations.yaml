@@ -15,10 +15,30 @@
   orcid: 0000-0002-2930-5997
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1126/sciadv.adq3632
+  title: Tracking of spaceflight-induced bone remodeling reveals a limited time frame
+    for recovery of resorption sites in humans
+  authors:
+  - Matthias Walle
+  - Leigh Gabel
+  - Danielle E. Whittier
+  - Anna-Maria Liphardt
+  - Paul A. Hulme
+  - Martina Heer
+  - Sara R. Zwart
+  - Scott M. Smith
+  - Jean D. Sibonga
+  - Steven K. Boyd
+  publisher: Science Advances
+  date: '2024-12-20'
+  link: https://doi.org/g8wpqd
+  orcid: 0000-0002-2930-5997
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1093/jbmr/zjae143
   title: 'Short-term risk of fracture is increased by deficits in cortical and trabecular
-    bone microarchitecture independent of DXA BMD and FRAX: bone microarchitecture
-    international consortium (BoMIC) prospective cohorts'
+    bone microarchitecture independent of DXA BMD and FRAX: Bone Microarchitecture
+    International Consortium (BoMIC) prospective cohorts'
   authors:
   - Marine Sarfati
   - Roland Chapurlat
