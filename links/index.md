@@ -138,11 +138,12 @@ A collection of presentations that members of the lab have produced so that we c
   style="square"
 %}
 
-## Podcasts
-Sometimes we do podcasts too!
+## Podcasts and Radio
+Sometimes we get publicity through podcasts or radio interviews.
 
 {% capture podcast %}
 {% include figure.html width="100%" image="https://soundcloud.com/bmjpodcasts/what-can-sem-learn-from-the-international-space-station-w-leigh-gabel-and-kathryn-ackerman-ep-476" caption="TBONE Podcast" %}
+{% include figure.html width="100%" image="https://www.deutschlandfunk.de/knochenjob-weltall-und-himmliche-highlights-dlf-15e99cad-100.html" caption="TBONE on Deutschlandradio" %}
 {% endcapture %}
 
 {%
