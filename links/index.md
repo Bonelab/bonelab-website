@@ -144,6 +144,7 @@ Sometimes we get publicity through podcasts or radio interviews.
 {% capture podcast %}
 {% include figure.html width="100%" image="https://soundcloud.com/bmjpodcasts/what-can-sem-learn-from-the-international-space-station-w-leigh-gabel-and-kathryn-ackerman-ep-476" caption="TBONE Podcast" %}
 {% include figure.html width="100%" image="images/general/deutschlandfunk.png" link="https://www.deutschlandfunk.de/knochenjob-weltall-und-himmliche-highlights-dlf-15e99cad-100.html" caption="TBONE on Deutschlandradio" %}
+{% include figure.html width="100%" image="images/general/ndr_logo.png" link="https://www.ndr.de/nachrichten/info/Was-Weltraumaufenthalte-ueber-Knochenabbau-lehren,audio1797820.html" caption="TBONE on Norddeutscher Rundfunk" %}
 {% endcapture %}
 
 {%
