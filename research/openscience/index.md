@@ -1,7 +1,11 @@
 ---
 title: Open Science
 ---
-# Open Science Resources
+# Open Science
+
+{% include figure.html image="images/projects/OpenScience.png" height="200px" link="https://science.gc.ca/site/science/sites/default/files/attachments/2022/Roadmap-for-Open-Science.pdf"%} 
+
+We are actively building this page and plan to include additional resources in the future.
 
 ## Semantic Segmentation
 
