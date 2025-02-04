@@ -14,8 +14,17 @@ nav:
 </div>
 
 {:.center}
-See below for a taste of the types of studies we do, analysis methods we develop, and the lab and equipment in it. 
-Take a spin through and see if you find something you like...
+See below for a taste of the types of studies we do, analysis methods we develop, and the lab and equipment in it.
+
+{% 
+  include button.html 
+  type="link"
+  text="Open Science"
+  icon="fa-solid fa-arrow-right fa-beat"
+  link="research/openscience"
+  tooltip="We strive to make our research available to others"
+  style="button" 
+%}
 
 ## Studies
 {% include list.html component="card" data="projects" filters="group: studies" style="small" %}
