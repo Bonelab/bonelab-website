@@ -27,6 +27,11 @@ Please find some useful links related to the Bone Imaging Laboratory and our You
 - [ManskeLab](https://github.com/ManskeLab)
 - [ORMIR-MIDS](https://github.com/ormir-mids)
 - [uniGradICON](https://github.com/uncbiag/uniGradICON)
+
+##### Public Datasets
+- [Kaggle](https://www.kaggle.com/datasets)
+- [Grand Challenge](https://grand-challenge.org)
+- [Google Dataset](https://datasetsearch.research.google.com)
 {% endcapture %}
 
 {% capture col2 %}
