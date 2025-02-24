@@ -24,8 +24,6 @@ We collect novel image data that often involves multiple imaging modalities and 
 We publish our findings related to osteoporosis, osteoarthritis, high performance athletes, the effects of vitamin D, how bones are altered 
 by space flight, and more.
 
-{% include section.html %}
-
 {% 
   include button.html 
   type="link"
