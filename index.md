@@ -26,6 +26,18 @@ by space flight, and more.
 
 {% include section.html %}
 
+{% 
+  include button.html 
+  type="link"
+  text="Click here to be a research subject"
+  icon="fa-solid fa-arrow-right fa-beat"
+  link="research/mobility_for_life"
+  tooltip="Information about the application process"
+  style="button" 
+%}
+
+{% include section.html %}
+
 ## Highlights
 
 {% capture text %}
