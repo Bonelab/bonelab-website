@@ -24,6 +24,16 @@ We collect novel image data that often involves multiple imaging modalities and 
 We publish our findings related to osteoporosis, osteoarthritis, high performance athletes, the effects of vitamin D, how bones are altered 
 by space flight, and more.
 
+{% 
+  include button.html 
+  type="link"
+  text="Click here to be a research subject"
+  icon="fa-solid fa-arrow-right fa-beat"
+  link="research/mobility_for_life"
+  tooltip="Information about the application process"
+  style="button" 
+%}
+
 {% include section.html %}
 
 ## Highlights
