@@ -54,6 +54,7 @@ Please find some useful links related to the Bone Imaging Laboratory and our You
 - [Parking](https://www.ucalgary.ca/ancillary/parking/parking-permits/find-parking)
 - [Maps](https://www.ucalgary.ca/about/our-campuses/campus-maps-and-room-finder)
 - [Transit](https://www.ucalgary.ca/sites/default/files/teams/157/Main-Campus-Transit_20230831.pdf)
+- [Library APC Coverage](https://search.scifree.se/ucalgary)
 
 ##### BME Companies
 - [Start Alberta](https://startalberta.ca) (Click Explore Dealflow, select Companies, Filter by location)
