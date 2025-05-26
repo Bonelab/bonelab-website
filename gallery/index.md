@@ -103,6 +103,8 @@ Lab hikes, events, activities and more...
 
 {% include figure.html image="images/gallery/2023_Wood_Forum.jpg" %}
 
+{% include figure.html image="images/gallery/2025_lab_photo.jpg" %}
+
 {% endcapture %}
 
 {%
