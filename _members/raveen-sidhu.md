@@ -1,6 +1,6 @@
 ---
 name: Raveen Sidhu
-image: images/headshots/Lucy.png
+image: images/headshots/RaveenSidhu.png
 description: PhD Candidate – Biomedical Engineering
 role: phd
 affiliation: University of Calgary
