@@ -99,9 +99,10 @@
 #   ensures we don't report the same reference twice. Plus, we can find a 
 #   few citations that aren't found using ORCID (including arxiv and pmid).
 
-- id: arxiv:2111.01350
-- id: arxiv:2110.13354
-- id: arxiv:2012.10483
+
+- id: doi:10.48550/arXiv.2111.01350
+- id: doi:10.48550/arXiv.2110.13354
+- id: doi:10.48550/arXiv.2012.10483
 - id: pmid:23331665
 - id: doi:10.1016/j.jocd.2024.101504
 - id: doi:10.1093/jbmr/zjae033
