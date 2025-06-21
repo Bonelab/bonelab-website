@@ -32,6 +32,9 @@ Please find some useful links related to the Bone Imaging Laboratory and our You
 - [Kaggle](https://www.kaggle.com/datasets)
 - [Grand Challenge](https://grand-challenge.org)
 - [Google Dataset](https://datasetsearch.research.google.com)
+
+##### Python Programming
+- [Intro to Python](https://cs50.harvard.edu/python/2022/)
 {% endcapture %}
 
 {% capture col2 %}
