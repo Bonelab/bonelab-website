@@ -34,7 +34,11 @@ Please find some useful links related to the Bone Imaging Laboratory and our You
 - [Google Dataset](https://datasetsearch.research.google.com)
 
 ##### Python Programming
-- [Intro to Python](https://cs50.harvard.edu/python/2022/)
+- [Classic Harvard Intro](https://cs50.harvard.edu/python/2022/)
+- [U of Helsinki](https://programming-23.mooc.fi/)
+- [Textbook for IDE & Python](https://thepythoncodingbook.com/book-outline/)
+- [Navigate the Terminal](https://futurecoder.io/)
+
 {% endcapture %}
 
 {% capture col2 %}
