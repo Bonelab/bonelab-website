@@ -11,7 +11,7 @@ We are actively building this page and plan to include additional resources in t
 
 Here we share models developed for automated semantic segmentation applied to HR-pQCT, clinical CT, MRI and more...
 
-#### {% include icon.html icon="fa-solid fa-circle-arrow-right" %}HR-pQCT Knee Segmentation
+#### {% include icon.html icon="fa-solid fa-circle-arrow-right" %}HR-pQCT Radius/Tibia Segmentation
 
 {% capture col1 %}
 {% include figure.html image="images/projects/RadTib.png" width="100%" %}
