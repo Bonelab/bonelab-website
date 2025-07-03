@@ -1,6 +1,6 @@
 ---
-name: Cassandra  Seal
-image: images/headshots/Lucy.png
+name: Cassandra Seal
+image: images/headshots/CassandraSeal.png
 description: HYRS Summer Student, 2020
 role: undergrad
 affiliation: University of Calgary
