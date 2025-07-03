@@ -1,6 +1,6 @@
 ---
 name: Andrew Michalski
-image: images/headshots/AndrewMichalski.png
+image: images/headshots/AndyMichalski.png
 description: PhD - Biomedical Engineering, 2014 – 2020
 role: phd
 affiliation: University of Calgary

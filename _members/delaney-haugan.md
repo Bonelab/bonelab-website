@@ -1,6 +1,6 @@
 ---
 name: Delaney Haugan
-image: images/headshots/Lucy.png
+image: images/headshots/DelaneyHaugan.png
 description: Co-op Student, 2018
 role: undergrad
 affiliation: University of Victoria

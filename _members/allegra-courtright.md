@@ -1,6 +1,6 @@
 ---
 name: Allegra Courtright
-image: images/headshots/Lucy.png
+image: images/headshots/AllegraCourtright.png
 description: Summer Student, 2009
 role: undergrad
 affiliation: Queen's University
