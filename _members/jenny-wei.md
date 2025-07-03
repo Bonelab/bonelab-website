@@ -2,7 +2,7 @@
 name: Jenny Wei
 image: images/headshots/JennyWei.png
 description: Summer Student, 2023
-role: Undergrad
+role: undergrad
 affiliation: University of Toronto
 group: alumni
 aliases: 
