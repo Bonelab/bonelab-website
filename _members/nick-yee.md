@@ -1,6 +1,6 @@
 ---
 name: Nick Yee
-image: images/headshots/CharlieBrown.png
+image: images/headshots/NickYee.png
 description: Summer Medical Student, 2016, 2018
 role: undergrad
 affiliation: University of Alberta

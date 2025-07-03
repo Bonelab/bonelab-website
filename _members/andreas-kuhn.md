@@ -1,6 +1,6 @@
 ---
 name: Andreas Kuhn
-image: images/headshots/CharlieBrown.png
+image: images/headshots/AndreasKuhn.png
 description: Diplomarbeit Student, 2003 – 2004
 role: visiting
 affiliation: ETH Zürich, Switzerland

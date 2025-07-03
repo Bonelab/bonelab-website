@@ -1,6 +1,6 @@
 ---
 name: Sachitsing (Kiran) Dwarkan
-image: images/headshots/CharlieBrown.png
+image: images/headshots/SachitsingKiranDwarkan.png
 description: MSc - Biomedical Engineering, 2008 – 2010
 role: msc
 affiliation: University of Calgary

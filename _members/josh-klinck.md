@@ -1,6 +1,6 @@
 ---
 name: Josh Klinck
-image: images/headshots/CharlieBrown.png
+image: images/headshots/JoshKlinck.png
 description: MSc - Biomedical Engineering, 2005 – 2007
 role: msc
 affiliation: University of Calgary

@@ -1,6 +1,6 @@
 ---
-name: Alessandro  Hakme
-image: images/headshots/CharlieBrown.png
+name: Alessandro Hakme
+image: images/headshots/AlessandroHakme.png
 description: Visiting PhD Student, 2013
 role: visiting
 affiliation: Universidade de São Paulo

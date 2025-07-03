@@ -1,6 +1,6 @@
 ---
 name: Vincent Stadelmann
-image: images/headshots/CharlieBrown.png
+image: images/headshots/VincentStadelmann.png
 description: Postdoctoral Fellow, 2008 – 2010
 role: postdoc
 affiliation: University of Calgary
