@@ -1,6 +1,6 @@
 ---
 name: Kristina Birk
-image: images/headshots/Lucy.png
+image: images/headshots/KristinaBirk.png
 description: Summer Student, 2011
 role: undergrad
 affiliation: Queen's University
