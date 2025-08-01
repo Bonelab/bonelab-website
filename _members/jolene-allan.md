@@ -1,6 +1,6 @@
 ---
 name: Jolene Allan
-image: images/headshots/JoleneAllan.png
+image: images/headshots/Lucy.png
 description: Research Coordinator, 2014 - 2021
 role: staff
 affiliation: University of Calgary
