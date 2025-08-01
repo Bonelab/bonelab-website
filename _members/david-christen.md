@@ -1,6 +1,6 @@
 ---
 name: David Christen
-image: images/headshots/CharlieBrown.png
+image: images/headshots/DavidChristen.png
 description: Semesterarbeit Student, 2005
 role: visiting
 affiliation: ETH Zürich, Switzerland

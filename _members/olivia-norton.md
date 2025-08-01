@@ -1,6 +1,6 @@
 ---
 name: Olivia Norton
-image: images/headshots/Lucy.png
+image: images/headshots/OliviaNorton.png
 description: Summer Student, 2008
 role: undergrad
 affiliation: University of Calgary

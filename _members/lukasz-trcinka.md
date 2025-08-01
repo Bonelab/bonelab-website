@@ -1,6 +1,6 @@
 ---
 name: Lukasz Trcinka
-image: images/headshots/CharlieBrown.png
+image: images/headshots/LukaszTrcinka.png
 description: Summer Student, 2006
 role: undergrad
 affiliation: University of Calgary

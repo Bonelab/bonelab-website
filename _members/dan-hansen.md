@@ -1,6 +1,6 @@
 ---
 name: Dan Hansen
-image: images/headshots/CharlieBrown.png
+image: images/headshots/DanielHansen.png
 description: HYRS & Summer Student, 2010, 2011
 role: undergrad
 affiliation: University of Alberta

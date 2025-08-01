@@ -1,6 +1,6 @@
 ---
 name: Sanne Eemers
-image: images/headshots/Lucy.png
+image: images/headshots/SanneEemers.png
 description: Visiting Student, 2019
 role: visiting
 affiliation: Eindhoven University of Technology, Netherlands

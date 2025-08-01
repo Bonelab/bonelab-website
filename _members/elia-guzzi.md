@@ -1,6 +1,6 @@
 ---
 name: Elia Guzzi
-image: images/headshots/CharlieBrown.png
+image: images/headshots/EliaGuzzi.png
 description: Semesterarbeit Student, 2015
 role: visiting
 affiliation: ETH Zürich, Switzerland

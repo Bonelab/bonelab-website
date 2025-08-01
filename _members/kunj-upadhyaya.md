@@ -1,6 +1,6 @@
 ---
 name: Kunj Upadhyaya
-image: images/headshots/CharlieBrown.png
+image: images/headshots/KunjUpadhyaya.png
 description: Summer Student, 2012
 role: undergrad
 affiliation: University of Calgary

@@ -1,6 +1,6 @@
 ---
 name: Nicole Foster
-image: images/headshots/Lucy.png
+image: images/headshots/NicoleFoster.png
 description: Summer Student, 2019
 role: undergrad
 affiliation: Queen's University

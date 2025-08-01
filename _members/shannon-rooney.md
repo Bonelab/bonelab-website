@@ -1,6 +1,6 @@
 ---
 name: Shannon Rooney
-image: images/headshots/Lucy.png
+image: images/headshots/ShannonRooney.png
 description: Summer Student, 2006
 role: undergrad
 affiliation: University of British Columbia
