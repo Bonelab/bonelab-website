@@ -121,3 +121,55 @@ This model extracts bone marrow lesions (BMLs) from knee MRI scans.
 %}
 
 {% include section.html %}
+
+#### {% include icon.html icon="fa-solid fa-circle-arrow-right" %}Opportunistic CT to FEA for Standardization
+
+{% capture col1 %}
+{% include figure.html image="images/projects/oct_to_fea.png" width="100%" %}
+{% endcapture %}
+
+{% capture col2 %}
+A pipeline that extracts vertebra, calibrates the CT for performing linear and non-linear FEA.
+
+{%
+  include tags.html
+  tags="Published Manuscript"
+  link="http://gigadb.org/dataset/102733"
+%}
+
+{%
+  include tags.html
+  tags="SpineFE GitHub Repository"
+  link="https://github.com/Bonelab/spineFE-benchmark"
+%}
+
+{%
+  include tags.html
+  tags="Zenodo Vertebrae Data"
+  link="https://doi.org/10.5281/zenodo.15313258"
+%}
+{%
+  include tags.html
+  tags="Zenodo Segmentation Vert Model"
+  link="https://doi.org/10.5281/zenodo.15238175"
+%}
+{%
+  include tags.html
+  tags="Zenodo Segmentation Reference Tissue Model"
+  link="https://doi.org/10.5281/zenodo.15238422"
+%}
+{%
+  include tags.html
+  tags="Original VerSe 2019"
+  link="http://dx.doi.org/10.17605/OSF.IO/NQJYW"
+%}
+
+{% endcapture %}
+
+{%
+  include cols.html
+  col1=col1
+  col2=col2
+%}
+
+{% include section.html %}
