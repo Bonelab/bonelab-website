@@ -1,6 +1,6 @@
 ---
 name: Bilal Ali
-image: images/headshots/CharlieBrown.png
+image: images/headshots/BilalAli.png
 description: Summer Student, 2019
 role: undergrad
 affiliation: McGill University

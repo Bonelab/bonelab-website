@@ -1,6 +1,6 @@
 ---
 name: Michael Kuczynski
-image: images/headshots/CharlieBrown.png
+image: images/headshots/MichaelKuczynski.png
 description: Summer Student (UCalgary), 2017
 role: undergrad
 affiliation: University of Calgary

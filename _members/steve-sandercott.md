@@ -1,6 +1,6 @@
 ---
 name: Steve Sandercott
-image: images/headshots/CharlieBrown.png
+image: images/headshots/SteveSandercott.png
 description: Summer Student, 2007
 role: undergrad
 affiliation: University of Waterloo

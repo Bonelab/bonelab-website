@@ -1,6 +1,6 @@
 ---
-name: Madeline Townley
-image: images/headshots/Lucy.png
+name: Madeleine Townley
+image: images/headshots/MadeleineTownley.png
 description: Co-op Student, 2013
 role: undergrad
 affiliation: University of Victoria

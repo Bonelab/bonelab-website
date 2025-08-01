@@ -1,6 +1,6 @@
 ---
 name: Jeffrey Louie
-image: images/headshots/CharlieBrown.png
+image: images/headshots/JeffreyLouie.png
 description: Summer Student, 2009
 role: undergrad
 affiliation: University of Calgary
