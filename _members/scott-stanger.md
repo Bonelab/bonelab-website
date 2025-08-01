@@ -1,6 +1,6 @@
 ---
 name: Scott Stanger
-image: images/headshots/CharlieBrown.png
+image: images/headshots/ScottStanger.png
 description: Summer Student, 2012
 role: undergrad
 affiliation: University of Calgary

@@ -1,6 +1,6 @@
 ---
 name: Adam Wasylynshyn
-image: images/headshots/adam_wasylyshyn.png
+image: images/headshots/AdamWasylyshyn.png
 description: Summer Student, 2010
 role: undergrad
 affiliation: University of Calgary

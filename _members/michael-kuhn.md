@@ -1,6 +1,6 @@
 ---
 name: Michael Kuhn
-image: images/headshots/CharlieBrown.png
+image: images/headshots/MichaelKuhn.png
 description: Semesterarbeit Student, 2003
 role: visiting
 affiliation: ETH Zürich, Switzerland

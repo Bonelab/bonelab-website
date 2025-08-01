@@ -1,6 +1,6 @@
 ---
 name: Carl Conway
-image: images/headshots/CharlieBrown.png
+image: images/headshots/CarlConway.png
 description: Summer Student, 2010
 role: undergrad
 affiliation: University of Calgary

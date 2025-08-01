@@ -1,6 +1,6 @@
 ---
 name: Etienne Schwyter
-image: images/headshots/CharlieBrown.png
+image: images/headshots/EtienneSchwyter.png
 description: Semesterarbeit Student, 2006
 role: visiting
 affiliation: ETH Zürich, Switzerland

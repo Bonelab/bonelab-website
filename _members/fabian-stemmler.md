@@ -1,6 +1,6 @@
 ---
 name: Fabian  Stemmler
-image: images/headshots/CharlieBrown.png
+image: images/headshots/FabianStemmler.png
 description: Visiting Student, 2017
 role: visiting
 affiliation: University of Erlangen-Nuremberg, Germany
