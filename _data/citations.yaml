@@ -14,6 +14,37 @@
   orcid: 0000-0002-2930-5997
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1093/jbmrpl/ziaf117
+  title: 'External validation of a novel HR-pQCT fracture risk assessment tool (FRAC)
+    in a female cohort: Sahlgrenska university hospital prospective evaluation of
+    risk of bone fractures (SUPERB) study'
+  authors:
+  - Annabel R Bugbird
+  - Raju Jaiswal
+  - Danielle E Whittier
+  - Steven K Boyd
+  - Mattias Lorentzon
+  publisher: JBMR Plus
+  date: '2025-08-04'
+  link: https://doi.org/g9v24b
+  orcid: 0000-0002-2930-5997
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/jbmr/zjaf099
+  title: The association between physical activity during growth and bone microarchitecture
+    at peak bone mass
+  authors:
+  - Annelise G Pageau
+  - Lauren A Burt
+  - Leigh Gabel
+  - Steven K Boyd
+  - Danielle E Whittier
+  publisher: Journal of Bone and Mineral Research
+  date: '2025-07-29'
+  link: https://doi.org/g9v24c
+  orcid: 0000-0002-2930-5997
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1093/gigascience/giaf094
   title: pendingpublications
   authors: []
