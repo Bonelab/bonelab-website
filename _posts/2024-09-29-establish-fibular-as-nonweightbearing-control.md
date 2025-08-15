@@ -1,6 +1,6 @@
 ---
 image: images/projects/TBONE.png
-title: Establishing the fibular as a non-weight bearing control
+title: Establishing the fibula as a non-weight bearing control
 author: Steven Boyd, with Matthias Walle
 tags:
   - hr-pqct
