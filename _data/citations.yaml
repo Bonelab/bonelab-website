@@ -15,10 +15,15 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/jbmr/zjaf111
-  title: pendingpublications
-  authors: []
-  publisher: ''
-  date: ''
+  title: Longitudinal Associations Between Changes in Bone Mechanical Strength and
+    Fracture Risk Estimated by FRAC
+  authors:
+  - Annabel R Bugbird
+  - Danielle E Whittier
+  - Lauren A Burt
+  - Steven K Boyd
+  publisher: Journal of Bone and Mineral Research
+  date: '2025-08-18'
   link: https://doi.org/g9w374
   orcid: 0000-0002-2930-5997
   plugin: orcid.py
