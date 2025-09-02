@@ -4,7 +4,7 @@ image: images/headshots/SuzolShazid.png
 description: Summer Student, 2025
 role: undergrad
 affiliation: University of Calgary
-group: current
+group: alumni
 aliases:
   - S. Shazid
   - S Shazid
@@ -14,4 +14,4 @@ education:
   - "Undergraduate student majoring in Biological Science and a minor in Computer Science, University of Calgary"
 ---
 
-Suzol's project is titled "Deep Learning for Automated Knee MRI Analysis" and is working with a PhD student in the lab.
+Suzol's project was titled "Deep Learning for Automated Knee MRI Analysis" and was working with a PhD student in the lab.
