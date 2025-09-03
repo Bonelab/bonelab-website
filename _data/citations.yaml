@@ -15,10 +15,15 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/jbmr/zjaf111
-  title: pendingpublications
-  authors: []
-  publisher: ''
-  date: ''
+  title: Longitudinal Associations Between Changes in Bone Mechanical Strength and
+    Fracture Risk Estimated by FRAC
+  authors:
+  - Annabel R Bugbird
+  - Danielle E Whittier
+  - Lauren A Burt
+  - Steven K Boyd
+  publisher: Journal of Bone and Mineral Research
+  date: '2025-08-18'
   link: https://doi.org/g9w374
   orcid: 0000-0002-2930-5997
   plugin: orcid.py
@@ -51,15 +56,6 @@
   publisher: Journal of Bone and Mineral Research
   date: '2025-07-29'
   link: https://doi.org/g9v24c
-  orcid: 0000-0002-2930-5997
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/gigascience/giaf094
-  title: pendingpublications
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://doi.org/g9trwv
   orcid: 0000-0002-2930-5997
   plugin: orcid.py
   file: orcid.yaml
@@ -128,6 +124,19 @@
   publisher: Journal of Bone and Mineral Research
   date: '2025-01-24'
   link: https://doi.org/g82fnq
+  orcid: 0000-0002-2930-5997
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/gigascience/giaf094
+  title: 'Comparing linear and nonlinear finite element models of vertebral strength
+    across the thoracolumbar spine: a benchmark from density-calibrated computed tomography'
+  authors:
+  - Matthias Walle
+  - Bryn E Matheson
+  - Steven K Boyd
+  publisher: GigaScience
+  date: '2025-01-01'
+  link: https://doi.org/g9trwv
   orcid: 0000-0002-2930-5997
   plugin: orcid.py
   file: orcid.yaml
