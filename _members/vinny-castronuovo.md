@@ -9,7 +9,7 @@ aliases:
   - V. Castronuovo
   - V Castronuovo
 links:
-  email: bonelab@ucalgary.ca
+  email: vinny.castronuovo@ucalgary.ca
 education:
   - "MSc in Mechanics and Design 2023, Northeastern University College of Engineering, USA"
   - "BSc in Mechanical Engineering 2022, Northeastern University College of Engineering, USA"
