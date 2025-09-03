@@ -1,6 +1,6 @@
 ---
 name: Vinny Castronuovo
-image: images/headshots/CharlieBrown.png
+image: images/headshots/VinnyCastronuovo.png
 description: PhD Candidate – Biomedical Engineering
 role: phd
 affiliation: University of Calgary
