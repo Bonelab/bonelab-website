@@ -1,5 +1,19 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1007/s00198-025-07750-4
+  title: Localized bone deterioration predicts declining failure load and increased
+    fracture risk
+  authors:
+  - Annabel R. Bugbird
+  - Lauren A. Burt
+  - Danielle E. Whittier
+  - Steven K. Boyd
+  publisher: Osteoporosis International
+  date: '2025-10-29'
+  link: https://doi.org/g98r4b
+  orcid: 0000-0002-2930-5997
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1093/jbmr/zjaf099
   title: The association between physical activity during growth and bone microarchitecture
     at peak bone mass
