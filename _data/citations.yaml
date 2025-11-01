@@ -59,18 +59,23 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/jbmr/zjaf111
-  title: pendingpublications
-  authors: []
-  publisher: ''
-  date: ''
+  title: "Longitudinal associations between changes in bone mechanical strength and\
+    \ fracture risk estimated by <b>\u03BC</b>FRAC"
+  authors:
+  - Annabel R Bugbird
+  - Danielle E Whittier
+  - Lauren A Burt
+  - Steven K Boyd
+  publisher: Journal of Bone and Mineral Research
+  date: '2025-08-18'
   link: https://doi.org/g9w374
   orcid: 0000-0002-2930-5997
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/jbmrpl/ziaf117
-  title: 'External validation of a novel HR-pQCT fracture risk assessment tool (FRAC)
-    in a female cohort: Sahlgrenska university hospital prospective evaluation of
-    risk of bone fractures (SUPERB) study'
+  title: "External validation of a novel HR-pQCT fracture risk assessment tool (<b>\u03BC\
+    </b>FRAC) in a female cohort: Sahlgrenska University Hospital Prospective Evaluation\
+    \ of Risk of Bone Fractures (SUPERB) study"
   authors:
   - Annabel R Bugbird
   - Raju Jaiswal
@@ -152,10 +157,14 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/gigascience/giaf094
-  title: pendingpublications
-  authors: []
-  publisher: ''
-  date: ''
+  title: 'Comparing linear and nonlinear finite element models of vertebral strength
+    across the thoracolumbar spine: a benchmark from density-calibrated computed tomography'
+  authors:
+  - Matthias Walle
+  - Bryn E Matheson
+  - Steven K Boyd
+  publisher: GigaScience
+  date: '2025-01-01'
   link: https://doi.org/g9trwv
   orcid: 0000-0002-2930-5997
   plugin: orcid.py
@@ -1781,7 +1790,7 @@
   - P.A. Cripton
   - S.J. Ferguson
   - B. Helgason
-  publisher: Medical Engineering & Physics
+  publisher: Medical Engineering &amp; Physics
   date: '2016-11-01'
   link: https://doi.org/f9bh74
   orcid: 0000-0002-2930-5997
