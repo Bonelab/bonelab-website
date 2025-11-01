@@ -1,46 +1,16 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1016/j.cmpb.2025.108882
-  title: Automated quantitative analysis of peri-articular bone microarchitecture
-    in HR-pQCT knee images
+- id: doi:10.1007/s00198-025-07750-4
+  title: Localized bone deterioration predicts declining failure load and increased
+    fracture risk
   authors:
-  - Nathan J. Neeteson
-  - Sasha M. Hasick
-  - Roberto Souza
+  - Annabel R. Bugbird
+  - Lauren A. Burt
+  - Danielle E. Whittier
   - Steven K. Boyd
-  publisher: Computer Methods and Programs in Biomedicine
-  date: '2025-09-01'
-  link: https://doi.org/g9qcn4
-  orcid: 0000-0002-2930-5997
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/jbmr/zjaf111
-  title: Longitudinal Associations Between Changes in Bone Mechanical Strength and
-    Fracture Risk Estimated by FRAC
-  authors:
-  - Annabel R Bugbird
-  - Danielle E Whittier
-  - Lauren A Burt
-  - Steven K Boyd
-  publisher: Journal of Bone and Mineral Research
-  date: '2025-08-18'
-  link: https://doi.org/g9w374
-  orcid: 0000-0002-2930-5997
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/jbmrpl/ziaf117
-  title: 'External validation of a novel HR-pQCT fracture risk assessment tool (FRAC)
-    in a female cohort: Sahlgrenska university hospital prospective evaluation of
-    risk of bone fractures (SUPERB) study'
-  authors:
-  - Annabel R Bugbird
-  - Raju Jaiswal
-  - Danielle E Whittier
-  - Steven K Boyd
-  - Mattias Lorentzon
-  publisher: JBMR Plus
-  date: '2025-08-04'
-  link: https://doi.org/g9v24b
+  publisher: Osteoporosis International
+  date: '2025-10-29'
+  link: https://doi.org/g98r4b
   orcid: 0000-0002-2930-5997
   plugin: orcid.py
   file: orcid.yaml
@@ -56,6 +26,65 @@
   publisher: Journal of Bone and Mineral Research
   date: '2025-07-29'
   link: https://doi.org/g9v24c
+  orcid: 0000-0002-2930-5997
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/jor.70067
+  title: 'Longitudinal Progression of Traumatic Bone Marrow Lesions Following Anterior
+    Cruciate Ligament Injury: Associations With Knee Pain and Concomitant Injuries'
+  authors:
+  - Callie E. Stirling
+  - Nina Pavlovic
+  - Sarah L. Manske
+  - Richard E. A. Walker
+  - Steven K. Boyd
+  publisher: Journal of Orthopaedic Research
+  date: '2025-09-20'
+  link: https://doi.org/g939k8
+  orcid: 0000-0002-2930-5997
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cmpb.2025.108882
+  title: Automated quantitative analysis of peri-articular bone microarchitecture
+    in HR-pQCT knee images
+  authors:
+  - Nathan J. Neeteson
+  - Sasha M. Hasick
+  - Roberto Souza
+  - Steven K. Boyd
+  publisher: Computer Methods and Programs in Biomedicine
+  date: '2025-09-01'
+  link: https://doi.org/g9qcn4
+  orcid: 0000-0002-2930-5997
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/jbmr/zjaf111
+  title: "Longitudinal associations between changes in bone mechanical strength and\
+    \ fracture risk estimated by <b>\u03BC</b>FRAC"
+  authors:
+  - Annabel R Bugbird
+  - Danielle E Whittier
+  - Lauren A Burt
+  - Steven K Boyd
+  publisher: Journal of Bone and Mineral Research
+  date: '2025-08-18'
+  link: https://doi.org/g9w374
+  orcid: 0000-0002-2930-5997
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/jbmrpl/ziaf117
+  title: "External validation of a novel HR-pQCT fracture risk assessment tool (<b>\u03BC\
+    </b>FRAC) in a female cohort: Sahlgrenska University Hospital Prospective Evaluation\
+    \ of Risk of Bone Fractures (SUPERB) study"
+  authors:
+  - Annabel R Bugbird
+  - Raju Jaiswal
+  - Danielle E Whittier
+  - Steven K Boyd
+  - Mattias Lorentzon
+  publisher: JBMR Plus
+  date: '2025-08-04'
+  link: https://doi.org/g9v24b
   orcid: 0000-0002-2930-5997
   plugin: orcid.py
   file: orcid.yaml
