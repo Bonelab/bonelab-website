@@ -1,11 +1,11 @@
 ---
 image: images/projects/forearm-dxa.png
-title: What is the contribution of a forearm DXA to an osteoporosis diagnosis?
+title: The Contribution of a Forearm DXA to an Osteoporosis Diagnosis
 author: Steven Boyd
 tags:
   - dxa
   - image processing
-	- statistics
+  - statistics
 datasources: 
   - "CaBHS"
 resources: 
