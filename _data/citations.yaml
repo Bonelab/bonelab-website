@@ -1,5 +1,19 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.bone.2025.117709
+  title: Bone size and sex are key determinants of the longitudinal bone phenotype
+    trajectory in aging males and females
+  authors:
+  - Annabel R. Bugbird
+  - Lauren A. Burt
+  - Danielle E. Whittier
+  - Steven K. Boyd
+  publisher: Bone
+  date: '2026-02-01'
+  link: https://doi.org/g99tmp
+  orcid: 0000-0002-2930-5997
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1007/s00198-025-07750-4
   title: Localized bone deterioration predicts declining failure load and increased
     fracture risk
@@ -181,6 +195,22 @@
   publisher: Journal of Clinical Densitometry
   date: '2025-01-01'
   link: https://doi.org/g8n5ps
+  orcid: 0000-0002-2930-5997
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.70252/ZSKN7069
+  title: Two-year Skeletal Adaptations in Development and National Level Female Figure
+    Skaters
+  authors:
+  - Chelsea A. Wong
+  - Leigh Gabel
+  - Kelly Quipp
+  - Erik M. Groves
+  - Steven K. Boyd
+  - Lauren A. Burt
+  publisher: International Journal of Exercise Science
+  date: '2025-01-01'
+  link: https://doi.org/g99tmq
   orcid: 0000-0002-2930-5997
   plugin: orcid.py
   file: orcid.yaml
