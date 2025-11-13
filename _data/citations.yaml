@@ -28,6 +28,24 @@
   orcid: 0000-0002-2930-5997
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1007/s00198-025-07558-2
+  title: Quantifying localized bone loss in clinical computed tomography using void
+    spaces
+  authors:
+  - Annabel R. Bugbird
+  - Bryn E. Matheson
+  - Matthias Walle
+  - Nathan J. Neeteson
+  - Nina Pavlovic
+  - Callie E. Stirling
+  - Danielle E. Whittier
+  - Steven K. Boyd
+  publisher: Osteoporosis International
+  date: '2025-06-10'
+  link: https://doi.org/g9p8bh
+  orcid: 0000-0002-2930-5997
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1093/jbmr/zjaf099
   title: The association between physical activity during growth and bone microarchitecture
     at peak bone mass
@@ -40,21 +58,6 @@
   publisher: Journal of Bone and Mineral Research
   date: '2025-07-29'
   link: https://doi.org/g9v24c
-  orcid: 0000-0002-2930-5997
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1002/jor.70067
-  title: 'Longitudinal Progression of Traumatic Bone Marrow Lesions Following Anterior
-    Cruciate Ligament Injury: Associations With Knee Pain and Concomitant Injuries'
-  authors:
-  - Callie E. Stirling
-  - Nina Pavlovic
-  - Sarah L. Manske
-  - Richard E. A. Walker
-  - Steven K. Boyd
-  publisher: Journal of Orthopaedic Research
-  date: '2025-09-20'
-  link: https://doi.org/g939k8
   orcid: 0000-0002-2930-5997
   plugin: orcid.py
   file: orcid.yaml
@@ -99,24 +102,6 @@
   publisher: JBMR Plus
   date: '2025-08-04'
   link: https://doi.org/g9v24b
-  orcid: 0000-0002-2930-5997
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1007/s00198-025-07558-2
-  title: Quantifying localized bone loss in clinical computed tomography using void
-    spaces
-  authors:
-  - Annabel R. Bugbird
-  - Bryn E. Matheson
-  - Matthias Walle
-  - Nathan J. Neeteson
-  - Nina Pavlovic
-  - Callie E. Stirling
-  - Danielle E. Whittier
-  - Steven K. Boyd
-  publisher: Osteoporosis International
-  date: '2025-06-10'
-  link: https://doi.org/g9p8bh
   orcid: 0000-0002-2930-5997
   plugin: orcid.py
   file: orcid.yaml
