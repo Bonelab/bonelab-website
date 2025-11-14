@@ -28,6 +28,9 @@ clinical exam. There is an opportunity to compare these findings to our advanced
 peripheral quantitative computed tomography (HR-pQCT) that uses our fracture prediction model, µFRAC, to estimate
 fracture risk.
 
+We would use both the 33% and ultradistal forearm DXA sites. The ultradistal corresponds to the HR-pQCT scan site roughly
+and the 33% site is what is used clinically.
+
 Some publications of recent are highly relevant to this project:
 
 - Burrell S, Desaulniers M, Jen H, Maguire C, Stilwell M, 2025. CAR Practice Guideline on Bone Mineral Densitometry Reporting: 2024 Update. Can Assoc Radiol J 76, 417-426. <a href="https://www.ncbi.nlm.nih.gov/pubmed/39797534" target="_blank">[Link to article]</a>
