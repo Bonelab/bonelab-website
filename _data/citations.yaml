@@ -1,5 +1,16 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.bone.2025.117761
+  title: Predicting skeletal age from HR-pQCT imaging
+  authors:
+  - Annabel R. Bugbird
+  - Steven K. Boyd
+  publisher: Bone
+  date: '2026-03-01'
+  link: https://doi.org/hbfm2k
+  orcid: 0000-0002-2930-5997
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.bone.2025.117709
   title: Bone size and sex are key determinants of the longitudinal bone phenotype
     trajectory in aging males and females
@@ -11,6 +22,29 @@
   publisher: Bone
   date: '2026-02-01'
   link: https://doi.org/g99tmp
+  orcid: 0000-0002-2930-5997
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/jbmrpl/ziaf190
+  title: "Crohn\u2019s and Bones: Assessing Bone Microarchitecture using High Resolution\
+    \ Peripheral Quantitative Computed Tomography"
+  authors:
+  - Rachel E Klassen
+  - Cathy Lu
+  - Steven K Boyd
+  - Lauren A Burt
+  publisher: JBMR Plus
+  date: '2025-12-11'
+  link: https://doi.org/hbdtzm
+  orcid: 0000-0002-2930-5997
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/jbmr/zjaf187
+  title: pendingpublications
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://doi.org/hbfm2j
   orcid: 0000-0002-2930-5997
   plugin: orcid.py
   file: orcid.yaml
@@ -26,6 +60,22 @@
   publisher: Journal of Orthopaedic Research
   date: '2025-09-20'
   link: https://doi.org/g939k8
+  orcid: 0000-0002-2930-5997
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/jbmr/zjaf179
+  title: "Bone microarchitecture declines in older men with impaired renal function\u2013\
+    \ the prospective STRAMBO study"
+  authors:
+  - Audrey Bobiller
+  - Danielle Whittier
+  - Laurence Derain Dubourg
+  - Steven K Boyd
+  - Roland Chapurlat
+  - Pawel Szulc
+  publisher: Journal of Bone and Mineral Research
+  date: '2025-11-28'
+  link: https://doi.org/hbc37m
   orcid: 0000-0002-2930-5997
   plugin: orcid.py
   file: orcid.yaml
