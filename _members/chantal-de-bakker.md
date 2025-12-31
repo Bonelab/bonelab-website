@@ -20,4 +20,4 @@ evaluate skeletal responses to midfoot stress fractures and acute knee
 injury. She focused on evaluating microstructural changes after stress 
 fracture and developing dual energy CT-based methods to image injury-associated bone marrow edema.
 In 2021 Chantal started work at Invicro (https://invicro.com) in Boston, USA, which
-is now called Perceptive.
+is now called Perceptive. Recently (2025) she moved to Novartis.
