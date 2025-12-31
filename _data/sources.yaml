@@ -47,6 +47,13 @@
 - id: doi:10.1007/978-3-642-03882-2-497
   remove: true
 
+# In December 2025 this article seemed to start causing problems
+# for some reason. I'm not even sure what article it is, but perhaps
+# the issue will self-resolve at some point. In the meantime, I remove
+# it from the citations so that a critical error will no longer occur.
+- id: doi:10.1093/jbmr/zjaf187
+  remove: true
+  
 # The following are EID values, which seem to cause a problem
 # with Manubot. I've first set each one to 'remove' and then
 # I've re-entered them with the title and publication information.
