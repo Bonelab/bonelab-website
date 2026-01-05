@@ -1,7 +1,7 @@
 ---
 name: Brittany  Benson
 image: images/headshots/BrittanyBenson.png
-description: Undergraduate Honours Student (UCalgary), 2011
+description: Undergraduate Honours Student, 2011
 role: undergrad
 affiliation: University of Calgary
 group: alumni
