@@ -1,7 +1,7 @@
 ---
 name: John Schipilow
 image: images/headshots/JohnSchipilow.png
-description: MSc - Biomedical Engineering, 2010 – 2013
+description: MSc – Biomedical Engineering, 2010 – 2013
 role: msc
 affiliation: University of Calgary
 group: alumni
