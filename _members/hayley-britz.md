@@ -1,7 +1,7 @@
 ---
 name: Hayley Britz
 image: images/headshots/HayleyBritz.png
-description: PhD - Biomedical Engineering, 2012 – 2016
+description: PhD – Biomedical Engineering, 2012 – 2016
 role: phd
 affiliation: University of Calgary
 group: alumni

@@ -1,7 +1,7 @@
 ---
 name: Jan Owoc
 image: images/headshots/JanOwoc.png
-description: MSc - Biomedical Engineering, 2010 –  2012
+description: MSc – Biomedical Engineering, 2010 –  2012
 role: msc
 affiliation: University of Calgary
 group: alumni

@@ -1,7 +1,7 @@
 ---
 name: Graeme Campbell
 image: images/headshots/GraemeCampbell.png
-description: PhD - Biomedical Engineering, 2005 – 2010
+description: PhD – Biomedical Engineering, 2005 – 2010
 role: phd
 affiliation: University of Calgary
 group: alumni
