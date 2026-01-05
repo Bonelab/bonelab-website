@@ -1,7 +1,7 @@
 ---
 name: Renfeng Su
 image: images/headshots/RenfengSu.png
-description: MSc - Biomedical Engineering, 2003 – 2005
+description: MSc – Biomedical Engineering, 2003 – 2005
 role: msc
 affiliation: University of Calgary
 group: alumni

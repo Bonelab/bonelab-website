@@ -1,7 +1,7 @@
 ---
 name: Geoff Michalak
 image: images/headshots/GeoffMichalak.png
-description: MSc - Biomedical Engineering, 2016 – 2018
+description: MSc – Biomedical Engineering, 2016 – 2018
 role: msc
 affiliation: University of Calgary
 group: alumni

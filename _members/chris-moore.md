@@ -1,7 +1,7 @@
 ---
 name: Chris Moore
 image: images/headshots/CharlieBrown.png
-description: Summer Student (UCalgary), 2007
+description: Summer Student, 2007
 role: undergrad
 affiliation: University of Calgary
 group: alumni

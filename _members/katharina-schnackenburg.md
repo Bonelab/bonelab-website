@@ -1,7 +1,7 @@
 ---
 name: Katharina Schnackenburg
 image: images/headshots/Lucy.png
-description: MSc - Biomedical Engineering, 2008 – 2010
+description: MSc – Biomedical Engineering, 2008 – 2010
 role: msc
 affiliation: University of Calgary
 group: alumni

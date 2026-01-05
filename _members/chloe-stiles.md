@@ -1,7 +1,7 @@
 ---
 name: Chloe Stiles
 image: images/headshots/ChloeStiles.png
-description: MSc - Biomechanics, 2024 – 2025
+description: MSc – Biomechanics, 2024 – 2025
 role: msc
 affiliation: University of Waterloo
 group: alumni

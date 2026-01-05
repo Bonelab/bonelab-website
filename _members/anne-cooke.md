@@ -1,7 +1,7 @@
 ---
 name: Anne Cooke
 image: images/headshots/AnneCooke.png
-description: Medical Radiation Technologist, 2013-2025
+description: Medical Radiation Technologist, 2013 – 2025
 role: staff
 affiliation: University of Calgary
 group: alumni

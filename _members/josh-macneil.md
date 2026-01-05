@@ -1,7 +1,7 @@
 ---
 name: Josh MacNeil
 image: images/headshots/JoshMacNeil.png
-description: PhD - Biomedical Engineering, 2005 – 2007
+description: PhD – Biomedical Engineering, 2005 – 2007
 role: phd
 affiliation: University of Calgary
 group: alumni

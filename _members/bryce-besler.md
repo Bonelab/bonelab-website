@@ -1,7 +1,7 @@
 ---
 name: Bryce Besler
 image: images/headshots/BryceBesler.png
-description: PhD - Biomedical Engineering, 2016 – 2021
+description: PhD – Biomedical Engineering, 2016 – 2021
 role: phd
 affiliation: University of Calgary
 group: alumni

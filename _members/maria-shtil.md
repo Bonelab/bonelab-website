@@ -1,7 +1,7 @@
 ---
 name: Maria Shtil
 image: images/headshots/MariaShtil.png
-description: MSc - Biomedical Engineering, 2017 – 2019
+description: MSc – Biomedical Engineering, 2017 – 2019
 role: msc
 affiliation: University of Calgary
 group: alumni
