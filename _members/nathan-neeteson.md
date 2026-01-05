@@ -1,7 +1,7 @@
 ---
 name: Nathan Neeteson
 image: images/headshots/NathanNeeteson.png
-description: PhD - Biomedical Engineering, 2020 – 2024
+description: PhD – Biomedical Engineering, 2020 – 2024
 role: phd
 affiliation: University of Calgary
 group: alumni

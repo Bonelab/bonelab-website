@@ -1,7 +1,7 @@
 ---
 name: Nikolas Knowles
 image: images/headshots/NikKnowles.png
-description: Postdoctoral Fellow, 2019 - 2022
+description: Postdoctoral Fellow, 2019 – 2022
 role: postdoc
 affiliation: University of Calgary
 group: alumni

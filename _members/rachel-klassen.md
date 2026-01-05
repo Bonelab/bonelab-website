@@ -1,7 +1,7 @@
 ---
 name: Rachel Klassen
 image: images/headshots/RachelKlassen.png
-description: MSc – Biomedical Engineering, 2023 - 2025
+description: MSc – Biomedical Engineering, 2023 – 2025
 role: msc
 affiliation: University of Calgary
 group: alumni
