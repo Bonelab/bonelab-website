@@ -1,7 +1,7 @@
 ---
 name: Erika Kristensen
 image: images/headshots/ErikaKristensen.png
-description: PhD - Biomedical Engineering, 2006 – 2010
+description: PhD – Biomedical Engineering, 2006 – 2010
 role: phd
 affiliation: University of Calgary
 group: alumni

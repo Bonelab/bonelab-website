@@ -1,7 +1,7 @@
 ---
 name: Edmond Chan
 image: images/headshots/EdmondChan.png
-description: Summer Student (UCalgary), 2011
+description: Summer Student, 2011
 role: undergrad
 affiliation: University of Calgary
 group: alumni
