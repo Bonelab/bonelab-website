@@ -1,7 +1,7 @@
 ---
 name: Ying Zhu
 image: images/headshots/YingZhu.png
-description: Postdoctoral Fellow, 2013 - 2017
+description: Postdoctoral Fellow, 2013 – 2017
 role: postdoc
 affiliation: University of Calgary
 group: alumni
