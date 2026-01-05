@@ -1,7 +1,7 @@
 ---
 name: Annie Bugbird
 image: images/headshots/AnnieBugbird.png
-description: PhD Candidate – Biomedical Engineering
+description: PhD – Biomedical Engineering, 2021 – 2025
 role: phd
 affiliation: University of Calgary
 group: alumni
