@@ -1,7 +1,7 @@
 ---
 name: Sarah Manske
 image: images/headshots/SarahManske.png
-description: PhD - Biomedical Engineering, 2008 – 2010
+description: PhD – Biomedical Engineering, 2008 – 2010
 role: phd
 affiliation: University of Calgary
 group: alumni

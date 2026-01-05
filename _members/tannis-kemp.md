@@ -1,7 +1,7 @@
 ---
 name: Tannis Kemp
 image: images/headshots/TannisKemp.png
-description: MSc - Mechanical Engineering, 2019 – 2021
+description: MSc – Mechanical Engineering, 2019 – 2021
 role: msc
 affiliation: University of Calgary
 group: alumni
