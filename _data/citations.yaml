@@ -25,8 +25,22 @@
   orcid: 0000-0002-2930-5997
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1093/jbmrpl/ziaf190
+  title: "Crohn\u2019s and bones: assessing bone microarchitecture using high-resolution\
+    \ peripheral quantitative computed tomography"
+  authors:
+  - Rachel E Klassen
+  - Cathy Lu
+  - Steven K Boyd
+  - Lauren A Burt
+  publisher: JBMR Plus
+  date: '2025-12-11'
+  link: https://doi.org/hbdtzm
+  orcid: 0000-0002-2930-5997
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1093/jbmrpl/ziaf196
-  title: Measurement of Knee Joint Space Width with Bi-Planar Radiography
+  title: Measurement of knee joint space width with bi-planar radiography
   authors:
   - Isabella D Vandergaag
   - Richard E A Walker
@@ -37,17 +51,20 @@
   orcid: 0000-0002-2930-5997
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/jbmrpl/ziaf190
-  title: "Crohn\u2019s and Bones: Assessing Bone Microarchitecture using High Resolution\
-    \ Peripheral Quantitative Computed Tomography"
+- id: doi:10.1002/jor.70143
+  title: Internal Density Calibration in the Proximal Humerus to Estimate Bone Stiffness
+    for Stemless Shoulder Arthroplasty
   authors:
-  - Rachel E Klassen
-  - Cathy Lu
-  - Steven K Boyd
-  - Lauren A Burt
-  publisher: JBMR Plus
-  date: '2025-12-11'
-  link: https://doi.org/hbdtzm
+  - "Chlo\xEB K.A. Stiles"
+  - Bryn E. Matheson
+  - George S. Athwal
+  - Jack P. Callaghan
+  - Clark R. Dickerson
+  - Steven K. Boyd
+  - Nikolas K. Knowles
+  publisher: Journal of Orthopaedic Research
+  date: '2026-01-01'
+  link: https://doi.org/hbkdd8
   orcid: 0000-0002-2930-5997
   plugin: orcid.py
   file: orcid.yaml
@@ -85,12 +102,12 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/jbmr/zjaf179
-  title: "Bone microarchitecture declines in older men with impaired renal function\u2013\
-    \ the prospective STRAMBO study"
+  title: "Bone microarchitecture declines in older men with impaired renal function\u2014\
+    the prospective STRAMBO study"
   authors:
   - Audrey Bobiller
   - Danielle Whittier
-  - Laurence Derain Dubourg
+  - Laurence Dubourg
   - Steven K Boyd
   - Roland Chapurlat
   - Pawel Szulc
@@ -214,7 +231,7 @@
   - Matthias Walle
   - Bryn E. Matheson
   - Steven K. Boyd
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2025-04-23'
   link: https://doi.org/g9gqpf
   orcid: 0000-0002-2930-5997
@@ -360,7 +377,7 @@
   - Leigh Gabel
   - Steven K. Boyd
   - Lauren A. Burt
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2024-09-28'
   link: https://doi.org/g57sh3
   orcid: 0000-0002-2930-5997
