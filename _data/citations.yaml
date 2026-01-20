@@ -25,8 +25,22 @@
   orcid: 0000-0002-2930-5997
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1093/jbmrpl/ziaf190
+  title: "Crohn\u2019s and bones: assessing bone microarchitecture using high-resolution\
+    \ peripheral quantitative computed tomography"
+  authors:
+  - Rachel E Klassen
+  - Cathy Lu
+  - Steven K Boyd
+  - Lauren A Burt
+  publisher: JBMR Plus
+  date: '2025-12-11'
+  link: https://doi.org/hbdtzm
+  orcid: 0000-0002-2930-5997
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1093/jbmrpl/ziaf196
-  title: Measurement of Knee Joint Space Width with Bi-Planar Radiography
+  title: Measurement of knee joint space width with bi-planar radiography
   authors:
   - Isabella D Vandergaag
   - Richard E A Walker
@@ -51,24 +65,6 @@
   publisher: Journal of Orthopaedic Research
   date: '2026-01-01'
   link: https://doi.org/hbkdd8
-  orcid: 0000-0002-2930-5997
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/jbmr/zjaf187
-  title: 'External validation of a novel HR-pQCT based fracture risk assessment tool
-    (FRAC) in a Male Cohort: The Osteoporotic Fractures in Men (MrOS) Study'
-  authors:
-  - Annabel R Bugbird
-  - Andrew J Burghardt
-  - Lisa Langsetmo
-  - Kristine E Ensrud
-  - Mary L Bouxsein
-  - Douglas P Kiel
-  - Steven K Boyd
-  - Danielle E Whittier
-  publisher: Journal of Bone and Mineral Research
-  date: '2025-12-31'
-  link: https://doi.org/hbfm2j
   orcid: 0000-0002-2930-5997
   plugin: orcid.py
   file: orcid.yaml
