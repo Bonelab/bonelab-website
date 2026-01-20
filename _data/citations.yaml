@@ -29,13 +29,16 @@
   title: "Crohn\u2019s and bones: assessing bone microarchitecture using high-resolution\
     \ peripheral quantitative computed tomography"
   authors:
-  - Rachel E Klassen
-  - Cathy Lu
-  - Steven K Boyd
-  - Lauren A Burt
-  publisher: JBMR Plus
-  date: '2025-12-11'
-  link: https://doi.org/hbdtzm
+  - "Chlo\xEB K.A. Stiles"
+  - Bryn E. Matheson
+  - George S. Athwal
+  - Jack P. Callaghan
+  - Clark R. Dickerson
+  - Steven K. Boyd
+  - Nikolas K. Knowles
+  publisher: Journal of Orthopaedic Research
+  date: '2026-01-01'
+  link: https://doi.org/hbkdd8
   orcid: 0000-0002-2930-5997
   plugin: orcid.py
   file: orcid.yaml
