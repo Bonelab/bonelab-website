@@ -1,10 +1,10 @@
 ---
 name: Nina Pavlovic
 image: images/headshots/NinaPavlovic.png
-description: MSc Candidate – Biomedical Engineering
+description: MSc – Biomedical Engineering, 2023 – 2025
 role: msc
 affiliation: University of Calgary
-group: current
+group: alumni
 aliases:
   - N. Pavlovic
   - N Pavlovic
@@ -14,9 +14,11 @@ education:
   - "BSc - Biomechanics (Hons), University of Calgary, 2022"
 ---
 
-Nina is studying bone changes in acute knee injuries. Before starting as a 
+Nina studied bone changes in acute knee injuries. Before starting as a 
 graduate student in the lab she worked as a study coordinator in the Bone Imaging 
-Lab for the SALTACII and ZAPOA studies, so she is well suited for this transition. 
-She is a recent Biomechanics graduate from the University of Calgary and 
-is very excited to join the Bone Imaging Lab as a graduate student.
+Lab for the SALTACII and ZAPOA studies, so she was well suited for this transition. 
+She has an undergraduate degree in Biomechanics from the University of Calgary.
 Outside the lab, Nina is a rhythmic gymnastics coach and judge.
+
+Her MSc thesis was titled: Localizing longitudinal changes in volumetric bone mineral 
+density after acute knee injury using voxel-based morphometry
