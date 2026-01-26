@@ -462,7 +462,7 @@
   - Nathan J. Neeteson
   - Steven K. Boyd
   publisher: Medical Engineering &amp; Physics
-  date: '2024-02-01'
+  date: '2024-01-18'
   link: https://doi.org/gt5tkz
   orcid: 0000-0002-2930-5997
   plugin: sources.py
@@ -898,7 +898,7 @@
   - Geoffrey J. Michalak
   - Steven K. Boyd
   publisher: Medical Engineering &amp; Physics
-  date: '2020-04-01'
+  date: '2020-02-12'
   link: https://doi.org/gt5tms
   orcid: 0000-0002-2930-5997
   plugin: sources.py
@@ -1891,7 +1891,7 @@
   - S.J. Ferguson
   - B. Helgason
   publisher: Medical Engineering &amp; Physics
-  date: '2016-11-01'
+  date: '2016-09-15'
   link: https://doi.org/f9bh74
   orcid: 0000-0002-2930-5997
   plugin: sources.py
@@ -2384,7 +2384,7 @@
   - Frank R. Jirik
   - Steven K. Boyd
   publisher: Medical Engineering &amp; Physics
-  date: '2013-11-01'
+  date: '2013-07-03'
   link: https://doi.org/gt5tn3
   orcid: 0000-0002-2930-5997
   plugin: sources.py
@@ -2474,7 +2474,7 @@
   - Liam Martin
   - Steven K. Boyd
   publisher: Medical Engineering &amp; Physics
-  date: '2013-10-01'
+  date: '2013-05-14'
   link: https://doi.org/f5ctpz
   orcid: 0000-0002-2930-5997
   plugin: sources.py
@@ -3186,14 +3186,15 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.medengphy.2007.11.004
-  title: Radiation effects on bone architecture in mice and rats resulting from in
-    vivo micro-computed tomography scanning
+  title: "Radiation effects on bone architecture in mice and rats resulting from\n\
+    \                    <i>in vivo</i>\n                    micro-computed tomography\
+    \ scanning"
   authors:
   - R. Josh Klinck
   - Graeme M. Campbell
   - Steven K. Boyd
   publisher: Medical Engineering &amp; Physics
-  date: '2008-09-01'
+  date: '2008-01-14'
   link: https://doi.org/c6swhn
   orcid: 0000-0002-2930-5997
   plugin: sources.py
@@ -3285,7 +3286,7 @@
   - Graeme M. Campbell
   - Steven K. Boyd
   publisher: Medical Engineering &amp; Physics
-  date: '2007-05-01'
+  date: '2006-09-05'
   link: https://doi.org/dmpfh4
   orcid: 0000-0002-2930-5997
   plugin: sources.py
