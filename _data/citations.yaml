@@ -11,6 +11,60 @@
   orcid: 0000-0002-2930-5997
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1093/jbmrpl/ziag025
+  title: 'Open and reproducible research in musculoskeletal imaging: Why it matters
+    and how to implement it with the guidelines of the ORMIR community'
+  authors:
+  - Serena Bonaretti
+  - Mojtaba Barzegari
+  - Melissa Bevers
+  - Steven Boyd
+  - Andrew J Burghardt
+  - Donnie Cameron
+  - Francesco Chiumento
+  - Gianluigi Crimi
+  - Gerard Degenhart
+  - Pholpat Durongbhan
+  - Michelle Alejandra Espinosa Hernandez
+  - Giulia Fraterrigo
+  - Ali Ghasem-Zadeh
+  - Lorenzo Grassi
+  - Jukka Hirvasniemi
+  - Seyedmahdi Hosseinitabatabaei
+  - Gianluca Iori
+  - Joeri Kok
+  - Michael Kuczynski
+  - YoungJun Lee
+  - Cecilia Liberati
+  - Sarah Manske
+  - Matt McCormick
+  - Maria Monzon
+  - Martino Pani
+  - Simone Poncioni
+  - Jilmen Quintiens
+  - "Sabine R\xE4uber"
+  - Paul Ritsche
+  - Alfonso Dario Santamaria
+  - Francesco Santini
+  - Fabio Sarto
+  - Enrico Schileo
+  - Vincent Stadelmann
+  - Kathryn S Stok
+  - Rachel Surowiec
+  - Fulvia Taddei
+  - Jared Vicory
+  - Matthias Walle
+  - Mariska Wesseling
+  - Danielle Whittier
+  - Bettina Willie
+  - Andy Kin On Wong
+  - "D\u017Eenan Zuki\u0107"
+  publisher: JBMR Plus
+  date: '2026-02-20'
+  link: https://doi.org/hbp92d
+  orcid: 0000-0002-2930-5997
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.bone.2025.117709
   title: Bone size and sex are key determinants of the longitudinal bone phenotype
     trajectory in aging males and females
@@ -68,6 +122,20 @@
   orcid: 0000-0002-2930-5997
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1007/s00198-025-07750-4
+  title: Localized bone deterioration predicts declining failure load and increased
+    fracture risk
+  authors:
+  - Annabel R. Bugbird
+  - Lauren A. Burt
+  - Danielle E. Whittier
+  - Steven K. Boyd
+  publisher: Osteoporosis International
+  date: '2025-10-29'
+  link: https://doi.org/g98r4b
+  orcid: 0000-0002-2930-5997
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1002/jor.70067
   title: 'Longitudinal Progression of Traumatic Bone Marrow Lesions Following Anterior
     Cruciate Ligament Injury: Associations With Knee Pain and Concomitant Injuries'
@@ -96,20 +164,6 @@
   publisher: Journal of Bone and Mineral Research
   date: '2025-11-28'
   link: https://doi.org/hbc37m
-  orcid: 0000-0002-2930-5997
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1007/s00198-025-07750-4
-  title: Localized bone deterioration predicts declining failure load and increased
-    fracture risk
-  authors:
-  - Annabel R. Bugbird
-  - Lauren A. Burt
-  - Danielle E. Whittier
-  - Steven K. Boyd
-  publisher: Osteoporosis International
-  date: '2025-10-29'
-  link: https://doi.org/g98r4b
   orcid: 0000-0002-2930-5997
   plugin: orcid.py
   file: orcid.yaml
@@ -162,7 +216,8 @@
   file: orcid.yaml
 - id: doi:10.1093/jbmr/zjaf111
   title: "Longitudinal associations between changes in bone mechanical strength and\
-    \ fracture risk estimated by <b>\u03BC</b>FRAC"
+    \ fracture risk estimated by\n                    <b>\u03BC</b>\n            \
+    \        FRAC"
   authors:
   - Annabel R Bugbird
   - Danielle E Whittier
@@ -462,7 +517,7 @@
   - Nathan J. Neeteson
   - Steven K. Boyd
   publisher: Medical Engineering &amp; Physics
-  date: '2024-02-01'
+  date: '2024-01-18'
   link: https://doi.org/gt5tkz
   orcid: 0000-0002-2930-5997
   plugin: sources.py
@@ -898,7 +953,7 @@
   - Geoffrey J. Michalak
   - Steven K. Boyd
   publisher: Medical Engineering &amp; Physics
-  date: '2020-04-01'
+  date: '2020-02-12'
   link: https://doi.org/gt5tms
   orcid: 0000-0002-2930-5997
   plugin: sources.py
@@ -1146,7 +1201,7 @@
   - J M Alves
   - J de Carvalho
   publisher: Biomedical Physics &amp; Engineering Express
-  date: '2019-07-11'
+  date: '2019-07-01'
   link: https://doi.org/gt5tm6
   orcid: 0000-0002-2930-5997
   plugin: sources.py
@@ -1891,7 +1946,7 @@
   - S.J. Ferguson
   - B. Helgason
   publisher: Medical Engineering &amp; Physics
-  date: '2016-11-01'
+  date: '2016-09-15'
   link: https://doi.org/f9bh74
   orcid: 0000-0002-2930-5997
   plugin: sources.py
@@ -2384,7 +2439,7 @@
   - Frank R. Jirik
   - Steven K. Boyd
   publisher: Medical Engineering &amp; Physics
-  date: '2013-11-01'
+  date: '2013-07-03'
   link: https://doi.org/gt5tn3
   orcid: 0000-0002-2930-5997
   plugin: sources.py
@@ -2474,7 +2529,7 @@
   - Liam Martin
   - Steven K. Boyd
   publisher: Medical Engineering &amp; Physics
-  date: '2013-10-01'
+  date: '2013-05-14'
   link: https://doi.org/f5ctpz
   orcid: 0000-0002-2930-5997
   plugin: sources.py
@@ -3186,14 +3241,15 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.medengphy.2007.11.004
-  title: Radiation effects on bone architecture in mice and rats resulting from in
-    vivo micro-computed tomography scanning
+  title: "Radiation effects on bone architecture in mice and rats resulting from\n\
+    \                    <i>in vivo</i>\n                    micro-computed tomography\
+    \ scanning"
   authors:
   - R. Josh Klinck
   - Graeme M. Campbell
   - Steven K. Boyd
   publisher: Medical Engineering &amp; Physics
-  date: '2008-09-01'
+  date: '2008-01-14'
   link: https://doi.org/c6swhn
   orcid: 0000-0002-2930-5997
   plugin: sources.py
@@ -3285,7 +3341,7 @@
   - Graeme M. Campbell
   - Steven K. Boyd
   publisher: Medical Engineering &amp; Physics
-  date: '2007-05-01'
+  date: '2006-09-05'
   link: https://doi.org/dmpfh4
   orcid: 0000-0002-2930-5997
   plugin: sources.py
