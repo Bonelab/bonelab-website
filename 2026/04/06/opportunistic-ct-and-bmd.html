@@ -39,21 +39,21 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<title>A comparison of asynchronous to synchronous calibration | Bone Imaging Laboratory</title>
+<title>How is finite element estimated strength associated with BMD from clinical CT? | Bone Imaging Laboratory</title>
 
 <link rel="icon" href="/images/icon.png">
 
-<meta name="title" content="A comparison of asynchronous to synchronous calibration">
+<meta name="title" content="How is finite element estimated strength associated with BMD from clinical CT?">
 <meta name="description" content="University of Calgary. ">
 
-<meta property="og:title" content="A comparison of asynchronous to synchronous calibration">
+<meta property="og:title" content="How is finite element estimated strength associated with BMD from clinical CT?">
 <meta property="og:site_title" content="Bone Imaging Laboratory">
 <meta property="og:description" content="University of Calgary. ">
 <meta property="og:url" content="https://bonelab.ca">
 <meta property="og:image" content="/images/share.jpg">
 <meta property="og:locale" content="en_US">
 
-<meta property="twitter:title" content="A comparison of asynchronous to synchronous calibration">
+<meta property="twitter:title" content="How is finite element estimated strength associated with BMD from clinical CT?">
 <meta property="twitter:description" content="University of Calgary. ">
 <meta property="twitter:url" content="https://bonelab.ca">
 <meta property="twitter:card" content="summary_large_image">
@@ -63,7 +63,7 @@
   <meta name="author" content="Steven Boyd">
   <meta property="og:type" content="article">
   <meta property="og:updated_time" content="2026-04-06T01:28:13+00:00">
-  <meta property="article:published_time" content="2025-04-25T00:00:00+00:00">
+  <meta property="article:published_time" content="2026-04-06T00:00:00+00:00">
   <meta property="article:modified_time" content="2026-04-06T01:28:13+00:00">
   <meta name="revised" content="2026-04-06T01:28:13+00:00">
 
@@ -73,13 +73,13 @@
     "@context": "https://schema.org",
     
       "@type": "BlogPosting",
-      "author": { "@type": "Person", "name": "A comparison of asynchronous to synchronous calibration" },
-      "datePublished": "2025-04-25T00:00:00+00:00",
+      "author": { "@type": "Person", "name": "How is finite element estimated strength associated with BMD from clinical CT?" },
+      "datePublished": "2026-04-06T00:00:00+00:00",
       "dateModified": "2026-04-06T01:28:13+00:00",
     
-    "name": "A comparison of asynchronous to synchronous calibration",
+    "name": "How is finite element estimated strength associated with BMD from clinical CT?",
     "description": "University of Calgary. ",
-    "headline": "A comparison of asynchronous to synchronous calibration",
+    "headline": "How is finite element estimated strength associated with BMD from clinical CT?",
     "publisher": {
       "@type": "Organization",
       "logo": { "@type": "ImageObject", "url": "/images/icon.png" }
@@ -413,15 +413,15 @@
   
   
 
-  <section class="background" data-size="1" style="--image: url('/images/projects/asynchronous.png')">
+  <section class="background" data-size="1" style="--image: url('/images/projects/fea-clinical-ct.png')">
     <!--
-  background: images/projects/asynchronous.png;
+  background: images/projects/fea-clinical-ct.png;
   dark: ;
   size: 1;
 -->
 
 
-<h1 class="center">A comparison of asynchronous to synchronous calibration</h1>
+<h1 class="center">How is finite element estimated strength associated with BMD from clinical CT?</h1>
 
 <div class="post-info">
   
@@ -440,15 +440,10 @@
   
     <span data-tooltip="Originally published on">
       <i class="icon fa-regular fa-calendar"></i>
-      <span>April 25, 2025</span>
+      <span>April 06, 2026</span>
     </span>
   
 
-  
-    <span data-tooltip="Last updated on">
-      <i class="icon fa-solid fa-clock-rotate-left"></i>
-      <span>April 06, 2026</span>
-    </span>
   
 </div>
 
@@ -460,6 +455,10 @@
     
       <a href="https://bonelab.ca/blog?search=%22tag:%20clinical-ct%22" class="tag" data-tooltip='Show items with the tag "clinical-ct"'>
         clinical-ct
+      </a>
+    
+      <a href="https://bonelab.ca/blog?search=%22tag:%20fea%22" class="tag" data-tooltip='Show items with the tag "fea"'>
+        fea
       </a>
     
       <a href="https://bonelab.ca/blog?search=%22tag:%20image-processing%22" class="tag" data-tooltip='Show items with the tag "image-processing"'>
@@ -484,15 +483,28 @@
 <!-- Description -->
 <div>
   <h3>Project Description</h3>
-  <p>Does synchronous calibration work as well as we think?</p>
+  <p>How is finite element estimated strength associated with BMD from clinical CT?</p>
 
-<p>Typically CT scans are not acquired with a calibration phantom in the scan (i.e., synchronous calibration) and so we have to either perform internal calibration or use synchronous calibration (i.e., scan the phantom in the same scanner as the patient, but not at the same time). The reason a phantom is not used clinically is because most CT imaging is not quantitative, but rather used for diagnostic purposes. We assume that the best way to have quantitative data is to include a calibration phantom, but is it? Does the inclusion of the dense phantom rods actually lead to beam hardening that alters the resulting BMD? This is hard to know because it’d require scanning a person twice: once with the phantom and once without the phantom (and them scan the phantom separately).</p>
+<p>The diagnosis of osteoporosis from clinical CT via opportunistic screening is not typically
+used clinically, in part because associations with fracture outcomes have not been established.
+The best way to address this issue is to build a prospective cohort of people who have had
+a CT scan so that we can generate reference BMD and then associate that with fracture outcomes
+in the longitudinal study. That may be possible to build from retrospective data (aka. pseudo-
+prospective), but will be difficult. In the interim we can use finite element estimated strength
+as a reference.</p>
 
-<p>This project would propose to test whether an in-scan phantom results in the most accurate quantitative CT outcome. We would work with the gross anatomy lab to scan a fresh cadaver with and without the calibration phantom in place. We would do this for a KUB scan as well as a chest scan. Although BMD is our ultimate outcome of interest, our comparison would be based on the HU from each scan. Using ML we’d segment the L1-L4 and left/right femurs and calculate the mean HU in each bone.</p>
+<p>The estimation of strength can be performed at L1 (and rest of spine) and proximate femur on 
+a large cohort. Then in the same cohort we could explore which meausurement of BMD is most
+closely linked. BMD might be measured on a number of ways: (1) the trabecular region only in
+an ellipsoid (traditional method), (2) the entire trabecular region 3mm from the cortical margin, 
+(3) the entire vertebral body, or (4) the body and processes. While this cannot still be associated
+with a fracture outcome (i.e., build a CT-based T-score), it will inform us of which measure of 
+BMD is most associated with bone strength.</p>
 
-<p>Additional measures we might consider are adjusting table height as well as employing internal calibration. Since it is a lot of work to have a cadaver in the scanner we might consider other scanning protocols as well (i.e., knees, head).</p>
+<p>Reference data that uses quantitative approaches (particularly without the fat-error) will be
+important to develop. This research would inform what aspect of BMD is most appropriate to use as
+the reference.</p>
 
-<p>Image shown is from Mateo Ruedes.</p>
 
 </div>
 
@@ -502,9 +514,7 @@
   <h3>Scope</h3>
   <ul>
       
-      <li>MSc project</li>
-      
-      <li>Summer student</li>
+      <li>PhD project</li>
       
   </ul>
 </div>
@@ -516,7 +526,7 @@
   <h3>Data Source</h3>
   <ul>
       
-      <li>ARTININ</li>
+      <li>RETRO2</li>
       
   </ul>
 </div>
@@ -552,17 +562,12 @@
   <span>
     
       <i class="icon fa-solid fa-angle-left"></i> Previous post<br>
-      <a href="/2024/10/29/patella-oa.html">
-        The Prevalence of Patellar Osteoarthritis Following ACL Injury
+      <a href="/2026/03/20/subchondral-bone-in-OA.html">
+        What are the longitudinal changes in subchondral bone thickness after ACL injury?
       </a>
     
   </span>
   <span>
-    
-      Next post <i class="icon fa-solid fa-angle-right"></i><br>
-      <a href="/2025/11/01/forearm-dxa.html">
-        The Contribution of a Forearm DXA to an Osteoporosis Diagnosis
-      </a>
     
   </span>
 </div>
