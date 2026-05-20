@@ -1,5 +1,21 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1093/jbmrpl/ziag053
+  title: Effects of Contrast on Opportunistic Computed Tomography Vertebral Bone Mineral
+    Density Analysis using Internal Calibration
+  authors:
+  - Bryn E Matheson
+  - Kirsten N Bott
+  - Andrew G Kiraly
+  - Richard E A Walker
+  - Steven K Boyd
+  - Sarah L Manske
+  publisher: JBMR Plus
+  date: '2026-03-30'
+  link: https://doi.org/hbvx4n
+  orcid: 0000-0002-2930-5997
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.bone.2025.117761
   title: Predicting skeletal age from HR-pQCT imaging
   authors:
@@ -102,6 +118,20 @@
   publisher: JBMR Plus
   date: '2025-12-27'
   link: https://doi.org/hbg9bx
+  orcid: 0000-0002-2930-5997
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1139/apnm-2025-0271
+  title: The influence of maternal heritability on bone density, area, and microarchitecture
+    in active young-adult daughters
+  authors:
+  - Nicole M.J. Boisvert
+  - Lauren A. Burt
+  - Steven K. Boyd
+  - Patricia K. Doyle-Baker
+  publisher: Applied Physiology, Nutrition, and Metabolism
+  date: '2026-01-01'
+  link: https://doi.org/hbtf23
   orcid: 0000-0002-2930-5997
   plugin: orcid.py
   file: orcid.yaml
