@@ -1,7 +1,7 @@
 ---
 name: Lilli Sauer
 image: images/headshots/LilliSauer.png
-description: Honours Student, 2025
+description: Honours Student, 2025-2026
 role: undergrad
 affiliation: University of Calgary
 group: current
