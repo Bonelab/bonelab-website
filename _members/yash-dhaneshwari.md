@@ -11,7 +11,10 @@ aliases:
 links:
   email: yash.dhaneshwari@ucalgary.ca
 education: 
-  - "Bachelor of Science in Biomedical Engineering, University of Calgary"
+  - "BSc in Computer Science (ongoing), University of Calgary"
 ---
 
-To be determined...
+My project focuses on developing a machine learning model to detect vertebral fractures in CT scans using preprocessed 
+and manually graded data, transfer learning, and metrics based on performance.
+
+My interest in bones and joint health stems from my passion for anatomical sketching.

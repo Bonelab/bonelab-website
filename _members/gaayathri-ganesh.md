@@ -11,7 +11,9 @@ aliases:
 links:
   email: gaayathri.ganesh@ucalgary.ca
 education: 
-  - "Bachelor of Science in Biomedical Engineering, University of Calgary"
+  - "BEng in Biomedical Engineering (ongoing), University of Calgary"
 ---
 
-TBD...
+Gaayathri is a fifth year Biomedical Engineering student at the University of Calgary. She is investigating the effect of surgical reconstruction on long term bone health.
+
+Gaayathri’s interest in bone and joint health stems from her fascination with human anatomy, prosthetics, as well as medical imaging.
