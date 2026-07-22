@@ -13,8 +13,9 @@ links:
   orcid: 0009-0004-6658-2215
   linkedin: mathilde-lepileur-923a70198
 education: 
-  - "BSc in something or another, University of Somewhere, 2020"
-  - "PhD Candidate, Rheumatology and Immunology, Friedrich-Alexander-Universität Erlangen-Nürnberg and Uniklinikum Erlangen, Erlangen, Germany"
+  - "BSc in Cellular Biology and Animal Physiology, University of Nantes, France, 2021"
+  - "MSc in Physiology in Extreme Environments, Claude Bernard University Lyon 1, France, 2021"
+  - "PhD Candidate, Rheumatology and Immunology, Friedrich-Alexander-Universität Erlangen-Nürnberg and Uniklinikum Erlangen, Germany"
 ---
 
 Mathilde is a visiting PhD candidate from the Uniklinikum Erlangen, Germany. She studies the effect of unloading experienced in 
