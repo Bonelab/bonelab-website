@@ -1,5 +1,18 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1088/1873-4030/ae8dcd
+  title: Impact of Calibration Approach on Image Quality and Volumetric Bone Mineral
+    Density in Low-Dose Chest Computed Tomography
+  authors:
+  - Bryn E. Matheson
+  - Matthias Walle
+  - Steven K Boyd
+  publisher: Medical Engineering &amp; Physics
+  date: '2026-07-21'
+  link: https://doi.org/hcb8qd
+  orcid: 0000-0002-2930-5997
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.3390/app16125745
   title: Design of a Novel DXA Scanner with a CdTe Photon-Counting Timepix4 Detector
     for Peripheral Bone Densitometry
