@@ -1,5 +1,42 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.3390/app16125745
+  title: Design of a Novel DXA Scanner with a CdTe Photon-Counting Timepix4 Detector
+    for Peripheral Bone Densitometry
+  authors:
+  - Laura Antonia Cerbone
+  - "Jan \u017Demli\u010Dka"
+  - Benedikt Bergmann
+  - Petr Smolyanskiy
+  - "Petr M\xE1nek"
+  - Giovanni Mettivier
+  - Luigi Cimmino
+  - Youfang Lai
+  - Xun Jia
+  - Steven K. Boyd
+  - Paolo Russo
+  publisher: Applied Sciences
+  date: '2026-06-07'
+  link: https://doi.org/hb7pqm
+  orcid: 0000-0002-2930-5997
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/jbmr/zjaf179
+  title: "Bone microarchitecture declines in older men with impaired renal function\u2014\
+    the prospective STRAMBO study"
+  authors:
+  - Audrey Bobiller
+  - Danielle Whittier
+  - Laurence Dubourg
+  - Steven K Boyd
+  - Roland Chapurlat
+  - Pawel Szulc
+  publisher: Journal of Bone and Mineral Research
+  date: '2025-11-28'
+  link: https://doi.org/hbc37m
+  orcid: 0000-0002-2930-5997
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1093/jbmrpl/ziag053
   title: Effects of contrast on opportunistic computed tomography vertebral bone mineral
     density analysis using internal calibration
@@ -178,22 +215,6 @@
   publisher: Journal of Orthopaedic Research
   date: '2025-09-20'
   link: https://doi.org/g939k8
-  orcid: 0000-0002-2930-5997
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/jbmr/zjaf179
-  title: "Bone microarchitecture declines in older men with impaired renal function\u2014\
-    the prospective STRAMBO study"
-  authors:
-  - Audrey Bobiller
-  - Danielle Whittier
-  - Laurence Dubourg
-  - Steven K Boyd
-  - Roland Chapurlat
-  - Pawel Szulc
-  publisher: Journal of Bone and Mineral Research
-  date: '2025-11-28'
-  link: https://doi.org/hbc37m
   orcid: 0000-0002-2930-5997
   plugin: orcid.py
   file: orcid.yaml
