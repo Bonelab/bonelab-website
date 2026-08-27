@@ -1,8 +1,8 @@
 ---
 name: Lilli Sauer
 image: images/headshots/LilliSauer.png
-description: Honours Student, 2025-2026
-role: undergrad
+description: MSc Candidate – Biomedical Engineering
+role: msc
 affiliation: University of Calgary
 group: current
 aliases:
@@ -11,9 +11,11 @@ aliases:
 links:
   email: lillian.sauer@ucalgary.ca
 education:
-  - "BSc in Physics (ongoing), University of Calgary"
+  - "BSc in Physics, University of Calgary"
 ---
 
-Lilli's project focuses on developing a machine learning model to automatically detect vertebral fractures
-in CT scans. The model will be trained using preprocessed and manually graded data, optimized through 
-transfer learning, and evaluated using performance metrics.
+Lilli is a graduate student in the lab, starting in 2026. During her undergraduate training she did 
+an honours project focusing on developing a machine learning model to automatically detect vertebral fractures
+in CT scans. 
+
+As a graduate student her work is focusing on spectral imaging and quantification of bone mineral density.

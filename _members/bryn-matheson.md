@@ -1,10 +1,10 @@
 ---
 name: Bryn Matheson
 image: images/headshots/BrynMatheson.png
-description: PhD Candidate – Biomedical Engineering
+description: PhD – Biomedical Engineering, 2022 – 2026
 role: phd
 affiliation: University of Calgary
-group: current
+group: alumni
 aliases: 
   - B. Matheson
   - B Matheson
@@ -18,5 +18,6 @@ education:
 
 Bryn is a bioengineering and applied mathematics graduate from Washington State University whose 
 interest in bone and joint health began during her undergraduate research in tissue engineering.
-She currently works on the opportunistic and quantitative CT projects, with a special interest 
-in image calibration! 
+Her work was in the area of opportunistic and quantitative CT, with a special interest in image calibration.
+Her PhD dissertation is titled "Quantitative Bone Health Assessment Using Opportunistic CT".
+She currently works in the United States at a start-up company.

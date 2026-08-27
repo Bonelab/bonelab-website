@@ -5,9 +5,12 @@ description: MSc Candidate – Biomedical Engineering
 role: msc
 affiliation: University of Calgary
 group: current
-aliases: 
+aliases:
+  - S. Hasick
+  - S Hasick
 links:
-education:
+  email: sasha.hasick@ucalgary.ca
+  phone: 
   - "BMSc in Medical Biophysics, Western University, Ontario, Canada"
 ---
 
