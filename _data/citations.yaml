@@ -1,31 +1,14 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.64898/2026.07.22.26358681
-  title: Photon-counting computed tomography for phantom-less quantitative measures
-    of musculoskeletal tissues
-  authors:
-  - Steven K. Boyd
-  - Niklas A. Lackner
-  - Anna-Maria Liphardt
-  - Matthias S. May
-  - Georg Schett
-  - Michael Uder
-  - Klaus Engelke
-  publisher: openRxiv
-  date: '2026-07-23'
-  link: https://doi.org/hccs2z
-  orcid: 0000-0002-2930-5997
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1088/1873-4030/ae8dcd
-  title: Impact of calibration approach on image quality and volumetric bone mineral
-    density in low-dose chest computed tomography
+  title: Impact of Calibration Approach on Image Quality and Volumetric Bone Mineral
+    Density in Low-Dose Chest Computed Tomography
   authors:
-  - Bryn E Matheson
+  - Bryn E. Matheson
   - Matthias Walle
   - Steven K Boyd
   publisher: Medical Engineering &amp; Physics
-  date: '2026-07-01'
+  date: '2026-07-21'
   link: https://doi.org/hcb8qd
   orcid: 0000-0002-2930-5997
   plugin: orcid.py
@@ -756,24 +739,6 @@
   buttons:
   - type: altmetric
     link: https://nature.altmetric.com/details/130469176
-- id: doi:10.2139/ssrn.4045829
-  title: Denosumab Treatment is Associated with Decreased Cortical Porosity and Increased
-    Bone Density and Strength at the Proximal Humerus of Ovariectomized Cynomolgus
-    Monkeys
-  authors:
-  - Ifaz Haider
-  - Andrew Sawatsky
-  - Ying Zhu
-  - Rebecca Page
-  - Paul  J. Kostenuik
-  - Steven  K. Boyd
-  - W.  Brent Edwards
-  publisher: Elsevier BV
-  date: '2022-01-01'
-  link: https://doi.org/hcfwmn
-  orcid: 0000-0002-2930-5997
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1007/s00198-021-05896-5
   title: Using 3D image registration to maximize the reproducibility of longitudinal
     bone strength assessment by HR-pQCT and finite element analysis
