@@ -1,5 +1,72 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.64898/2026.07.22.26358681
+  title: Photon-counting computed tomography for phantom-less quantitative measures
+    of musculoskeletal tissues
+  authors:
+  - Steven K. Boyd
+  - Niklas A. Lackner
+  - Anna-Maria Liphardt
+  - Matthias S. May
+  - Georg Schett
+  - Michael Uder
+  - Klaus Engelke
+  publisher: openRxiv
+  date: '2026-07-23'
+  link: https://doi.org/hccs2z
+  orcid: 0000-0002-2930-5997
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/1873-4030/ae8dcd
+  title: Impact of calibration approach on image quality and volumetric bone mineral
+    density in low-dose chest computed tomography
+  authors:
+  - Bryn E Matheson
+  - Matthias Walle
+  - Steven K Boyd
+  publisher: Medical Engineering &amp; Physics
+  date: '2026-07-01'
+  link: https://doi.org/hcb8qd
+  orcid: 0000-0002-2930-5997
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/app16125745
+  title: Design of a Novel DXA Scanner with a CdTe Photon-Counting Timepix4 Detector
+    for Peripheral Bone Densitometry
+  authors:
+  - Laura Antonia Cerbone
+  - "Jan \u017Demli\u010Dka"
+  - Benedikt Bergmann
+  - Petr Smolyanskiy
+  - "Petr M\xE1nek"
+  - Giovanni Mettivier
+  - Luigi Cimmino
+  - Youfang Lai
+  - Xun Jia
+  - Steven K. Boyd
+  - Paolo Russo
+  publisher: Applied Sciences
+  date: '2026-06-07'
+  link: https://doi.org/hb7pqm
+  orcid: 0000-0002-2930-5997
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/jbmr/zjaf179
+  title: "Bone microarchitecture declines in older men with impaired renal function\u2014\
+    the prospective STRAMBO study"
+  authors:
+  - Audrey Bobiller
+  - Danielle Whittier
+  - Laurence Dubourg
+  - Steven K Boyd
+  - Roland Chapurlat
+  - Pawel Szulc
+  publisher: Journal of Bone and Mineral Research
+  date: '2025-11-28'
+  link: https://doi.org/hbc37m
+  orcid: 0000-0002-2930-5997
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1093/jbmrpl/ziag053
   title: Effects of contrast on opportunistic computed tomography vertebral bone mineral
     density analysis using internal calibration
@@ -178,22 +245,6 @@
   publisher: Journal of Orthopaedic Research
   date: '2025-09-20'
   link: https://doi.org/g939k8
-  orcid: 0000-0002-2930-5997
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/jbmr/zjaf179
-  title: "Bone microarchitecture declines in older men with impaired renal function\u2014\
-    the prospective STRAMBO study"
-  authors:
-  - Audrey Bobiller
-  - Danielle Whittier
-  - Laurence Dubourg
-  - Steven K Boyd
-  - Roland Chapurlat
-  - Pawel Szulc
-  publisher: Journal of Bone and Mineral Research
-  date: '2025-11-28'
-  link: https://doi.org/hbc37m
   orcid: 0000-0002-2930-5997
   plugin: orcid.py
   file: orcid.yaml
@@ -705,6 +756,24 @@
   buttons:
   - type: altmetric
     link: https://nature.altmetric.com/details/130469176
+- id: doi:10.2139/ssrn.4045829
+  title: Denosumab Treatment is Associated with Decreased Cortical Porosity and Increased
+    Bone Density and Strength at the Proximal Humerus of Ovariectomized Cynomolgus
+    Monkeys
+  authors:
+  - Ifaz Haider
+  - Andrew Sawatsky
+  - Ying Zhu
+  - Rebecca Page
+  - Paul  J. Kostenuik
+  - Steven  K. Boyd
+  - W.  Brent Edwards
+  publisher: Elsevier BV
+  date: '2022-01-01'
+  link: https://doi.org/hcfwmn
+  orcid: 0000-0002-2930-5997
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1007/s00198-021-05896-5
   title: Using 3D image registration to maximize the reproducibility of longitudinal
     bone strength assessment by HR-pQCT and finite element analysis
