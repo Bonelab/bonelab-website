@@ -20,4 +20,4 @@ and was co-supervised by Dr. Sarah Manske. She worked as a summer student at the
 
 Her MSc thesis was titled "Characterizing Bone Remodeling in Osteoarthritic Bone Marrow Lesions in Human Knees Using Tetracycline Histology"
 
-Focusing in osteology, she is headed to start a PhD at Memorial University.
+Focusing on osteology, she is headed to start a PhD at Memorial University.

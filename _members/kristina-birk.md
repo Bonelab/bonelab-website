@@ -9,4 +9,4 @@ aliases:
 links:
 ---
 
-Kristina was a Summer Student at the Bone Imaging Lab in 2011 from Queens University.
+Kristina was a Summer Student at the Bone Imaging Lab in 2011 from Queen’s University.

@@ -1,5 +1,5 @@
 ---
-name: Fabian  Stemmler
+name: Fabian Stemmler
 image: images/headshots/FabianStemmler.png
 description: Visiting Student, 2017
 role: visiting

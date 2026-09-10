@@ -19,4 +19,4 @@ Sebastian's interest in radiology and bone and joint health stems from his under
 studies in biomedical engineering, his research experience, as well as his passion for soccer and other sports.
 
 He worked in the Bone Imaging Laboratory after he graduated as a Research Assistant for a year. His graduate
-project is focused on how ACL injuries leads to a higher risk of osteoarthritis.
+project is focused on how ACL injuries lead to a higher risk of osteoarthritis.

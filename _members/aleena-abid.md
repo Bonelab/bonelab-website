@@ -11,6 +11,6 @@ links:
 ---
 
 I am a second-year electrical engineering student with a minor in biomedical engineering. 
-I am interested in gaining research experience and to combine my knowledge in electrical 
+I am interested in gaining research experience and combining my knowledge in electrical 
 and biomedical engineering fields. My research focuses on computing the localization error 
 for endosteal and periosteal surfaces.

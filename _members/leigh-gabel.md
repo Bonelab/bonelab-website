@@ -15,4 +15,4 @@ My doctoral research examined the influence of physical activity on bone microar
 density and strength in children and adolescents using high-resolution peripheral quantitative 
 computed tomography (HR-pQCT). I am currently using HR-pQCT to examine the effect of 
 long-duration spaceflight (and recovery after spaceflight) on bone microarchitecture and strength (TBone study).
-In 2021, Leigh started her position at Assistant Professor and the Faculty of Kinesiology, University of Calgary.
+In 2021, Leigh started her position as Assistant Professor in the Faculty of Kinesiology, University of Calgary.
