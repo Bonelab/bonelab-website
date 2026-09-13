@@ -1,5 +1,19 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.11005/jbm.25.989
+  title: "Alcohol Intake and Bone Microarchitecture Deterioration in Older Men: The\
+    \ Prospective Structure of Aging Men\u2019s Bones (STRAMBO) Study"
+  authors:
+  - Pawel Szulc
+  - Danielle E. Whittier
+  - Steven K. Boyd
+  - Roland Chapurlat
+  publisher: Journal of Bone Metabolism
+  date: '2026-08-31'
+  link: https://doi.org/hch2nb
+  orcid: 0000-0002-2930-5997
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.64898/2026.07.22.26358681
   title: Photon-counting computed tomography for phantom-less quantitative measures
     of musculoskeletal tissues
@@ -55,7 +69,7 @@
   title: "Bone microarchitecture declines in older men with impaired renal function\u2014\
     the prospective STRAMBO study"
   authors:
-  - Audrey Bobiller
+  - Audrey Bobillier
   - Danielle Whittier
   - Laurence Dubourg
   - Steven K Boyd
@@ -2516,14 +2530,14 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1080/10255842.2011.648625
-  title: "<i>In vivo</i>monitoring of bone\u2013implant bond strength by microCT and\
-    \ finite element modelling"
+  title: "<i>In vivo</i>\n                    monitoring of bone\u2013implant bond\
+    \ strength by microCT and finite element modelling"
   authors:
   - Vincent A. Stadelmann
   - Carl M. Conway
   - Steven K. Boyd
   publisher: Computer Methods in Biomechanics and Biomedical Engineering
-  date: '2013-09-01'
+  date: '2012-01-30'
   link: https://doi.org/fzmqrm
   orcid: 0000-0002-2930-5997
   plugin: sources.py
