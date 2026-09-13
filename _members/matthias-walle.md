@@ -24,4 +24,4 @@ bone health. Specifically, he aims to understand how mechanical stimuli contribu
 and to identify potential biomarkers that can be utilized to monitor adverse changes in bone structure 
 and strength caused by metabolic bone conditions, including Diabetes mellitus.
 
-Matthias' work at the Bone Imaging Lab explores how disease affects bone remodelling as well as microgravity from space flight.
+Matthias’ work at the Bone Imaging Lab explores how disease and microgravity during spaceflight affect bone remodelling.

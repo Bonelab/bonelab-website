@@ -18,7 +18,7 @@ scope:
 
 What is the contribution of a forearm DXA to an osteoporosis diagnosis?
 
-A dual X-ray absorptiometry (DXA) exam typically focuses on the bone mineral density (BMD) of the femoral neck and
+A dual-energy X-ray absorptiometry (DXA) exam typically focuses on the bone mineral density (BMD) of the femoral neck and
 the lumbar spine for a diagnosis of osteoporosis. Less frequently, a forearm DXA scan is performed and may contribute
 to the diagnosis. 
 
@@ -31,7 +31,7 @@ fracture risk.
 We would use both the 33% and ultradistal forearm DXA sites. The ultradistal corresponds to the HR-pQCT scan site roughly
 and the 33% site is what is used clinically.
 
-Some publications of recent are highly relevant to this project:
+Some recent publications are highly relevant to this project:
 
 - Burrell S, Desaulniers M, Jen H, Maguire C, Stilwell M, 2025. CAR Practice Guideline on Bone Mineral Densitometry Reporting: 2024 Update. Can Assoc Radiol J 76, 417-426. <a href="https://www.ncbi.nlm.nih.gov/pubmed/39797534" target="_blank">[Link to article]</a>
 - Leslie WD, Burrell S, Morin SN, 2025. Fracture Risk Assessment in the 2023 Osteoporosis Canada Guideline. Can Assoc Radiol J 76, 508-518. <a href="https://www.ncbi.nlm.nih.gov/pubmed/39797546" target="_blank">[Link to article]</a>

@@ -16,4 +16,4 @@ education:
 
 His project focused on developing a machine learning model to detect vertebral fractures in CT scans using preprocessed and manually graded data, transfer learning, and metrics based on performance.
 
-My interest in bones and joint health stems from my passion for anatomical sketching.
+His interest in bone and joint health stems from his passion for anatomical sketching.

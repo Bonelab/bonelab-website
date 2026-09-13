@@ -11,7 +11,7 @@ aliases:
 links:
   email: suzol.shazid@ucalgary.ca
 education: 
-  - "Undergraduate student majoring in Biological Science and a minor in Computer Science, University of Calgary"
+  - "Undergraduate student majoring in Biological Science with a minor in Computer Science, University of Calgary"
 ---
 
-Suzol's project was titled "Deep Learning for Automated Knee MRI Analysis" and was working with a PhD student in the lab.
+Suzol worked with a PhD student in the lab on a project titled "Deep Learning for Automated Knee MRI Analysis".

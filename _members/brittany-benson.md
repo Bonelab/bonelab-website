@@ -1,5 +1,5 @@
 ---
-name: Brittany  Benson
+name: Brittany Benson
 image: images/headshots/BrittanyBenson.png
 description: Undergraduate Honours Student, 2011
 role: undergrad

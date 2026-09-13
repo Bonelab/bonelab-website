@@ -9,7 +9,7 @@ aliases:
 links:
 ---
 
-Sid did an internship in the Bone Imaging Lab. He completed a Masters degree in the 
+Sid did an internship in the Bone Imaging Lab. He completed a Master’s degree in the 
 Electrical & Computer Engineering program at the University of Calgary with courses 
 mainly focused on software engineering and machine-learning. He is experienced at 
 software development and data science, and he is expanding his skills toward medical 

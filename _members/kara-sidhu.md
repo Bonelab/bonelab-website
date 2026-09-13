@@ -10,5 +10,5 @@ links:
   email: kksidhu@ucalgary.ca
 ---
 
-Kara’s research is focused on investigating bone health in children and adults diagnosed with rare 
-disease (e.g. hypophosphatasia, Gaucher disease), as well as, liver transplant patients using high-resolution bone imaging techniques and genetic sequencing.
+Kara’s research is focused on investigating bone health in children and adults diagnosed with rare
+diseases (e.g., hypophosphatasia and Gaucher disease), as well as liver transplant patients using high-resolution bone imaging techniques and genetic sequencing.

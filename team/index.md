@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-We are a multidisciplinary research team that include faculty, staff, and trainees who have academic backgrounds
+We are a multidisciplinary research team that includes faculty, staff, and trainees who have academic backgrounds
 in medicine, kinesiology, sciences, and engineering. We work with collaborators locally, nationally, and internationally.
 
 ## Current Members

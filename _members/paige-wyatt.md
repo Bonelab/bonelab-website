@@ -12,7 +12,7 @@ links:
 
 Paige is a registered dietitian with a passion for sports nutrition. 
 This interest led her to Calgary where she completed an MSc, linking her expertise 
-in nutrition to bone health through work with the Canadian Sports Institute. 
+in nutrition to bone health through work with the Canadian Sport Institute. 
 Paige’s research focuses on bone quality of elite athletes and its relationship with nutritional status.
 In 2022, Paige successfully completed her MSc, titled "Bone Quality of Elite Winter Endurance Athletes".
 Paige worked as a Performance Dietitian with the Canadian Sport Institute Calgary and is now at the

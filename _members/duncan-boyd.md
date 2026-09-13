@@ -1,7 +1,7 @@
 ---
 name: Duncan Boyd
 image: images/headshots/DuncanBoyd.png
-description: Highschool Summer Student, 2018
+description: High School Summer Student, 2018
 role: undergrad
 affiliation: University of Calgary
 group: alumni

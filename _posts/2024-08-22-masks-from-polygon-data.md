@@ -23,14 +23,13 @@ of CT data, including clinical CT and HR-pQCT. The result of the algorithm is a 
 dataset of the periosteal surface of the bone and scalars representing the local thickness
 (i.e., periosteal to endosteal) calculated by the algorithm. The calculation of cortical
 thickness can be summarized from the individual data points (i.e., means, standard deviations,
-localized measurements, etc). 
+localized measurements, etc.). 
 
 [https://github.com/Bonelab/Bonelab/blob/master/bonelab/cli/treece_thickness.py](https://github.com/Bonelab/Bonelab/blob/master/bonelab/cli/treece_thickness.py)
 
 However, the algorithm cannot produce an image mask. So the aim of this project is to develop 
 additional functionality that outputs a binarized image with voxels labelled as cortical bone (127), 
-trabecular bone (100), and background (0). The image will be the identical size to the input
-that is input. Likely it would be based on VTK stencil objects (similar to blRapidPrototype):
+trabecular bone (100), and background (0). The output image will have the same dimensions as the input image. Likely it would be based on VTK stencil objects (similar to blRapidPrototype):
 
 [https://github.com/Bonelab/Bonelab/blob/master/bonelab/cli/RapidPrototype.py](https://github.com/Bonelab/Bonelab/blob/master/bonelab/cli/RapidPrototype.py)
 

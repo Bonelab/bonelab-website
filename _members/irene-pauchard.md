@@ -12,7 +12,7 @@ links:
 
 Irene has been working as a medical Radiology Technologist since 1999 first in Switzerland 
 and then in Canada. She is interested in continuously enhancing her skills which has 
-lead her to work in several different environments, both clinical and non-clinical 
+led her to work in several different environments, both clinical and non-clinical 
 positions using multiple modalities. In her work, Irene most enjoys taking care of her 
-patients and wishes to make a difference in peoples lives. Irene is excited to apply 
+patients and wishes to make a difference in people’s lives. Irene is excited to apply 
 her skills in the joint mobility research environment.

@@ -1,7 +1,9 @@
 ---
-title: VitaminD
+title: Calgary Vitamin D Study
 ---
 # Calgary Vitamin D Study
+
+The completed Calgary Vitamin D Study compared daily doses of 400, 4000 and 10,000 IU over three years in healthy adults without osteoporosis. Higher doses did not improve estimated bone strength and were associated with lower volumetric bone density at specific skeletal sites compared with 400 IU. The study does not establish that all vitamin D supplementation is harmful.
 
 The Calgary Vitamin D study resulted in several original manuscripts, replies to letter writers about our manuscripts, and development of new techniques that
 were possible because of the study (but not directly related to vitamin D).

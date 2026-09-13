@@ -13,7 +13,7 @@ datasources:
 resources: 
   - "ML computer (GROOT!)"
 scope: 
-  - "MSc: 2-year master project"
+  - "MSc: 2-year master's project"
   - "Summer student: extracted sub-projects"
   - "Includes grading, model development, identifying spine diseases in scans, running inference on dataset, statistics"
 ---
@@ -26,5 +26,5 @@ This model could either identify the presence of fractures OR identify the fract
 the fracture a grade based on Genant classification. Once the ML model is developed, it could 
 be used on RETRO2 to create associations with fracture risk and individuals with various spinal 
 conditions (Schmorl’s Nodes, Ankylosing Spondylitis, Diffuse Idiopathic Skeletal Hyperostosis, etc.). 
-Or could be integrated into the entire opportunistic CT pipeline, since clinicians would be 
+Alternatively, it could be integrated into the entire opportunistic CT pipeline, since clinicians would be 
 interested in finding ways to identify fractures opportunistically.

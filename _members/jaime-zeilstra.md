@@ -16,5 +16,5 @@ education:
 ---
 
 Jaime completed her Medical Radiologic Technology training at SAIT and has a background in sports psychology. 
-She is currently specializing in X-ray, DXA, CT, and pQCT imaging. She is looking forward to develop her 
+She is currently specializing in X-ray, DXA, CT, and pQCT imaging. She is looking forward to developing her 
 expertise in cross-sectional imaging and bone health research while pursuing her career in a research setting.

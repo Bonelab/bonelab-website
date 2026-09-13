@@ -1,7 +1,7 @@
 ---
 name: Mateo Rueda Montes
 image: images/headshots/MateoRueda.png
-description: Summer Student, 2022, 2025 & 2025
+description: Summer Student, 2022, 2024 & 2025
 role: undergrad
 affiliation: University of Calgary
 group: alumni

@@ -10,7 +10,7 @@ aliases:
   - C Stiles
 links:
   home-page: https://uwaterloo.ca/tmmi
-  orcid: 0000-0001-8713-9213
+
 education: 
   - "BSc Honors Kinesiology, Medical Physiology Minor, Rehabilitation Sciences Specialization - University of Waterloo, 2023"
 ---
@@ -18,7 +18,7 @@ education:
 Chloe was a visiting graduate student with the University of Waterloo and was co-supervised by former 
 postdoctoral fellow, Dr. Nikolas Knowles. Her research was focused on estimating bone 
 stiffness in the proximal humerus in patients who have undergone stemless shoulder arthroplasty 
-for end-stage osteoarthritis. After her Masters, she has started a PhD at the University of Alberta.
+for end-stage osteoarthritis. After completing her master’s degree, she started a PhD at the University of Alberta.
 
 Outside of academics, Chloe loves to travel and has lived in 4 countries. She is a lifelong 
 ballet dancer, baked goods connoisseur, and board game enthusiast.

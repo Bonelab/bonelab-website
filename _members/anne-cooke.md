@@ -17,7 +17,7 @@ education:
 affiliations:
 ---
 
-Anne supported research by providing imaging services, which included caring and maintaining our equipment, 
+Anne supported research by providing imaging services, which included caring for and maintaining our equipment, 
 developing imaging protocols and procedures, collecting data by scanning study participants, 
 performing analysis and overseeing Occupational Health & Safety (OH&S) requirements for the lab. 
 Anne worked on projects that required her to travel to NASA's Johnson Space Center regularly.

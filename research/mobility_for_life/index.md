@@ -1,5 +1,5 @@
 ---
-title: Open Science
+title: Mobility for Life
 ---
 # Mobility for Life Project
 

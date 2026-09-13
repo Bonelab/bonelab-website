@@ -16,18 +16,16 @@
   flip=true
 %}
 
-The Bone Imaging Laboratory was established in 2004 at the University of Calgary by Dr. Steven Boyd, PhD, PEng. 
-It is focused on using advanced imaging and computational methods for understanding the role of bone in joint injuries and disease.
-Our goal is to prevent, diagnose and develop interventions to maximize bone health across the lifespan.
+At the University of Calgary, the Bone Imaging Laboratory studies how bone structure and strength change with ageing, injury and altered loading. We combine high-resolution medical imaging, computational biomechanics and machine learning to measure skeletal change and develop tools for fracture-risk assessment.
 
-We collect novel image data that often involves multiple imaging modalities and develop novel computational approaches to analyse those data.
-We publish our findings related to osteoporosis, osteoarthritis, high performance athletes, the effects of vitamin D, how bones are altered 
-by space flight, and more.
+Our research spans microarchitecture-based fracture prediction, quantitative analysis of clinical CT, and bone and joint changes after knee injury. We also share analysis methods and benchmark resources so that others can test and build on our work.
+
+Our long-term goal is to improve the assessment of bone and joint health and inform strategies that preserve mobility.
 
 {% 
   include button.html 
   type="link"
-  text="Click here to be a research subject"
+  text="Participate in research"
   icon="fa-solid fa-arrow-right fa-beat"
   link="research/mobility_for_life"
   tooltip="Information about the application process"
@@ -40,8 +38,7 @@ by space flight, and more.
 
 {% capture text %}
 
-Our research uses advanced medical imaging and computational methods to study bone fragility and treatments in osteoporosis 
-and how to prevent osteoarthritis after suffering a joint injury.
+From bone microarchitecture to estimated strength and fracture risk, we develop and evaluate imaging-based measures of skeletal health. Our studies follow bone change in populations and after knee injury, while our computational work makes these measurements more quantitative and reproducible.
 
 {%
   include button.html
@@ -64,9 +61,7 @@ and how to prevent osteoarthritis after suffering a joint injury.
 
 {% capture text %}
 
-Our research includes developing methods for fragility fracture risk, how bones change in astronauts, the effects of 
-vitamin D, what happens to a knee joint after a tear of the ACL, using machine learning for assessing bone quality in
-opportunistic CT, and much more.
+Explore microarchitecture-based fracture-risk assessment, opportunistic CT, knee-injury imaging, and bone adaptation during spaceflight—alongside the methods and shared resources that support these studies.
 
 {%
   include button.html

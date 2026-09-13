@@ -9,4 +9,4 @@ aliases:
 links:
 ---
 
-Isabelle was a Visiting Faculty at the Bone Imaging Lab in 2013 from the Polytechnique Montréal.
+Isabelle was a Visiting Faculty Member at the Bone Imaging Lab in 2013 from the Polytechnique Montréal.

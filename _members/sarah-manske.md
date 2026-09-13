@@ -8,7 +8,7 @@ group: alumni
 aliases: 
 links:
   home-page: https://manskelab.github.io
-  email: skboyd@ucalgary.ca
+  email: smanske@ucalgary.ca
   github: ManskeLab
 
 ---
@@ -16,4 +16,4 @@ links:
 Sarah's PhD was titled: Muscle disuse and vibration effects on bone morphology.
 
 She is now a faculty member in the Department of Radiology at the University of Calgary
-and my colleague at the McCaig Institute.
+and a colleague of Dr. Steven Boyd at the McCaig Institute.

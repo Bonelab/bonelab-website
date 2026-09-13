@@ -9,4 +9,4 @@ aliases:
 links:
 ---
 
-Nicole was a Summer Student at the Bone Imaging Lab in 2019 from Queens University.
+Nicole was a Summer Student at the Bone Imaging Lab in 2019 from Queen’s University.
