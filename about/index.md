@@ -59,7 +59,7 @@ supplementation on bone health.
 {% include section.html %}
 
 ## Our Mission
-To advance the detection, treatment and management of bone and joint health through 
+To advance the detection and treatment of bone and joint disease and the promotion of musculoskeletal health through 
 medical imaging and medical image analysis. We aim to embrace inclusivity in 
 research by realizing the core values of respect, integrity, teamwork and excellence. We strive 
 to create an environment that is welcoming, culturally sensitive and responsive to the diverse 
@@ -88,7 +88,7 @@ We have a vibrant training environment in the Bone Imaging Lab that includes tra
 levels, from undergraduate, to graduate (MSc, PhD) and post-doctoral fellows.
 
 We receive many queries about joining the lab and we try to respond to them all. To
-increase the odds of having a favourable reply, it is encouraged to follow the guidance below.
+increase the odds of having a favourable reply, please follow the guidance below.
 
 Success at being accepted for a research position is partly about good timing and partly about your qualifications.
 Although a strong CV obviously helps, there are several factors that influence the decision. 
@@ -113,7 +113,7 @@ Applications are accepted at any time.
 
 Graduate students in the Bone Imaging Lab have undergraduate degrees in engineering (all types), kinesiology, or 
 other science degrees. They typically enter the 
-<a href="https://schulich.ucalgary.ca/biomedical/programs/graduate" target="_blank">Biomedical Engineering Graduate Program</a> program, 
+<a href="https://schulich.ucalgary.ca/biomedical/programs/graduate" target="_blank">Biomedical Engineering Graduate Program</a>, 
 but sometimes also the <a href="https://kinesiology.ucalgary.ca/current-students/graduates/doctor-philosophy" target="_blank">Faculty of Kinesiology</a> 
 and other departments at the <a href="https://schulich.ucalgary.ca" target="_blank">Schulich School of Engineering</a>.
 

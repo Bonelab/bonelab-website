@@ -130,8 +130,7 @@ Lab hikes, events, activities and more...
 
 {% capture col2 %}
 Using machine learning, we can extract the skeleton from CT scans. In this animation
-each frame represents a different person. There were 1000 people automatically segmented
-included in this animation.
+each frame represents a different person. This animation includes automatically segmented skeletons from 1,000 people.
 {% endcapture %}
 
 {%
@@ -150,7 +149,7 @@ included in this animation.
 
 {% capture col2 %}
 Starting with a CT scan, we can create projections that look like an X-ray. If we rotate the projections and 
-stitch them together we can an animation as you see here. It is based on 360 views.
+stitch them together we can create an animation as you see here. It is based on 360 views.
 {% endcapture %}
 
 {%
@@ -174,7 +173,7 @@ stitch them together we can an animation as you see here. It is based on 360 vie
 {% capture col2 %}
 We are working on a project to extract the cortical and trabecular bone in the knee (tibia shown)
 using machine learning on data collected using high-resolution peripheral quantitative computed tomography (top).
-Once defined, an atlas-based registration is used to define the three regions of interests in each compartment (bottom).
+Once defined, an atlas-based registration is used to define the three regions of interest in each compartment (bottom).
 {% endcapture %}
 
 {%

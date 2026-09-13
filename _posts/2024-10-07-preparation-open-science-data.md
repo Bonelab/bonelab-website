@@ -22,8 +22,7 @@ Taking the leap to making large datasets available for Open Science...
 
 This project is aimed at supporting the concepts of Open Science. We have accrued numerous
 datasets in the Bone Imaging Laboratory that would be valuable to the general scientific 
-community. Although the process of making data available via Open Science, there are several
-challenges that need to be resolved. This include aspects such as (a) ensuring anonymity of the
+community. Making data available through open science presents several challenges that need to be resolved. These include aspects such as (a) ensuring anonymity of the
 data, (b) consent to share the data, (c) establishing a place to share the data (i.e., Zenodo),
 (d) formatting the data and meta-data such that it follows a standard (i.e., BIDS) by implementing
 new MIDS (linked at https://www.ormir.org), (e) setting up permissions for sharing, (f) instructions

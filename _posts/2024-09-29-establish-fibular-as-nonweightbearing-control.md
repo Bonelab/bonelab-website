@@ -8,7 +8,7 @@ tags:
 datasources: 
   - "TBONE"
 resources: 
-  - "IPL scipts"
+  - "IPL scripts"
 scope: 
   - "PhD/MSc side project"
   - "Summer student"

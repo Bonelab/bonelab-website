@@ -24,7 +24,7 @@ knee injury involving a tear to their anterior cruciate ligament. We are now app
 6-year time point of the study and have an assortment of image (and other) data that has been 
 tracking their knee health. 
 
-We know that in post-traumatic injury of the knee often leads to knee osteoarthritis development, 
+Knee injury often leads to the development of post-traumatic osteoarthritis, 
 even if reconstruction surgery is performed. The etiology seems to eventually lead to a thickening 
 of the subchondral bone plate, but this is typically shown in animal models, not humans.
 

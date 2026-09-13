@@ -88,7 +88,7 @@ Please find some useful links related to the Bone Imaging Laboratory and our You
 {% include section.html %}
 
 ## {% include icon.html icon="fa-brands fa-youtube" %} YouTube
-We have created a number of videos for learning how to use our software and learning about the reserach we do.
+We have created a number of videos for learning how to use our software and learning about the research we do.
 
 ## Bonelab Git Repository
 Learn how to download, install and contribute to our [BoneLab](https://github.com/Bonelab/Bonelab) Git repository through a series of YouTube videos prepared by [Dr. Bryce Besler](_members/bryce-besler.md). This repository includes tools for visualization, image processing, and example scripts in Python and R. 
@@ -104,7 +104,7 @@ Learn how to download, install and contribute to our [BoneLab](https://github.co
 {% include figure.html width="100%" caption="Part 8: zsh fix" image="https://www.youtube.com/embed/S0Jt4KE0OL0" %}
 {% include figure.html width="100%" caption="Part 9: Clone & Install" image="https://www.youtube.com/embed/s7Us47c-BW4" %}
 {% include figure.html width="100%" caption="Part 10: Example Data" image="https://www.youtube.com/embed/Z2TTk4LjXAA" %}
-{% include figure.html width="100%" caption="Part 1: Closing" image="https://www.youtube.com/embed/okf6bCD6KpA" %}
+{% include figure.html width="100%" caption="Part 11: Closing" image="https://www.youtube.com/embed/okf6bCD6KpA" %}
 {% endcapture %}
 
 {%
@@ -147,7 +147,7 @@ A collection of presentations that members of the lab have produced so that we c
 {% include figure.html width="100%" image="https://www.youtube.com/embed/ikvWMi3W8Dc" caption="High-dose Vitamin D Supplementation Affects Bone Density Differently in Females than Males" %}
 {% include figure.html width="100%" image="https://www.youtube.com/embed/tT3dz4VrwfE" caption="MicroCT Image Tours" %}
 {% include figure.html width="100%" image="https://www.youtube.com/embed/_s-WcBOJWMw" caption="Postdoc Research Slam - Leigh Gabel" %}
-{% include figure.html width="100%" image="https://www.youtube.com/embed/CY0ymsnkcp8" caption="An investigation into predictive fracture modelling using machine.  PhD Candidate Danielle Whittier" %}
+{% include figure.html width="100%" image="https://www.youtube.com/embed/CY0ymsnkcp8" caption="An investigation into predictive fracture modelling using machine learning.  PhD Candidate Danielle Whittier" %}
 {% endcapture %}
 
 {%

@@ -10,7 +10,7 @@ aliases:
   - C Stiles
 links:
   home-page: https://uwaterloo.ca/tmmi
-  orcid: 0000-0001-8713-9213
+
 education: 
   - "BSc Honors Kinesiology, Medical Physiology Minor, Rehabilitation Sciences Specialization - University of Waterloo, 2023"
 ---

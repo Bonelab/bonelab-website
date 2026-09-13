@@ -12,14 +12,14 @@
   group: studies
   image: images/projects/SALTAC.png
   link: https://github.com/Bonelab/HR-pQCT-Segmentation
-  description: "**SALTAC II** We know that knee injuries affect all the tissues in the joint, so this study explores the role bone plays in the potential developemnt of osteoarthritis."
+  description: "**SALTAC II** We know that knee injuries affect all the tissues in the joint, so this study explores the role bone plays in the potential development of osteoarthritis."
 
 - title: Opportunistic CT
   subtitle: Hip and Spine BMD
   group: studies
   image: images/projects/Opportunistic.png
   link: https://github.com/Bonelab/Ogo
-  description: "**RETRO** CT scans are done in the healthcare system for many reasons, so we do opportunistic CT to reuse them to determine their bone health."
+  description: "**RETRO** CT scans are done in the healthcare system for many reasons, so we do opportunistic CT to reuse them to assess patients’ bone health."
 
 - title: Astronauts
   subtitle: Bone Microarchitecture in Space
@@ -121,7 +121,7 @@
   group: software
   image: images/projects/Treece.png
   link: https://github.com/Bonelab/Bonelab/blob/master/bonelab/cli/treece_thickness.py
-  description: Building on the method devised by Graham Treece, it a model-based approach to extracting cortical thickness and the periosteal surface for HR-pQCT and CT.
+  description: Building on the method devised by Graham Treece, it is a model-based approach to extracting cortical thickness and the periosteal surface for HR-pQCT and CT.
 
 # Extra
 

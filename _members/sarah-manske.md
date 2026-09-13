@@ -8,7 +8,7 @@ group: alumni
 aliases: 
 links:
   home-page: https://manskelab.github.io
-  email: skboyd@ucalgary.ca
+  email: smanske@ucalgary.ca
   github: ManskeLab
 
 ---

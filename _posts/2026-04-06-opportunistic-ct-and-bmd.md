@@ -25,9 +25,9 @@ in the longitudinal study. That may be possible to build from retrospective data
 prospective), but will be difficult. In the interim we can use finite element estimated strength
 as a reference.
 
-The estimation of strength can be performed at L1 (and rest of spine) and proximate femur on 
-a large cohort. Then in the same cohort we could explore which meausurement of BMD is most
-closely linked. BMD might be measured on a number of ways: (1) the trabecular region only in
+The estimation of strength can be performed at L1 (and rest of spine) and proximal femur on 
+a large cohort. Then in the same cohort we could explore which measurement of BMD is most
+closely linked. BMD might be measured in a number of ways: (1) the trabecular region only in
 an ellipsoid (traditional method), (2) the entire trabecular region 3mm from the cortical margin, 
 (3) the entire vertebral body, or (4) the body and processes. While this cannot still be associated
 with a fracture outcome (i.e., build a CT-based T-score), it will inform us of which measure of 

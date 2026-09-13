@@ -59,7 +59,7 @@ This model will automatically segment the proximal tibia and distal femur of the
 
 {%
   include tags.html
-  tags="Published Manuscript"
+  tags="Preprint"
   link="https://www.medrxiv.org/content/10.1101/2024.05.20.24307643v1"
 %}
 
@@ -129,7 +129,7 @@ This model extracts bone marrow lesions (BMLs) from knee MRI scans.
 {% endcapture %}
 
 {% capture col2 %}
-A pipeline that extracts vertebra, calibrates the CT for performing linear and non-linear FEA.
+A pipeline that extracts vertebrae and calibrates CT data for linear and nonlinear finite element analysis (FEA).
 
 {%
   include tags.html
