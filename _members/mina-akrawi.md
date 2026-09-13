@@ -4,7 +4,7 @@ image: images/headshots/MinaAkrawi.png
 description: Medical Radiation Technologist
 role: staff
 affiliation: University of Calgary
-group: current
+group: alumni
 aliases:
   - M. Akrawi
   - M Akrawi
