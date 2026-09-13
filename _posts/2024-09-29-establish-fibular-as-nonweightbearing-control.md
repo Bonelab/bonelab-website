@@ -21,10 +21,7 @@ surrogates for non-weight bearing and weight-bearing mechanical loading, respect
 a complicating factor of the radius is that it is also a site that is prone to motion artifact
 during HR-pQCT acquisition. There is research showing that the fibula is not carrying very much
 weight relative to the tibia, and since it is scanned in the same FOV as the tibia, it is
-subject to exactly the same motion artifacts. Therefore, to determine whether a mechanical 
-stimulus, such as microgravity induced bone loss in space flight, it would be possible to 
-confirm this difference more clearly because it removes the confounding effect of the motion 
-differences between tibia and radius. 
+subject to exactly the same motion artifacts. Comparing changes in the tibia and fibula during spaceflight could help distinguish their responses to mechanical unloading, while reducing the confounding effect of differences in motion artefacts between the separately scanned tibia and radius. 
 
 It would require going back to the original ISQ files from the TBONE study and extracting the 
 fibula from each scan. This would involve a simple modification to the IPL script that gets the

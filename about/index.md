@@ -111,7 +111,7 @@ Applications are accepted at any time.
 
 ### Graduate students
 
-Graduate students in the Bone Imaging Lab have undergraduate degrees in engineering (all types), kinesiology, or 
+Graduate students in the Bone Imaging Lab have undergraduate degrees in engineering (all types), physics, kinesiology, or 
 other sciences. They typically enter the 
 <a href="https://schulich.ucalgary.ca/biomedical/programs/graduate" target="_blank">Biomedical Engineering Graduate Program</a>, 
 but sometimes also the <a href="https://kinesiology.ucalgary.ca/current-students/graduates/doctor-philosophy" target="_blank">Faculty of Kinesiology</a> 
