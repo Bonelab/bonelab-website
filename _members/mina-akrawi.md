@@ -12,7 +12,7 @@ links:
   email: mina.akrawi@ucalgary.ca
   phone: 403.220.3188
 education:
-  - "Bachelor of Medical Radiation Technologist. Specialization; radiography (McMaster University)"
+  - "Bachelor of Medical Radiation Technologist. Specialization: radiography (McMaster University)"
 ---
 
 Mina is a Medical Radiation Technologist specializing in X-ray, DXA, CT, and pQCT imaging. 

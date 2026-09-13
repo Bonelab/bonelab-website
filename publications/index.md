@@ -7,9 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Publications
 
-We publish our work in a wide variety of journals on many different topics, ranging from 
-basic computational approaches to large longitudinal clinical studies. The list below is
-automatically generated and hopefully fairly accurate.
+Our publications span computational methods, medical imaging and longitudinal clinical studies. The list below is updated automatically.
 
 {% include section.html %}
 

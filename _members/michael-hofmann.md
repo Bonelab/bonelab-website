@@ -9,4 +9,4 @@ aliases:
 links:
 ---
 
-Michael was a Visiting Masters Student at the Bone Imaging Lab in 2006-2007 from the ETH Zürich (Switzerland).
+Michael was a Visiting Master’s Student at the Bone Imaging Lab in 2006-2007 from the ETH Zürich (Switzerland).

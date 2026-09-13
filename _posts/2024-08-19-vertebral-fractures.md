@@ -13,7 +13,7 @@ datasources:
 resources: 
   - "ML computer (GROOT!)"
 scope: 
-  - "MSc: 2-year master project"
+  - "MSc: 2-year master's project"
   - "Summer student: extracted sub-projects"
   - "Includes grading, model development, identifying spine diseases in scans, running inference on dataset, statistics"
 ---

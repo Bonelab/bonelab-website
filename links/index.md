@@ -91,7 +91,7 @@ Please find some useful links related to the Bone Imaging Laboratory and our You
 We have created a number of videos for learning how to use our software and learning about the research we do.
 
 ## Bonelab Git Repository
-Learn how to download, install and contribute to our [BoneLab](https://github.com/Bonelab/Bonelab) Git repository through a series of YouTube videos prepared by [Dr. Bryce Besler](_members/bryce-besler.md). This repository includes tools for visualization, image processing, and example scripts in Python and R. 
+Learn how to download, install and contribute to our [BoneLab](https://github.com/Bonelab/Bonelab) Git repository through a series of YouTube videos prepared by [Dr. Bryce Besler]({% link _members/bryce-besler.md %}). This repository includes tools for visualization, image processing, and example scripts in Python and R. 
 
 {% capture bryce %}
 {% include figure.html width="100%" caption="Part 1: Welcome" image="https://www.youtube.com/embed/4HBwhlR5p-0" %}

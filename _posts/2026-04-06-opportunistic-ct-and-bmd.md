@@ -25,7 +25,7 @@ in the longitudinal study. That may be possible to build from retrospective data
 prospective), but will be difficult. In the interim we can use finite element estimated strength
 as a reference.
 
-The estimation of strength can be performed at L1 (and rest of spine) and proximal femur on 
+The estimation of strength can be performed at L1 (and the rest of the spine) and the proximal femur on 
 a large cohort. Then in the same cohort we could explore which measurement of BMD is most
 closely linked. BMD might be measured in a number of ways: (1) the trabecular region only in
 an ellipsoid (traditional method), (2) the entire trabecular region 3mm from the cortical margin, 

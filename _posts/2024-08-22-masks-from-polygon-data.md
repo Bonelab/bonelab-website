@@ -23,7 +23,7 @@ of CT data, including clinical CT and HR-pQCT. The result of the algorithm is a 
 dataset of the periosteal surface of the bone and scalars representing the local thickness
 (i.e., periosteal to endosteal) calculated by the algorithm. The calculation of cortical
 thickness can be summarized from the individual data points (i.e., means, standard deviations,
-localized measurements, etc). 
+localized measurements, etc.). 
 
 [https://github.com/Bonelab/Bonelab/blob/master/bonelab/cli/treece_thickness.py](https://github.com/Bonelab/Bonelab/blob/master/bonelab/cli/treece_thickness.py)
 

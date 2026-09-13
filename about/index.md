@@ -101,7 +101,7 @@ have your own funding, please contact us at the email at the bottom of this page
 in applying for funding, some common sources are <a href="https://cihr-irsc.gc.ca/e/193.html" target="_blank">CIHR</a>, 
 <a href="https://www.nserc-crsng.gc.ca/index_eng.asp" target="_blank">NSERC</a>, and <a href="https://albertainnovates.ca" target="_blank">AIHS</a>.
 
-When contacting by email, please include the following:
+When contacting us by email, please include the following:
 
 - Cover letter (~1 page).
 - Resume/CV providing an overview of your academic background, awards, and summary of research outputs.
@@ -112,7 +112,7 @@ Applications are accepted at any time.
 ### Graduate students
 
 Graduate students in the Bone Imaging Lab have undergraduate degrees in engineering (all types), kinesiology, or 
-other science degrees. They typically enter the 
+other sciences. They typically enter the 
 <a href="https://schulich.ucalgary.ca/biomedical/programs/graduate" target="_blank">Biomedical Engineering Graduate Program</a>, 
 but sometimes also the <a href="https://kinesiology.ucalgary.ca/current-students/graduates/doctor-philosophy" target="_blank">Faculty of Kinesiology</a> 
 and other departments at the <a href="https://schulich.ucalgary.ca" target="_blank">Schulich School of Engineering</a>.
@@ -124,7 +124,7 @@ In your query, please include the following:
 - Resume/CV providing an overview of your academic background, awards, and summary of research outputs (if any).
 - Transcripts (unofficial are fine).
 
-Applications are considered 4-6 months ahead of start of program (September, January or May).
+Applications are considered 4-6 months ahead of the start of the program (September, January or May).
 
 ### Undergraduate students
 

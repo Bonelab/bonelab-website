@@ -9,4 +9,4 @@ aliases:
 links:
 ---
 
-Etienne was a Visiting Masters Student at the Bone Imaging Lab in 2006 from the ETH Zürich, Switzerland.
+Etienne was a Visiting Master’s Student at the Bone Imaging Lab in 2006 from the ETH Zürich, Switzerland.

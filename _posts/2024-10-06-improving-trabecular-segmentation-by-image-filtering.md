@@ -22,7 +22,7 @@ as part of our normal protocol now, the size of the knee seems to lead to some b
 issues at the centre. This is manifested as a slight darkening of the trabecular structure. There
 is work by the UCSF group (Kazakia, Burghardt) that has shown the so-called Laplace-Hamming
 filter provided by Scanco Medical IPL seems to perform better than the standard Gaussian filtering.
-Other methods such as Otsu's method, adaptive filtering, etc, are also options.
+Other methods such as Otsu's method, adaptive filtering, etc., are also options.
 
 The goal of this project is to compare filtering methods on the ability to extract bone 
 microarchitecture. We would want to determine how these affect measures such as TbTh and TbSp, 

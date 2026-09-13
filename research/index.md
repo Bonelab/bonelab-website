@@ -34,7 +34,7 @@ We use high-resolution imaging to study how bone microarchitecture and estimated
 
 ### Quantitative imaging from clinical CT
 
-We develop calibration and automated analysis methods to extract bone density and model-based strength estimates from CT scans acquired for other clinical reasons. We test how acquisition protocols, contrast enhancement and modelling choices affect the measurements, and apply these methods in clinical research.
+We develop calibration and automated analysis methods to extract bone density and model-based strength estimates from CT scans acquired for other clinical reasons. We test how acquisition protocols, contrast enhancement and modelling choices affect the measurements, and apply these methods in clinical research. We are also exploring photon-counting CT and spectral imaging in general for bone and joint imaging, with an emphasis on quantitative assessment of bone health.
 
 ### Bone and joint changes after knee injury
 

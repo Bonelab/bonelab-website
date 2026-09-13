@@ -15,7 +15,7 @@ education:
   - "BSc - Natural Science, University of Calgary, 2011"
 ---
 
-I am a Clinical Research Coordinator with areas of expertise including regulatory compliance, 
+Kat is a Clinical Research Coordinator with areas of expertise including regulatory compliance, 
 human subject recruitment/retention, and data management/analysis in web-based proprietary 
 databases. Research interests include KT and observational research. When she is not in the 
 lab she is either on her bike, or on a solo travel adventure.

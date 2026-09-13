@@ -19,7 +19,7 @@ scope:
 Exploring the relationship between BMD and bone strength: can microarchitecture break the link?
 
 
-There is a strong relationship between bone mineral density (BMD) and bone strength, however
+There is a strong relationship between bone mineral density (BMD) and bone strength; however,
 that relationship breaks down when bone microarchitecture is affected. It is difficult to know
 the relative contributions of BMD and bone microarchitecture to estimated bone strength. But, with our
 TBONE project we have a unique opportunity to find a relationship between BMD and strength
