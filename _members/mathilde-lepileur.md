@@ -4,7 +4,7 @@ image: images/headshots/MathildeLepileur.png
 description: Visiting PhD Student, 2026
 role: visiting
 affiliation: Universitätsklinikum Erlangen, Germany
-group: current
+group: alumni
 aliases:
   - M. Lepileur
   - M Lepileur

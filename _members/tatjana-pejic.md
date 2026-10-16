@@ -15,7 +15,7 @@ education:
   - "MSc in Biomedical Engineering, University of Calgary, 2026"
 ---
 
-Tatjana is a MSc graduate in Biomedical Engineering from the University of Calgary.
+Tatjana is an MSc graduate in Biomedical Engineering from the University of Calgary.
 Continuing her involvement with the McCaig Institute for Bone and Joint Health, 
 she is a Research Assistant in the Bone Imaging Lab, supporting clinical research 
 coordination and study operations across musculoskeletal projects.
