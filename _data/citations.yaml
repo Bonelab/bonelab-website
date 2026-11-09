@@ -1,5 +1,20 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1093/jbmr/zjag158
+  title: Opportunistic Osteoporosis Screening Using CT-Derived Volumetric Bone Mineral
+    Density Reference Curves
+  authors:
+  - Bryn E Matheson
+  - Matthias Walle
+  - Lauren A Burt
+  - Carrie Ye
+  - Steven K Boyd
+  publisher: Journal of Bone and Mineral Research
+  date: '2026-11-08'
+  link: https://doi.org/hcrwdd
+  orcid: 0000-0002-2930-5997
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.11005/jbm.25.989
   title: "Alcohol Intake and Bone Microarchitecture Deterioration in Older Men: The\
     \ Prospective Structure of Aging Men\u2019s Bones (STRAMBO) Study"
