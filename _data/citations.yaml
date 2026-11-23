@@ -1,5 +1,30 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1093/jbmr/zjag167
+  title: Bone Phenotype by HR-pQCT Relates to Risk of Skeletal Complications After
+    Spinal Fusion Surgery
+  authors:
+  - Alexander S Dash
+  - Madeleine Wood
+  - Anna Jepson
+  - Han Jo Kim
+  - Matthew E Cunningham
+  - Francis Lovecchio
+  - Kyle W Morse
+  - John A Carrino
+  - Steven K Boyd
+  - Danielle E Whittier
+  - Annabel R Bugbird
+  - Richard S Bockman
+  - Donald J McMahon
+  - Jeri W Nieves
+  - Emily M Stein
+  publisher: Journal of Bone and Mineral Research
+  date: '2026-11-18'
+  link: https://doi.org/hctp3t
+  orcid: 0000-0002-2930-5997
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1093/jbmr/zjag158
   title: Opportunistic Osteoporosis Screening Using CT-Derived Volumetric Bone Mineral
     Density Reference Curves
